@@ -263,10 +263,14 @@ function go(){
   if(ST.na) NAL.forEach((na,i)=>{
     if(ST.mu!=='all'&&na.municipality!==ST.mu)return;
     if(na.year_online>(yr==='all'?9999:parseInt(yr)))return;
-    L.circleMarker([na.lat,na.lon],{radius:16,fillColor:'#35abbd',color:'#fff',weight:2,fillOpacity:.88})
-      .bindPopup(mkNAPop(na),{maxWidth:280,autoPan:false})
-      .on('click',()=>{ openNA(i); map.flyTo([na.lat,na.lon],14,{duration:1.2,easeLinearity:0.15}); })
-      .addTo(NL);
+    const mna=L.circleMarker([na.lat,na.lon],{radius:16,fillColor:'#35abbd',color:'#fff',weight:2,fillOpacity:.88})
+      .bindPopup(mkNAPop(na),{maxWidth:280,autoPan:false});
+    mna.on('click',()=>{
+      openNA(i);
+      map.flyTo([na.lat,na.lon],14,{duration:1.2,easeLinearity:0.15});
+      map.once('moveend',()=>mna.openPopup());
+    });
+    mna.addTo(NL);
   });
 
   window._items=items;
