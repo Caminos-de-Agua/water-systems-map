@@ -353,8 +353,10 @@ async function init(){
     const res=await fetch('./procesos_data.json');
     if(!res.ok)throw new Error(`HTTP ${res.status}`);
     ALL_DATA=await res.json();
+    const _now=new Date(),_mo=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
+    const _ds=_now.getDate()+' '+_mo[_now.getMonth()]+' '+_now.getFullYear();
     document.getElementById('header-sub').textContent=
-      `${ALL_DATA.length} comunidades · ${ALL_DATA.reduce((s,d)=>s+d.total,0)} actividades · datos al 18 mayo 2026`;
+      ALL_DATA.length+' comunidades · '+ALL_DATA.reduce((s,d)=>s+d.total,0)+' actividades · actualizado '+_ds;
     populateDropdowns(); buildBarLegend(); wireControls(); render();
   }catch(err){
     document.getElementById('community-list').innerHTML=
