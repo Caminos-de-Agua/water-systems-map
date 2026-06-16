@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Procesos Comunitarios — Caminos de Agua</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --blue:#253489; --teal:#35abbd; --peri:#6575d5; --lav:#a2ace7; --dteal:#1180ad;
+  --border:#e2e4ea; --bg:#f7f8fc; --card:#fff; --text:#1a1d2e; --muted:#6b7280; --faint:#9ca3af;
+}
+body { font-family:'Poppins',sans-serif; background:var(--bg); color:var(--text); font-size:13px; line-height:1.5; }
+.site-header { background:var(--blue); padding:14px 24px 11px; position:sticky; top:0; z-index:100; border-bottom:3px solid var(--teal); }
+.site-header h1 { color:#fff; font-size:16px; font-weight:500; }
+.site-header p { color:rgba(255,255,255,.65); font-size:11px; margin-top:2px; }
+.toolbar { background:#fff; border-bottom:1px solid var(--border); padding:10px 24px; display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+.toolbar-group { display:flex; align-items:center; gap:6px; }
+.toolbar-label { font-size:11px; color:var(--muted); font-weight:500; white-space:nowrap; }
+select, input[type="text"] { font-family:'Poppins',sans-serif; font-size:12px; padding:5px 9px; border:1px solid var(--border); border-radius:7px; background:var(--bg); color:var(--text); height:30px; }
+select:focus, input:focus { outline:2px solid var(--teal); outline-offset:1px; }
+.search-box { width:200px; }
+.segmented { display:inline-flex; background:var(--bg); border:1px solid var(--border); border-radius:8px; overflow:hidden; }
+.segmented button { font-family:'Poppins',sans-serif; font-size:11px; padding:5px 11px; border:none; background:transparent; color:var(--muted); cursor:pointer; height:30px; white-space:nowrap; transition:all .12s; }
+.segmented button:not(:last-child) { border-right:1px solid var(--border); }
+.segmented button:hover { background:#eef0f6; }
+.segmented button.active { background:var(--blue); color:#fff; }
+.text-btn { font-family:'Poppins',sans-serif; font-size:11px; padding:5px 8px; border:none; background:transparent; color:var(--dteal); cursor:pointer; border-radius:6px; white-space:nowrap; }
+.text-btn:hover { background:#eef6f8; }
+.meta-line { padding:8px 24px; display:flex; gap:14px; align-items:center; flex-wrap:wrap; font-size:12px; color:var(--muted); background:var(--bg); }
+.meta-line .count strong { color:var(--text); font-weight:600; }
+.meta-line .warn { display:inline-flex; align-items:center; gap:5px; color:#92400e; font-size:11px; background:#fffbeb; border:1px solid #fcd34d; border-radius:6px; padding:3px 9px; }
+.legend-panel { background:#fff; border-bottom:1px solid var(--border); padding:0 24px; max-height:0; overflow:hidden; transition:max-height .25s, padding .25s; }
+.legend-panel.open { max-height:300px; padding:12px 24px; }
+.legend-row { display:flex; gap:16px; flex-wrap:wrap; align-items:center; margin-bottom:8px; }
+.legend-row:last-child { margin-bottom:0; }
+.legend-title { font-size:11px; color:var(--text); font-weight:600; white-space:nowrap; min-width:150px; }
+.legend-items { display:flex; gap:12px; flex-wrap:wrap; }
+.legend-item { display:flex; align-items:center; gap:5px; font-size:11px; color:var(--muted); }
+.legend-dot { width:9px; height:9px; border-radius:50%; flex-shrink:0; }
+.legend-swatch { width:22px; height:6px; border-radius:3px; flex-shrink:0; }
+.community-list { padding:14px 24px; display:flex; flex-direction:column; gap:8px; max-width:1150px; }
+.no-results { padding:40px; text-align:center; color:var(--muted); font-size:14px; }
+.card { background:var(--card); border:1px solid var(--border); border-radius:10px; overflow:hidden; }
+.card:hover { border-color:var(--teal); }
+.card.open { border-color:var(--blue); }
+.card-header { display:flex; align-items:center; gap:11px; padding:11px 14px; cursor:pointer; user-select:none; }
+.status-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+.status-dot.hot{background:var(--teal)} .status-dot.warm{background:var(--peri)} .status-dot.cool{background:var(--lav)} .status-dot.cold{background:#d1d5db}
+.card-title { flex:1; min-width:0; }
+.card-title .name { font-size:14px; font-weight:500; }
+.card-title .muni { font-size:11px; color:var(--muted); margin-top:1px; }
+.card-right { display:flex; align-items:center; gap:8px; flex-shrink:0; }
+.phase-badge { font-size:10px; padding:2px 7px; border-radius:10px; background:rgba(53,171,189,.12); color:var(--dteal); border:1px solid rgba(53,171,189,.3); white-space:nowrap; }
+.recency-badge { font-size:11px; font-weight:500; padding:3px 8px; border-radius:8px; white-space:nowrap; }
+.recency-badge.hot{background:#e0f5f8;color:var(--dteal)} .recency-badge.warm{background:#ede8fd;color:#534ab7} .recency-badge.cool{background:#eceffe;color:#3c3489} .recency-badge.cold{background:#f3f4f6;color:var(--muted)}
+.last-date { font-size:11px; color:var(--faint); white-space:nowrap; }
+.chevron { font-size:11px; color:var(--faint); transition:transform .2s; margin-left:2px; }
+.card.open .chevron { transform:rotate(180deg); }
+.activity-bar { display:flex; align-items:center; gap:6px; padding:0 14px 10px 35px; }
+.bar-segment { height:5px; border-radius:3px; min-width:3px; flex-shrink:0; }
+.bar-total { font-size:10px; color:var(--faint); }
+.card-body { display:none; border-top:1px solid var(--border); background:#fafbfd; }
+.card.open .card-body { display:block; }
+.card-body-inner { padding:14px 16px; }
+.stats-grid { display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap; }
+.stat-box { background:var(--card); border:1px solid var(--border); border-radius:7px; padding:7px 12px; text-align:center; min-width:64px; }
+.stat-box .n { font-size:16px; font-weight:500; }
+.stat-box .l { font-size:10px; color:var(--muted); }
+.section-label { font-size:10px; font-weight:600; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin-bottom:6px; }
+.meta-tags { display:flex; gap:5px; flex-wrap:wrap; margin-bottom:14px; }
+.meta-tag { font-size:11px; padding:3px 9px; border-radius:10px; border:1px solid; }
+.meta-tag.partner { background:#eef6f8; color:#0c647e; border-color:#bfe0e8; }
+.meta-tag.funder { background:#f3f0fb; color:#4c3d8f; border-color:#d6cdf0; }
+.log-table { width:100%; border-collapse:collapse; font-size:12px; }
+.log-table thead tr { background:var(--blue); color:#fff; }
+.log-table thead th { padding:7px 10px; text-align:left; font-weight:500; font-size:11px; white-space:nowrap; }
+.log-table thead th:first-child{border-radius:6px 0 0 0} .log-table thead th:last-child{border-radius:0 6px 0 0}
+.log-table tbody tr { border-bottom:1px solid var(--border); transition:background .1s; }
+.log-table tbody tr:hover { background:#f0f4ff; }
+.log-table tbody tr:last-child { border-bottom:none; }
+.log-table tbody td { padding:7px 10px; vertical-align:top; }
+.col-date{width:84px;color:var(--muted);white-space:nowrap} .col-tipo{width:120px} .col-cat{width:150px}
+.col-notas{min-width:200px} .col-quien{width:150px} .col-media{width:115px}
+.cat-pill { display:inline-block; font-size:10px; padding:2px 6px; border-radius:4px; white-space:nowrap; }
+.tipo-cell { display:inline-block; font-size:10px; padding:2px 6px; border-radius:4px; white-space:nowrap; }
+.fase-inline, .item-inline { font-size:10px; display:inline-block; margin-top:2px; padding:1px 5px; border-radius:8px; }
+.fase-inline { background:rgba(53,171,189,.1); color:var(--dteal); }
+.item-inline { background:#eef0f6; color:var(--muted); }
+.quien-block { display:flex; flex-direction:column; gap:2px; }
+.quien-fac { color:var(--text); } .quien-ac { color:var(--muted); font-size:11px; }
+.quien-colab { color:#0c647e; font-size:10px; } .quien-p { font-size:10px; color:var(--faint); }
+.media-links { display:flex; flex-direction:column; gap:3px; }
+.media-link { display:inline-flex; align-items:center; gap:4px; font-size:10px; padding:2px 7px; border-radius:8px; border:1px solid; text-decoration:none; white-space:nowrap; width:fit-content; }
+.media-link:hover { opacity:.8; }
+.media-link.foto{color:#185fa5;border-color:rgba(24,95,165,.3);background:rgba(24,95,165,.07)}
+.media-link.minuta{color:#3b6d11;border-color:rgba(59,109,17,.3);background:rgba(59,109,17,.07)}
+.media-link.doc{color:#854f0b;border-color:rgba(133,79,11,.3);background:rgba(133,79,11,.07)}
+.loading { padding:14px 16px; color:var(--muted); font-size:12px; display:flex; align-items:center; gap:8px; }
+.spinner { width:14px; height:14px; border:2px solid var(--border); border-top-color:var(--teal); border-radius:50%; animation:spin .7s linear infinite; }
+@keyframes spin { to { transform:rotate(360deg); } }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <h1>Procesos Comunitarios — Actividad por Comunidad</h1>
+  <p id="header-sub">Cargando…</p>
+</header>
+<div class="toolbar">
+  <div class="toolbar-group">
+    <span class="toolbar-label">Ordenar</span>
+    <div class="segmented" id="sort-seg">
+      <button data-sort="recency" class="active">Reciente</button>
+      <button data-sort="activity">Más activa</button>
+      <button data-sort="recent3m">Activa ahora</button>
+      <button data-sort="alpha">A–Z</button>
+    </div>
+  </div>
+  <div class="toolbar-group">
+    <span class="toolbar-label">Municipio</span>
+    <select id="f-muni">
+      <option value="">Todos</option>
+      <option>San Miguel de Allende</option>
+      <option>Dolores Hidalgo</option>
+      <option>San Diego de la Unión</option>
+      <option>San Luis de la Paz</option>
+    </select>
+  </div>
+  <div class="toolbar-group">
+    <span class="toolbar-label">Tipo de proyecto</span>
+    <select id="f-tipo"><option value="">Todos</option></select>
+  </div>
+  <div class="toolbar-group">
+    <span class="toolbar-label">Colaborador</span>
+    <select id="f-partner"><option value="">Todos</option></select>
+  </div>
+  <div class="toolbar-group">
+    <input type="text" id="f-search" class="search-box" placeholder="🔍 Buscar comunidad…">
+  </div>
+  <div class="toolbar-group" style="margin-left:auto">
+    <button class="text-btn" id="reset-btn">Limpiar filtros</button>
+    <button class="text-btn" id="legend-btn">▾ Leyenda</button>
+  </div>
+</div>
+<div class="meta-line">
+  <span class="count"><strong id="result-count">—</strong> comunidades mostradas</span>
+  <span>·</span>
+  <span><strong id="s-hot" style="color:var(--dteal)">—</strong> activas (3 meses)</span>
+  <span class="warn">⚠ 308 filas sin municipio en datos fuente</span>
+</div>
+<div class="legend-panel" id="legend-panel">
+  <div class="legend-row">
+    <span class="legend-title">Estado de actividad (punto):</span>
+    <div class="legend-items">
+      <div class="legend-item"><span class="legend-dot" style="background:#35abbd"></span>Activa (≤3 meses)</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#6575d5"></span>Reciente (≤6 meses)</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#a2ace7"></span>Hace tiempo (≤12 meses)</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#d1d5db"></span>Inactiva (&gt;12 meses)</div>
+    </div>
+  </div>
+  <div class="legend-row">
+    <span class="legend-title">Barra de actividad (tipos):</span>
+    <div class="legend-items" id="bar-legend"></div>
+  </div>
+  <div class="legend-row">
+    <span class="legend-title" style="color:var(--muted);font-weight:400;font-size:10px">Las barras muestran la proporción de cada tipo de actividad registrada en esa comunidad. La fase STAS solo aplica a proyectos de Nuestra Agua.</span>
+  </div>
+</div>
+<div class="community-list" id="community-list">
+  <div class="loading"><div class="spinner"></div>Cargando comunidades…</div>
+</div>
+<script>
+const TIPO_STYLE = {
+  'Nuestra Agua / STAS':       { bg:'rgba(53,171,189,.12)',  color:'#0f6e56', border:'rgba(53,171,189,.4)' },
+  'Cosecha de Agua de Lluvia': { bg:'rgba(37,52,137,.08)',   color:'#253489', border:'rgba(37,52,137,.3)' },
+  'Filtros':                   { bg:'rgba(133,79,11,.08)',   color:'#854f0b', border:'rgba(133,79,11,.3)' },
+  'Exploración NA':            { bg:'rgba(231,111,81,.1)',   color:'#993c1d', border:'rgba(231,111,81,.4)' },
+  'Sanitarios Secos':          { bg:'rgba(95,150,139,.1)',   color:'#0f6e56', border:'rgba(95,150,139,.4)' },
+  'Monitoreo de Agua':         { bg:'rgba(101,117,213,.1)',  color:'#3c3489', border:'rgba(101,117,213,.4)' },
+  'Educación':                 { bg:'rgba(162,172,231,.15)', color:'#3c3489', border:'rgba(162,172,231,.5)' },
+  'Bordo':                     { bg:'#eef2e6', color:'#4d6b18', border:'#cddba8' },
+  'Otro':                      { bg:'#f3f4f6', color:'#6b7280', border:'#d1d5db' },
+};
+const CAT_COLOR = {
+  'STAS Social':'#35abbd','STAS Técnico':'#253489','STAS Impl.':'#6575d5','STAS Estudio':'#a2ace7',
+  'Taller':'#5f968b','M&E':'#1180ad','Seg. Tec.':'#5fa7fa','Reunión AEA':'#ba7517','Grupo Com.':'#d85a30',
+  'Expl. NA':'#e24b4a','Monitoreo':'#2ec4b6','Capacitación':'#ef9f27','EA':'#1d9e75',
+};
+function catPillStyle(cat) {
+  const c=(cat||'').toLowerCase();
+  if(c.includes('stas - social'))return{bg:'#e0f5f8',color:'#1180ad'};
+  if(c.includes('stas - técnico')||c.includes('stas - tecnico'))return{bg:'#e8eaf8',color:'#253489'};
+  if(c.includes('stas - impl'))return{bg:'#ede8fd',color:'#534ab7'};
+  if(c.includes('stas - estudio')||c.includes('insp'))return{bg:'#eceffe',color:'#3c3489'};
+  if(c.includes('taller'))return{bg:'#e6f3ef',color:'#3b6d11'};
+  if(c.includes('m&e'))return{bg:'#e3f0fa',color:'#185fa5'};
+  if(c.includes('seguimiento a tec'))return{bg:'#e3f3fb',color:'#0c447c'};
+  if(c.includes('reunión')&&c.includes('aea'))return{bg:'#fef9e7',color:'#856e00'};
+  if(c.includes('grupo comunit'))return{bg:'#fef3ec',color:'#854f0b'};
+  if(c.includes('nuestra agua')||c.includes('exploración')||c.includes('exploracion'))return{bg:'#fdecea',color:'#a32d2d'};
+  if(c.includes('capacit')||c.includes('cap.'))return{bg:'#fff4e3',color:'#854f0b'};
+  if(c.includes('ea')||c.includes('rama'))return{bg:'#e9f7f5',color:'#0f6e56'};
+  if(c.includes('hermandad'))return{bg:'#f0edfb',color:'#534ab7'};
+  if(c.includes('multiplicad'))return{bg:'#e9f7f5',color:'#3b6d11'};
+  if(c.includes('monitoreo'))return{bg:'#e6fafa',color:'#0f6e56'};
+  return{bg:'#f3f4f6',color:'#6b7280'};
+}
+let ALL_DATA = [];
+let filterMuni='', filterTipo='', filterPartner='', filterSearch='', sortMode='recency';
+function tier(d){ if(d.days_since<=90)return'hot'; if(d.days_since<=180)return'warm'; if(d.days_since<=365)return'cool'; return'cold'; }
+function recencyLabel(d){ const t=tier(d); if(t==='hot')return `${d.acts_3m} act. (3m)`; if(t==='warm')return `${d.acts_6m} act. (6m)`; return `hace ${Math.round(d.days_since/30)}m`; }
+function fmtDate(s){ if(!s)return'—'; const[y,m,day]=s.split('-'); const mo=['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic']; return `${parseInt(day)} ${mo[parseInt(m)-1]} ${y}`; }
+function esc(str){ return String(str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function getFiltered(){
+  let d=[...ALL_DATA];
+  if(filterMuni)    d=d.filter(x=>x.municipio===filterMuni);
+  if(filterTipo)    d=d.filter(x=>Object.keys(x.clase_counts).includes(filterTipo));
+  if(filterPartner) d=d.filter(x=>x.partners.includes(filterPartner));
+  if(filterSearch)  d=d.filter(x=>x.comunidad.toLowerCase().includes(filterSearch.toLowerCase()));
+  if(sortMode==='recency')  d.sort((a,b)=>a.days_since-b.days_since);
+  if(sortMode==='activity') d.sort((a,b)=>b.total-a.total);
+  if(sortMode==='recent3m') d.sort((a,b)=>b.acts_3m-a.acts_3m||b.acts_6m-a.acts_6m);
+  if(sortMode==='alpha')    d.sort((a,b)=>a.comunidad.localeCompare(b.comunidad,'es'));
+  return d;
+}
+function buildActivityBar(cats,total){
+  if(!total)return'';
+  const segs=Object.entries(cats).filter(([,v])=>v>0).map(([k,v])=>{
+    const w=Math.max(3,Math.round((v/total)*120));
+    return `<div class="bar-segment" style="width:${w}px;background:${CAT_COLOR[k]||'#bbb'}" title="${k}: ${v}"></div>`;
+  }).join('');
+  return `<div class="activity-bar">${segs}<span class="bar-total">${total} act.</span></div>`;
+}
+function buildLogTable(log){
+  if(!log||log.length===0)return '<p style="padding:10px;color:#9ca3af;font-size:12px">Sin registros de actividad.</p>';
+  const rows=log.map(r=>{
+    const cp=catPillStyle(r.categoria);
+    const ts=TIPO_STYLE[r.clase]||TIPO_STYLE['Otro'];
+    const media=(r.links&&r.links.length)?r.links.map(l=>{
+      const ic={foto:'📷',minuta:'📄',doc:'🗂'}, lb={foto:'Fotos',minuta:'Minuta',doc:'Doc'};
+      return `<a href="${esc(l.url)}" target="_blank" rel="noopener" class="media-link ${l.tipo}">${ic[l.tipo]||'🔗'} ${lb[l.tipo]||l.tipo}</a>`;
+    }).join(''):'<span style="color:#d1d5db;font-size:11px">—</span>';
+    const fac=r.facilitador?`<div class="quien-fac">${esc(r.facilitador)}</div>`:'';
+    const ac=r.acompanantes?`<div class="quien-ac">+ ${esc(r.acompanantes)}</div>`:'';
+    const colab=r.colaborador?`<div class="quien-colab">${esc(r.colaborador)}</div>`:'';
+    const pers=r.personas!=null?`<div class="quien-p">${r.personas} personas</div>`:'';
+    const quien=`<div class="quien-block">${fac}${ac}${colab}${pers}</div>`;
+    const fase=r.fase?`<div class="fase-inline">${esc(r.fase)}</div>`:'';
+    const item=r.item?`<div class="item-inline">${esc(r.item)}</div>`:'';
+    return `<tr>
+      <td class="col-date">${fmtDate(r.fecha)}</td>
+      <td class="col-tipo"><span class="tipo-cell" style="background:${ts.bg};color:${ts.color};border:1px solid ${ts.border}">${esc(r.clase)}</span></td>
+      <td class="col-cat"><span class="cat-pill" style="background:${cp.bg};color:${cp.color}">${esc(r.categoria)}</span>${fase}${item}</td>
+      <td class="col-notas">${esc(r.notas)}</td>
+      <td class="col-quien">${quien}</td>
+      <td class="col-media"><div class="media-links">${media}</div></td>
+    </tr>`;
+  }).join('');
+  return `<div style="overflow-x:auto"><table class="log-table"><thead><tr>
+      <th class="col-date">Fecha</th><th class="col-tipo">Tipo</th><th class="col-cat">Categoría</th>
+      <th class="col-notas">Notas / Motivo</th><th class="col-quien">Participantes</th><th class="col-media">Documentación</th>
+    </tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+function buildCard(d){
+  const t=tier(d);
+  const claseKeys=Object.keys(d.clase_counts);
+  const multi=claseKeys.length>1;
+  const typeBadges=claseKeys.map(k=>{
+    const s=TIPO_STYLE[k]||TIPO_STYLE['Otro'];
+    return `<span class="meta-tag" style="background:${s.bg};color:${s.color};border-color:${s.border}">${esc(k)}${multi?` (${d.clase_counts[k]})`:''}</span>`;
+  }).join('');
+  const partnerBadges=d.partners.map(p=>`<span class="meta-tag partner">${esc(p)}</span>`).join('');
+  const funderBadges=d.funders.map(f=>`<span class="meta-tag funder">${esc(f)}</span>`).join('');
+  const phaseHtml=d.latest_stas_phase?`<span class="phase-badge">${esc(d.latest_stas_phase)}</span>`:'';
+  return `<div class="card" id="card-${d._idx}" onclick="toggleCard(${d._idx})">
+    <div class="card-header">
+      <div class="status-dot ${t}"></div>
+      <div class="card-title"><div class="name">${esc(d.comunidad)}</div><div class="muni">${esc(d.municipio)}</div></div>
+      <div class="card-right">${phaseHtml}<span class="recency-badge ${t}">${recencyLabel(d)}</span><span class="last-date">${fmtDate(d.last_activity)}</span><span class="chevron">▼</span></div>
+    </div>
+    ${buildActivityBar(d.cats,d.total)}
+    <div class="card-body" id="body-${d._idx}"><div class="card-body-inner">
+      <div class="stats-grid">
+        <div class="stat-box"><div class="n">${d.total}</div><div class="l">total</div></div>
+        <div class="stat-box"><div class="n">${d.acts_3m}</div><div class="l">últ. 3 meses</div></div>
+        <div class="stat-box"><div class="n">${d.acts_6m}</div><div class="l">últ. 6 meses</div></div>
+        <div class="stat-box"><div class="n">${fmtDate(d.first_activity)}</div><div class="l">primera actividad</div></div>
+        <div class="stat-box"><div class="n">${fmtDate(d.last_activity)}</div><div class="l">última actividad</div></div>
+      </div>
+      <div class="section-label">Tipo de proyecto</div>
+      <div class="meta-tags">${typeBadges}</div>
+      ${d.partners.length?`<div class="section-label">Colaboradores</div><div class="meta-tags">${partnerBadges}</div>`:''}
+      ${d.funders.length?`<div class="section-label">Financiadores</div><div class="meta-tags">${funderBadges}</div>`:''}
+      <div class="section-label">Historial completo (más reciente primero)</div>
+      ${buildLogTable(d.log)}
+    </div></div>
+  </div>`;
+}
+function toggleCard(idx){
+  const card=document.getElementById('card-'+idx);
+  const isOpen=card.classList.contains('open');
+  document.querySelectorAll('.card.open').forEach(c=>c.classList.remove('open'));
+  if(!isOpen)card.classList.add('open');
+}
+function render(){
+  const data=getFiltered();
+  const list=document.getElementById('community-list');
+  if(data.length===0){ list.innerHTML='<div class="no-results">Sin comunidades que coincidan con los filtros.</div>'; document.getElementById('result-count').textContent='0'; return; }
+  data.forEach((d,i)=>d._idx=i);
+  list.innerHTML=data.map(buildCard).join('');
+  document.getElementById('result-count').textContent=data.length;
+  document.getElementById('s-hot').textContent=ALL_DATA.filter(d=>d.days_since<=90).length;
+}
+function populateDropdowns(){
+  const tipos=[...new Set(ALL_DATA.map(d=>d.primary_clase))].sort();
+  const tSel=document.getElementById('f-tipo');
+  tipos.forEach(t=>{ const o=document.createElement('option'); o.value=t; o.textContent=t; tSel.appendChild(o); });
+  const partners=[...new Set(ALL_DATA.flatMap(d=>d.partners))].sort();
+  const pSel=document.getElementById('f-partner');
+  partners.forEach(p=>{ const o=document.createElement('option'); o.value=p; o.textContent=p; pSel.appendChild(o); });
+}
+function buildBarLegend(){
+  document.getElementById('bar-legend').innerHTML=Object.entries(CAT_COLOR).map(([k,c])=>
+    `<div class="legend-item"><span class="legend-swatch" style="background:${c}"></span>${k}</div>`).join('');
+}
+function wireControls(){
+  document.getElementById('f-muni').addEventListener('change',e=>{filterMuni=e.target.value;render();});
+  document.getElementById('f-tipo').addEventListener('change',e=>{filterTipo=e.target.value;render();});
+  document.getElementById('f-partner').addEventListener('change',e=>{filterPartner=e.target.value;render();});
+  document.getElementById('f-search').addEventListener('input',e=>{filterSearch=e.target.value;render();});
+  document.querySelectorAll('#sort-seg button').forEach(b=>b.addEventListener('click',()=>{
+    sortMode=b.dataset.sort;
+    document.querySelectorAll('#sort-seg button').forEach(x=>x.classList.toggle('active',x===b));
+    render();
+  }));
+  document.getElementById('reset-btn').addEventListener('click',()=>{
+    filterMuni=filterTipo=filterPartner=filterSearch='';
+    document.getElementById('f-muni').value=''; document.getElementById('f-tipo').value='';
+    document.getElementById('f-partner').value=''; document.getElementById('f-search').value='';
+    render();
+  });
+  document.getElementById('legend-btn').addEventListener('click',()=>{
+    const p=document.getElementById('legend-panel');
+    const btn=document.getElementById('legend-btn');
+    p.classList.toggle('open');
+    btn.textContent=p.classList.contains('open')?'▴ Leyenda':'▾ Leyenda';
+  });
+}
+async function init(){
+  try{
+    const res=await fetch('./procesos_data.json');
+    if(!res.ok)throw new Error(`HTTP ${res.status}`);
+    ALL_DATA=await res.json();
+    document.getElementById('header-sub').textContent=
+      `${ALL_DATA.length} comunidades · ${ALL_DATA.reduce((s,d)=>s+d.total,0)} actividades · datos al 18 mayo 2026`;
+    populateDropdowns(); buildBarLegend(); wireControls(); render();
+  }catch(err){
+    document.getElementById('community-list').innerHTML=
+      `<div style="padding:24px;color:#991b1b;font-size:13px"><strong>Error cargando datos:</strong> ${esc(err.message)}<br>
+       <small>Asegúrate de que <code>procesos_data.json</code> está en el mismo directorio que este archivo.</small></div>`;
+  }
+}
+init();
+</script>
+</body>
+</html>
