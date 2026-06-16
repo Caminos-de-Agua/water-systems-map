@@ -1,1865 +1,21 @@
 [
   {
-    "comunidad": "San Elías",
-    "municipio": "Dolores Hidalgo",
-    "total": 90,
-    "last_activity": "2026-05-18",
-    "first_activity": "2025-03-05",
-    "days_since": 0,
-    "acts_3m": 24,
-    "acts_6m": 46,
-    "primary_clase": "Nuestra Agua / STAS",
-    "clase_counts": {
-      "Nuestra Agua / STAS": 90
-    },
-    "latest_stas_phase": "Uso y Apropriación",
-    "cats": {
-      "STAS Social": 34,
-      "STAS Técnico": 32,
-      "STAS Impl.": 12,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "Caminos de Agua"
-    ],
-    "log": [
-      {
-        "fecha": "2026-05-18",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo Arsénico",
-        "facilitador": "Aura",
-        "acompanantes": "Martijn",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-14",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo para HPC y recorrido para Natalia",
-        "facilitador": "Aura",
-        "acompanantes": "Fátima y Natalia",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-07",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo semanal",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-28",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-21",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-14",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo semanal As",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-07",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo y bomba",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-01",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo semanal",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-26",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Entrega de las modificaciones del sistama",
-        "facilitador": "Alvaro",
-        "acompanantes": "Victor y Aura",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-25",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desinfección del sistema",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro y Aura",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio de hidroneumático y bomba y muestras semanales",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro y Aura",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-18",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo semanal",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-09",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Resolución de problemas - quitando tanque hidroneumatico",
-        "facilitador": "Matthieu",
-        "acompanantes": "Victor Hernández",
-        "personas": 0,
-        "fase": "Uso y Apropriación",
-        "item": "Resolución de problemas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-09",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Se removió  el hidroneumático del sistema",
-        "facilitador": "Matthieu",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-05",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reemplazo de bomba e hidroneumático",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-04",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Enjuague de columnas en Los Ricos",
-        "facilitador": "Matthieu",
-        "acompanantes": "Aura Bustamente",
-        "personas": null,
-        "fase": "",
-        "item": "Resolución de problemas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-02",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Enjuague de columnas en Los Ricos",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": null,
-        "fase": "",
-        "item": "Resolución de problemas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-26",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Enjuague de columnas en Los Ricos",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": null,
-        "fase": "",
-        "item": "Resolución de problemas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-25",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reposición de columnas BC regeneradas",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-25",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Enjuague de columnas en Los Ricos",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": null,
-        "fase": "",
-        "item": "Resolución de problemas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-24",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Revisión de lámpara UV, bypass de hidroneumático",
-        "facilitador": "Matthieu",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Verificando temas de olor y bomba",
-        "facilitador": "Matthieu",
-        "acompanantes": "",
-        "personas": 0,
-        "fase": "Uso y Apropriación",
-        "item": "Resolución de problemas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-20",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Visita SIMAPAS",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 10,
-        "fase": "Otro",
-        "item": "Vinculación institucional",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-18",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio de Bayoxide",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-16",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo semanal",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-16",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Quinta sesión de Construcción de Acuerdos",
-        "facilitador": "Victor",
-        "acompanantes": "Aura Bustamente",
-        "personas": 5,
-        "fase": "Uso y Apropriación",
-        "item": "Construcción de acuerdos",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-13",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Retiro de 2 columnas de BC para regeneración y desconección de lámpara UV",
-        "facilitador": "Aura",
-        "acompanantes": "Victor",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-10",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cierre de 2 columnas de BC",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-06",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Bypass y desinfección",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura Bustamente",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-04",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo para identificar fuente de olor",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-03",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Identificación del olor",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-19",
-        "categoria": "",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestras con especiación de As",
-        "facilitador": "",
-        "acompanantes": "Aura Bustamente",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-11",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Inauguración - Dylan",
-        "facilitador": "Dylan",
-        "acompanantes": "Casilda, Daniela",
-        "personas": 0,
-        "fase": "Inauguración",
-        "item": "Inauguración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-11",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Inauguración - Mat",
-        "facilitador": "Alvaro",
-        "acompanantes": "3 personas de Los Ricos",
-        "personas": 0,
-        "fase": "Inauguración",
-        "item": "Inauguración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-11",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Inauguración - Kicks",
-        "facilitador": "Victor",
-        "acompanantes": "4 personas de Los Ricos",
-        "personas": 0,
-        "fase": "Inauguración",
-        "item": "Inauguración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-11",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Inauguración - Blanca",
-        "facilitador": "Saúl",
-        "acompanantes": "Aura, Alexandra, Ana",
-        "personas": 0,
-        "fase": "Inauguración",
-        "item": "Inauguración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-11",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Inauguración - Jeep",
-        "facilitador": "Alvaro",
-        "acompanantes": "",
-        "personas": 0,
-        "fase": "Inauguración",
-        "item": "Inauguración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-09",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión Pre-Inauguración",
-        "facilitador": "Victor",
-        "acompanantes": "Alexandra Weiner",
-        "personas": 8,
-        "fase": "Implementación",
-        "item": "Construcción de acuerdos",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-08",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Pruebas de agua, cambio de Bayoxide",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-05",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Pruebas de agua y fijación de la mesa",
-        "facilitador": "Matthieu",
-        "acompanantes": "",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Análisis de agua",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-12-04",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Visita SAMA",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 2,
-        "fase": "Implementación",
-        "item": "Análisis de agua tratada",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-28",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Muestreo LAQUIMIA",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez Fátima Almeida",
-        "personas": 5,
-        "fase": "Implementación",
-        "item": "Análisis de agua tratada",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-26",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cuarta sesión de Construcción de Acuerdos + desinfección día 2",
-        "facilitador": "Victor",
-        "acompanantes": "Ana Torres Matthieu Carriere",
-        "personas": 8,
-        "fase": "Implementación",
-        "item": "Construcción de acuerdos",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-25",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desinfección día 1",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 6,
-        "fase": "Implementación",
-        "item": "Desinfección",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-19",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Capacitación Tecnica #6 - Sesión 9 parte 2",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 6,
-        "fase": "Implementación",
-        "item": "Capacitación Técnica",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-19",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-12",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tercera sesión de Construcción de Acuerdos",
-        "facilitador": "Ana",
-        "acompanantes": "Victor Hernández Matthieu Carriere",
-        "personas": 8,
-        "fase": "Implementación",
-        "item": "Construcción de acuerdos",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-10",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-10",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Capacitación Tecnica #5 - Sesión 9 parte 2",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 6,
-        "fase": "Implementación",
-        "item": "Capacitación Técnica",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-05",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Segunda sesión de Construcción de Acuerdos",
-        "facilitador": "Ana",
-        "acompanantes": "Victor Hernández Matthieu Carriere",
-        "personas": 8,
-        "fase": "Implementación",
-        "item": "Construcción de acuerdos",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-03",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-03",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Capacitación Tecnica #4 - Sesión 7-9",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 6,
-        "fase": "Implementación",
-        "item": "Capacitación Técnica",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-29",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Capacitación Tecnica #3 - Sesión 6",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 6,
-        "fase": "Implementación",
-        "item": "Capacitación Técnica",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-29",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-27",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Capacitación Tecnica #2 - Sesión 4-5",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 6,
-        "fase": "Implementación",
-        "item": "Capacitación Técnica",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-27",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-22",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Capacitación Tecnica #1 - Sesión 1-3",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 7,
-        "fase": "Implementación",
-        "item": "Capacitación Técnica",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-15",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez",
-        "personas": 0,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-15",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento instalación con comité",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez Victor Hernández",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Reunión con comité",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-15",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "Alvaro Gutierrez Victor Hernández",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-08",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Construcción de Acuerdos Organizativos - Sesión 1",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 8,
-        "fase": "Implementación",
-        "item": "Reunión con comité",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-02",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Siguientes pasos CdP + Capacitaciones técnicas",
-        "facilitador": "Victor",
-        "acompanantes": "Matthieu Carriere",
-        "personas": 12,
-        "fase": "Implementación",
-        "item": "Reunión con comité",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-02",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Documentación Instalación STAS",
-        "facilitador": "Fatima",
-        "acompanantes": "Saúl Juarez",
-        "personas": 12,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-01",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Alvaro",
-        "acompanantes": "Jaime Mata Victor Hernández",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-30",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Saúl",
-        "acompanantes": "Victor Hernández",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-29",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Instalación STAS",
-        "facilitador": "Matthieu",
-        "acompanantes": "",
-        "personas": 5,
-        "fase": "Implementación",
-        "item": "Instalación STAS",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-22",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Conversación sobre cambios internos en CdA",
-        "facilitador": "Victor",
-        "acompanantes": "Saúl Juarez Dylan Terrell",
-        "personas": 10,
-        "fase": "Implementación",
-        "item": "Reunión con comité",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-09-09",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Adecuaciones del espacio",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Adecuaciones del espacio",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/share/AF1QipND9J9w5WuA3LruteODuXoZxYOKbZFAo1p-sPWrBvvxhSoG8p5zEV_6tkSLQLeEUA?key=VXVESE1SX2JrQkYxOWVMbU55T2R6NWo5Q21UZjVB"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-29",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Siguientes pasos CdP + Adecuaciones del espacio",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 8,
-        "fase": "Implementación",
-        "item": "Siguientes pasos CdP + Adecuaciones del espacio",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-18",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Entrrega de resultados de Calidad de Agua y siguientes pasos",
-        "facilitador": "Victor",
-        "acompanantes": "Alejandra Rodríguez Alfaro",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Entrega resultados calidad de agua",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-10",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Fortalecimiento de Capacidades - Sesión 6",
-        "facilitador": "Ana Lilia",
-        "acompanantes": "Victor Hernández",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Fortalecimiento de Capacidades",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-08",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Fortalecimiento de Capacidades - Sesión 5",
-        "facilitador": "Ana Lilia",
-        "acompanantes": "Victor Hernández",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Fortalecimiento de Capacidades",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-03",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Fortalecimiento de Capacidades - Sesión 4",
-        "facilitador": "Paola",
-        "acompanantes": "Victor Hernández",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Fortalecimiento de Capacidades",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-01",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Fortalecimiento de Capacidades - Sesión 3",
-        "facilitador": "Paola",
-        "acompanantes": "Victor Hernández",
-        "personas": 10,
-        "fase": "Implementación",
-        "item": "Fortalecimiento de Capacidades",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-27",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Fortalecimiento de Capacidades - Sesión 2",
-        "facilitador": "Ana Lilia",
-        "acompanantes": "Victor Hernández",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Fortalecimiento de Capacidades",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-25",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Fortalecimiento de Capacidades - Sesión 1",
-        "facilitador": "Ana Lilia",
-        "acompanantes": "Victor Hernández",
-        "personas": 9,
-        "fase": "Implementación",
-        "item": "Fortalecimiento de Capacidades",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-22",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Análisis Hidráulico",
-        "facilitador": "Matthieu",
-        "acompanantes": "",
-        "personas": 12,
-        "fase": "Construcción de propuesta",
-        "item": "Análisis Hidráulico",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-15",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Toma de muestra CIATEC para análisis completo de calidad de agua",
-        "facilitador": "Victor",
-        "acompanantes": "Alvaro GutierrezFátima Almeida",
-        "personas": 10,
-        "fase": "Firma de acuerdo",
-        "item": "Análisis completo de Calidad de Agua",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/share/AF1QipORzglmiymxGNNb-z-oMZMoBFrc3SqFBGlQzcxdAl4VViM__ZNSaUC8XFdEifmwcQ?key=eUpSSDVhSnFSeVVhRU5ZbXJYSWM2QnA2Y3RxdTd3"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-04",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Validación cronograma general y proceso de Fortalecimiento de Capacidades",
-        "facilitador": "Victor",
-        "acompanantes": "Fátima Almeida",
-        "personas": 8,
-        "fase": "Construcción de propuesta",
-        "item": "Validación cronograma y Fortalecimiento de Capacidades",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GvSrsuXqBu2tKbW79"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-06-07",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Devolución Diagnóstico Comunitario y siguientes pasos STAS",
-        "facilitador": "Victor",
-        "acompanantes": "Saúl Juarez",
-        "personas": 4,
-        "fase": "Firma de acuerdo",
-        "item": "Devolución Diagnóstico Comunitario y siguientes pasos STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-07",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Diagnóstico Comunitario STAS",
-        "facilitador": "Victor",
-        "acompanantes": "almancilla@gmail.com",
-        "personas": 32,
-        "fase": "Dialogar",
-        "item": "Diagnóstico Comunitario",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/krUWnH1vzLGnsfWPA"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-31",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Asamblea Comunitaria - Acercamiento STAS",
-        "facilitador": "Victor",
-        "acompanantes": "Saúl Juarez",
-        "personas": 33,
-        "fase": "Dialogar",
-        "item": "Asamblea Comunitaria",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1Rphb7jFZoSQn7hufjgV0be3AaRfALMAugP-5uzLfk2Q/edit?tab=t.0#heading=h.1bo9ws3p5uxo"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-23",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con grupo motor - Detalles y preparativos para asamblea con la comunidad",
-        "facilitador": "Victor",
-        "acompanantes": "Ana Torres almancilla@gmail.com",
-        "personas": 8,
-        "fase": "Dialogar",
-        "item": "Reunión con grupo motor",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/12v5Q7-NMUVYZEoTjfJ4qnovZ7miJqwrt2U24QZg77E0/edit?tab=t.0#heading=h.l8p4802p9wki"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-01",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Entrega de resultados de calidad de agua y propuesta de adecuaciones al edificio STAS",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 9,
-        "fase": "Dialogar",
-        "item": "Entrega de resultados de calidad de agua",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1d70k6OjzjKC-9txPy0NRu9I8lh8yFTfN2LKXyt6IkPY/edit?tab=t.0#heading=h.ron0gwllywkr"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-05",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Visita al STAS de Alonso Yáñez",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "Dialogar",
-        "item": "Visita al STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-04-05",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Visita al STAS de Alonso Yáñez",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "Dialogar",
-        "item": "Visita al STAS",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-27",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Conversación con organismo operador SIMAPAS",
-        "facilitador": "Saúl",
-        "acompanantes": "Alejandra Rodríguez Alfaro",
-        "personas": 11,
-        "fase": "Dialogar",
-        "item": "Asamblea Comunitaria",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-24",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con organismo operador y recabación de datos técnicos",
-        "facilitador": "Saúl",
-        "acompanantes": "Alejandra Rodríguez Alfaro",
-        "personas": 10,
-        "fase": "Dialogar",
-        "item": "Asamblea Comunitaria",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-14",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Primer Acercamiento con Familias - San Elías y Santo Niño de Trancas",
-        "facilitador": "Saúl",
-        "acompanantes": "Omar Bárcenas Victor Hernández",
-        "personas": 42,
-        "fase": "Dialogar",
-        "item": "Asamblea Comunitaria",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-05",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Primer Acercamiento con Comités de Agua y Comités de Apoyos - San Elías, Santo Niño de Trancas, Estancia de Zamarripa y Cerrote de la Puerta",
-        "facilitador": "Saúl",
-        "acompanantes": "Victor Hernández",
-        "personas": 19,
-        "fase": "Dialogar",
-        "item": "Reunión con Comités de Agua y Comités de Apoyos",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "Los Ricos de Arriba",
-    "municipio": "San Miguel de Allende",
-    "total": 34,
-    "last_activity": "2026-05-12",
-    "first_activity": "2025-03-04",
-    "days_since": 6,
-    "acts_3m": 9,
-    "acts_6m": 11,
-    "primary_clase": "Nuestra Agua / STAS",
-    "clase_counts": {
-      "Nuestra Agua / STAS": 34
-    },
-    "latest_stas_phase": "Uso y Apropriación",
-    "cats": {
-      "STAS Social": 7,
-      "STAS Técnico": 27,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "Caminos de Agua"
-    ],
-    "log": [
-      {
-        "fecha": "2026-05-12",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio de foco UV y pagos.",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-30",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Recoleccion de carbon para RSSCT",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desecho de solucion de regeneracion",
-        "facilitador": "Alvaro",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneracion",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-22",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desinfección",
-        "facilitador": "Aura",
-        "acompanantes": "Matthieu",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-10",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tratamiento de solución gastada",
-        "facilitador": "Alvaro",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-07",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tratamiento de solución gastada",
-        "facilitador": "Alvaro",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-01",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tratamiento de solución gastada",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-31",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración de carbón de hueso",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-30",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración de carbón de hueso",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-28",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con todo el grupo",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-14",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con todo el grupo",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 16,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-18",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimientos varios",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-07",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 5,
-        "fase": "Uso y Apropriación",
-        "item": "Ingreso Familias Nuevas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-28",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio foco UV",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Mantenimiento",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-21",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-09",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimientos varios",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-26",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Monitoreo STAS",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Monitoreo tech",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desinfección",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Desinfección",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-06-23",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio de tubería y desinfección",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Cambio de tubería + desinfección",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-06-10",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Regent Plant",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale, Fatima",
-        "personas": 3,
-        "fase": "Uso y Apropriación",
-        "item": "Quema, Colado y reunión con Jeff",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1hp0S0Y7AAfqoPWYumsC9gZJ3BIG5wa5p?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-28",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Recoger Carbon de hueso",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Nuevo BC para AY",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-05-27",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta Regen",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Regen Plant",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-05-21",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración BC (3/3)",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-20",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración BC (2/3)",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-19",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración BC (1/3)",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-09",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Quema carbón de hueso y preparacion Rege",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Otro",
-        "item": "Quema",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-04-30",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Horno eléctrico y Seguimo Regeneracion",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Otro",
-        "item": "Horno electrico",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1plrfMy-r7yaJz0I3JYnyt7Lupqg2SqCS?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Otro",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p0xMycrzfryBBjHYtKzIcWLjV303bx2r?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-22",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Otro",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1g8HGG3uCLwDfn6ZHmllkuImhLBSnLrpD?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-10",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Otro",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-04-07",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Bayoxide columns check",
-        "facilitador": "Jaime",
-        "acompanantes": "Nico",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "System check",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-04-03",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Bayoxide columns change",
-        "facilitador": "Jaime",
-        "acompanantes": "Alejandro, Nico",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "Bayoxide columns change",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-15",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
-        "facilitador": "Victor",
-        "acompanantes": "Marina, Agustina, Carmen",
-        "personas": 5,
-        "fase": "Uso y Apropriación",
-        "item": "Ingreso Familias Nuevas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-04",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Asamblea con familias integrantes del Piloto 2",
-        "facilitador": "Victor",
-        "acompanantes": "Marina, Agustina, Carmen",
-        "personas": 23,
-        "fase": "Uso y Apropriación",
-        "item": "Asamblea de Familias Usuarias",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
     "comunidad": "Alonso Yáñez",
     "municipio": "San Miguel de Allende",
-    "total": 305,
-    "last_activity": "2026-05-11",
+    "total": 307,
+    "last_activity": "2026-06-10",
     "first_activity": "2023-05-11",
-    "days_since": 7,
-    "acts_3m": 4,
-    "acts_6m": 6,
+    "days_since": -23,
+    "acts_3m": 6,
+    "acts_6m": 8,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 305
+      "Nuestra Agua / STAS": 307
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
-      "STAS Social": 151,
-      "STAS Técnico": 73,
+      "STAS Social": 152,
+      "STAS Técnico": 74,
       "STAS Impl.": 49,
       "STAS Estudio": 25,
       "Taller": 0,
@@ -1880,6 +36,32 @@
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
     "log": [
+      {
+        "fecha": "2026-06-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo de As, F y PO4. Actualización de bitácoras y medidas del área del edificio",
+        "facilitador": "Aura",
+        "acompanantes": "Alvaro",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-30",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión Comité STAS - Operadora",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 4,
+        "fase": "Uso y Apropriación",
+        "item": "Propuesta de Acompañamiento",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-05-11",
         "categoria": "STAS - Técnico",
@@ -2699,19 +881,6 @@
       },
       {
         "fecha": "2025-01-29",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tech checking",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "Monitoreo",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-01-29",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
         "notas": "Reunión Comité STAS - necesidad de nueva integrante y seguimiento a puntos pendientes",
@@ -2720,6 +889,19 @@
         "personas": 3,
         "fase": "Uso y Apropriación",
         "item": "Reunión con comité STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-01-29",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tech checking",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "Monitoreo",
         "colaborador": "",
         "links": []
       },
@@ -2766,10 +948,10 @@
         "fecha": "2025-01-15",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Delegada para compartir situación de escuela primaria y coordinar respuesta (Víctor)",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 4,
+        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Delegada para compartir situación de escuela primaria y coordinar respuesta (Mat, Saúl)",
+        "facilitador": "Saúl",
+        "acompanantes": "Matthieu Carriere",
+        "personas": 5,
         "fase": "Uso y Apropriación",
         "item": "Escuela",
         "colaborador": "",
@@ -2779,10 +961,10 @@
         "fecha": "2025-01-15",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Delegada para compartir situación de escuela primaria y coordinar respuesta (Mat, Saúl)",
-        "facilitador": "Saúl",
-        "acompanantes": "Matthieu Carriere",
-        "personas": 5,
+        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Delegada para compartir situación de escuela primaria y coordinar respuesta (Víctor)",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 4,
         "fase": "Uso y Apropriación",
         "item": "Escuela",
         "colaborador": "",
@@ -2870,7 +1052,7 @@
         "fecha": "2024-11-30",
         "categoria": "STAS - Comunicación",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Experiencias de Intercambio (Víctor)",
+        "notas": "Experiencias de Intercambio (Dylan, Fa, Alejandro, Ana)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -2883,12 +1065,25 @@
         "fecha": "2024-11-30",
         "categoria": "STAS - Comunicación",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Experiencias de Intercambio (Dylan, Fa, Alejandro, Ana)",
+        "notas": "Experiencias de Intercambio (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Otro",
         "item": "Experiencias de Intercambio",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-11-27",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con comités de madres y director@s para dialogar intenciones de consumo del agua  y estrategia formativa",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "Escuela",
         "colaborador": "",
         "links": []
       },
@@ -2906,19 +1101,6 @@
         "links": []
       },
       {
-        "fecha": "2024-11-27",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con comités de madres y director@s para dialogar intenciones de consumo del agua  y estrategia formativa",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "Escuela",
-        "colaborador": "",
-        "links": []
-      },
-      {
         "fecha": "2024-11-26",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
@@ -2941,19 +1123,6 @@
         "personas": null,
         "fase": "Uso y Apropriación",
         "item": "Escuela",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-11-25",
-        "categoria": "STAS - Comunicación",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Co-creación de la agenda compartida",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Otro",
-        "item": "Experiencias de Intercambio",
         "colaborador": "",
         "links": []
       },
@@ -2967,6 +1136,19 @@
         "personas": null,
         "fase": "Uso y Apropriación",
         "item": "Construcción",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-11-25",
+        "categoria": "STAS - Comunicación",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Co-creación de la agenda compartida",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Otro",
+        "item": "Experiencias de Intercambio",
         "colaborador": "",
         "links": []
       },
@@ -2987,12 +1169,12 @@
         "fecha": "2024-11-21",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Introducción de nuevas personas al comité STAS y planeación de distribución",
+        "notas": "Reunión con comités de madres y director@s para dialogar intenciones de consumo del agua  y estrategia formativa",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Reunión con comité STAS",
+        "item": "Escuela",
         "colaborador": "",
         "links": []
       },
@@ -3000,12 +1182,12 @@
         "fecha": "2024-11-21",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con comités de madres y director@s para dialogar intenciones de consumo del agua  y estrategia formativa",
+        "notas": "Introducción de nuevas personas al comité STAS y planeación de distribución",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Escuela",
+        "item": "Reunión con comité STAS",
         "colaborador": "",
         "links": []
       },
@@ -3078,12 +1260,12 @@
         "fecha": "2024-11-07",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con comité de madres de familia - Escuela Telesecundaria",
+        "notas": "Visiteo para pruebas de filtros (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Escuela",
+        "item": "Pruebas de Filtros",
         "colaborador": "",
         "links": []
       },
@@ -3104,12 +1286,12 @@
         "fecha": "2024-11-07",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Visiteo para pruebas de filtros (Víctor)",
+        "notas": "Reunión con comité de madres de familia - Escuela Telesecundaria",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Pruebas de Filtros",
+        "item": "Escuela",
         "colaborador": "",
         "links": []
       },
@@ -3117,7 +1299,7 @@
         "fecha": "2024-11-05",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Visita Mitsubishi (Víctor)",
+        "notas": "Visita Mitsubishi (Ana, Dylan, Tomas)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3130,7 +1312,7 @@
         "fecha": "2024-11-05",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Visita Mitsubishi (Ana, Dylan, Tomas)",
+        "notas": "Visita Mitsubishi (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3286,19 +1468,6 @@
         "fecha": "2024-10-09",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunón con CEDESA (Víctor)",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-10-09",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
         "notas": "Reunión con CEDESA (Mat)",
         "facilitador": "",
         "acompanantes": "",
@@ -3325,7 +1494,20 @@
         "fecha": "2024-10-09",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Víctor)",
+        "notas": "Reunón con CEDESA (Víctor)",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-10-09",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Saúl)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3338,7 +1520,7 @@
         "fecha": "2024-10-09",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Saúl)",
+        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3468,7 +1650,7 @@
         "fecha": "2024-09-10",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Saúl)",
+        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3481,7 +1663,7 @@
         "fecha": "2024-09-10",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Víctor)",
+        "notas": "Reunión con Operadora, Comité STAS, Comité de Agua y Comisariado Ejidal (Saúl)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3611,12 +1793,12 @@
         "fecha": "2024-08-07",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Estrategia de visiteo a familas usuarias SIN consumo - Invitación al Foro Invitación del Agua a Luz y Doña Reyna (Víctor)",
+        "notas": "Invitación al Foro Invitación del Agua a Luz y Doña Reyna (Ana)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Sostener el uso",
+        "item": "Fortalecimiento de capacidades",
         "colaborador": "",
         "links": []
       },
@@ -3624,12 +1806,12 @@
         "fecha": "2024-08-07",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Invitación al Foro Invitación del Agua a Luz y Doña Reyna (Ana)",
+        "notas": "Estrategia de visiteo a familas usuarias SIN consumo - Invitación al Foro Invitación del Agua a Luz y Doña Reyna (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Fortalecimiento de capacidades",
+        "item": "Sostener el uso",
         "colaborador": "",
         "links": []
       },
@@ -3676,7 +1858,7 @@
         "fecha": "2024-07-30",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Visiteo para pruebas de filtros (Víctor)",
+        "notas": "Visiteo para pruebas de filtros (Marijo y Nora) - Details filled up by Mat afterwrad",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3689,7 +1871,7 @@
         "fecha": "2024-07-30",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Visiteo para pruebas de filtros (Marijo y Nora) - Details filled up by Mat afterwrad",
+        "notas": "Visiteo para pruebas de filtros (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3754,7 +1936,7 @@
         "fecha": "2024-07-13",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Visiteo para pruebas de filtros (Víctor)",
+        "notas": "Visiteo para pruebas de filtros (Marijo) - Details filled by Mat afterward",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3767,7 +1949,7 @@
         "fecha": "2024-07-13",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Visiteo para pruebas de filtros (Marijo) - Details filled by Mat afterward",
+        "notas": "Visiteo para pruebas de filtros (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -3817,19 +1999,6 @@
       },
       {
         "fecha": "2024-07-03",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-07-03",
         "categoria": "STAS - Estudio INSP",
         "clase": "Nuestra Agua / STAS",
         "notas": "Seguimiento del estudio del INSP en la Escuela Primara",
@@ -3838,6 +2007,19 @@
         "personas": null,
         "fase": "Otro",
         "item": "INSP",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-07-03",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "Construcción",
         "colaborador": "",
         "links": []
       },
@@ -3960,14 +2142,14 @@
       },
       {
         "fecha": "2024-05-25",
-        "categoria": "STAS - Social",
+        "categoria": "STAS - Comunicación",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Taller formativo con familias",
+        "notas": "Grabación de video (Fátima y León)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Capacitación Usuarios",
+        "item": "Fundraising",
         "colaborador": "",
         "links": []
       },
@@ -3986,14 +2168,14 @@
       },
       {
         "fecha": "2024-05-25",
-        "categoria": "STAS - Comunicación",
+        "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Grabación de video (Fátima y León)",
+        "notas": "Taller formativo con familias",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Uso y Apropriación",
-        "item": "Fundraising",
+        "item": "Capacitación Usuarios",
         "colaborador": "",
         "links": []
       },
@@ -4155,19 +2337,6 @@
       },
       {
         "fecha": "2024-04-19",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Puesta en funcionamiento de filtros para inauguración",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Inauguración",
-        "item": "Inauguración",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-04-19",
         "categoria": "STAS - Implementación / Infraestructura",
         "clase": "Nuestra Agua / STAS",
         "notas": "Jaime",
@@ -4176,6 +2345,19 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Puesta en marcha",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-04-19",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Puesta en funcionamiento de filtros para inauguración",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Inauguración",
+        "item": "Inauguración",
         "colaborador": "",
         "links": []
       },
@@ -4194,35 +2376,9 @@
       },
       {
         "fecha": "2024-04-17",
-        "categoria": "STAS - Implementación / Infraestructura",
+        "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Faena para arreglos pre-inauguración (Víctor)",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-04-17",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Faena para arreglos pre-inauguración (Saúl)",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-04-17",
-        "categoria": "STAS - Comunicación",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Primera entrega de filtros (3 de 3 fases; Fa)",
+        "notas": "Primera entrega de filtros (3 de 3 fases; Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -4246,14 +2402,40 @@
       },
       {
         "fecha": "2024-04-17",
-        "categoria": "STAS - Social",
+        "categoria": "STAS - Comunicación",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Primera entrega de filtros (3 de 3 fases; Víctor)",
+        "notas": "Primera entrega de filtros (3 de 3 fases; Fa)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Implementación",
         "item": "Capacitación Usuarios",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-04-17",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Faena para arreglos pre-inauguración (Saúl)",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Construcción",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-04-17",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Faena para arreglos pre-inauguración (Víctor)",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Construcción",
         "colaborador": "",
         "links": []
       },
@@ -4274,7 +2456,7 @@
         "fecha": "2024-04-13",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Primera entrega de filtros (2 de 3 fases; Saúl)",
+        "notas": "Primera entrega de filtros (2 de 3 fases; Cas, Matt, Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -4287,25 +2469,12 @@
         "fecha": "2024-04-13",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Primera entrega de filtros (2 de 3 fases; Cas, Matt, Víctor)",
+        "notas": "Primera entrega de filtros (2 de 3 fases; Saúl)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Implementación",
         "item": "Capacitación Usuarios",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-04-09",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Installing new flowmeter",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Puesta en marcha",
         "colaborador": "",
         "links": []
       },
@@ -4319,6 +2488,19 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Capacitación Comité",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-04-09",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Installing new flowmeter",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Puesta en marcha",
         "colaborador": "",
         "links": []
       },
@@ -4339,12 +2521,12 @@
         "fecha": "2024-04-06",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con comité de preparación de inauguración para seguimiento de detalles (Saúl y Víctor)",
+        "notas": "Primera entrega de filtros (1 de 3 fases; Saúl)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
-        "fase": "Inauguración",
-        "item": "Inauguración",
+        "fase": "Implementación",
+        "item": "Capacitación Usuarios",
         "colaborador": "",
         "links": []
       },
@@ -4352,12 +2534,12 @@
         "fecha": "2024-04-06",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Primera entrega de filtros (1 de 3 fases; Saúl)",
+        "notas": "Reunión con comité de preparación de inauguración para seguimiento de detalles (Saúl y Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
-        "fase": "Implementación",
-        "item": "Capacitación Usuarios",
+        "fase": "Inauguración",
+        "item": "Inauguración",
         "colaborador": "",
         "links": []
       },
@@ -4441,14 +2623,14 @@
       },
       {
         "fecha": "2024-03-23",
-        "categoria": "STAS - Social",
+        "categoria": "STAS - Implementación / Infraestructura",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Asamblea comunitaria para organización de inauguración - Víctor",
+        "notas": "Faena para detalles faltantes antes de limpieza general",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
-        "fase": "Inauguración",
-        "item": "Inauguración",
+        "fase": "Implementación",
+        "item": "Construcción",
         "colaborador": "",
         "links": []
       },
@@ -4467,14 +2649,14 @@
       },
       {
         "fecha": "2024-03-23",
-        "categoria": "STAS - Implementación / Infraestructura",
+        "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Faena para detalles faltantes antes de limpieza general",
+        "notas": "Asamblea comunitaria para organización de inauguración - Víctor",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
-        "fase": "Implementación",
-        "item": "Construcción",
+        "fase": "Inauguración",
+        "item": "Inauguración",
         "colaborador": "",
         "links": []
       },
@@ -4482,7 +2664,7 @@
         "fecha": "2024-03-22",
         "categoria": "STAS - Estudio INSP",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Invitación en Escuela Primaria a participación en el estudio del INSP - Saúl",
+        "notas": "Invitación en Escuela Primaria a participación en el estudio del INSP - Víctor",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -4495,7 +2677,7 @@
         "fecha": "2024-03-22",
         "categoria": "STAS - Estudio INSP",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Invitación en Escuela Primaria a participación en el estudio del INSP - Víctor",
+        "notas": "Invitación en Escuela Primaria a participación en el estudio del INSP - Saúl",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -4532,19 +2714,6 @@
       },
       {
         "fecha": "2024-03-19",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Work on the system, after the training session. Setting up system for start up (flushing tinacos), preparaing labels, putting on new locks, tyding for visit.",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Puesta en marcha",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-03-19",
         "categoria": "STAS - Técnico",
         "clase": "Nuestra Agua / STAS",
         "notas": "6ta Sesión tecnica - Tema 7.",
@@ -4557,10 +2726,23 @@
         "links": []
       },
       {
+        "fecha": "2024-03-19",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Work on the system, after the training session. Setting up system for start up (flushing tinacos), preparaing labels, putting on new locks, tyding for visit.",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Puesta en marcha",
+        "colaborador": "",
+        "links": []
+      },
+      {
         "fecha": "2024-03-16",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Taller de formación (1 de 2 sesiones) con familias usuarias (2 de 2 grupos) - Víctor",
+        "notas": "Taller de formación (1 de 2 sesiones) con familias usuarias (2 de 2 grupos) - Saúl",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -4573,7 +2755,7 @@
         "fecha": "2024-03-16",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Taller de formación (1 de 2 sesiones) con familias usuarias (2 de 2 grupos) - Saúl",
+        "notas": "Taller de formación (1 de 2 sesiones) con familias usuarias (2 de 2 grupos) - Víctor",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -4597,19 +2779,6 @@
       },
       {
         "fecha": "2024-03-12",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Work on the system, after the training session. Flushing columns, checking meter calibration, organizing a tad.",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Puesta en marcha",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-03-12",
         "categoria": "STAS - Técnico",
         "clase": "Nuestra Agua / STAS",
         "notas": "5ta Sesión tecnica - Tema 6.",
@@ -4618,6 +2787,19 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Capacitación Comité",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-03-12",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Work on the system, after the training session. Flushing columns, checking meter calibration, organizing a tad.",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Puesta en marcha",
         "colaborador": "",
         "links": []
       },
@@ -4675,19 +2857,6 @@
       },
       {
         "fecha": "2024-03-05",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Work on the system, after the training session. Flushing columns, and grounding of the system. Luz and Don Mattias present too",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-03-05",
         "categoria": "STAS - Técnico",
         "clase": "Nuestra Agua / STAS",
         "notas": "4ta Sesión tecnica - Tema 5 y 6.  Llegada de los garrafones",
@@ -4696,6 +2865,19 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Capacitación Comité",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-03-05",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Work on the system, after the training session. Flushing columns, and grounding of the system. Luz and Don Mattias present too",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Construcción",
         "colaborador": "",
         "links": []
       },
@@ -4727,19 +2909,6 @@
       },
       {
         "fecha": "2024-02-28",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Work on the system, after the training session",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-02-28",
         "categoria": "STAS - Técnico",
         "clase": "Nuestra Agua / STAS",
         "notas": "3ra Sesión - Capacitación tecnica operadora y comité STAS. Jaime y Mat. Tema 4 y 5",
@@ -4748,6 +2917,19 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Capacitación Comité",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-02-28",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Work on the system, after the training session",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Construcción",
         "colaborador": "",
         "links": []
       },
@@ -4792,14 +2974,14 @@
       },
       {
         "fecha": "2024-02-20",
-        "categoria": "STAS - Estudio INSP",
+        "categoria": "STAS - Técnico",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con Escuela Primaria (maestrxs) para ver detalles operativos del estudio del INSP",
+        "notas": "2nda Sesión - Capacitación tecnica operadora y comité STAS. Jaime y Mat. Tema 4",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
-        "fase": "Otro",
-        "item": "INSP",
+        "fase": "Implementación",
+        "item": "Capacitación Comité",
         "colaborador": "",
         "links": []
       },
@@ -4818,9 +3000,22 @@
       },
       {
         "fecha": "2024-02-20",
-        "categoria": "STAS - Técnico",
+        "categoria": "STAS - Estudio INSP",
         "clase": "Nuestra Agua / STAS",
-        "notas": "2nda Sesión - Capacitación tecnica operadora y comité STAS. Jaime y Mat. Tema 4",
+        "notas": "Reunión con Escuela Primaria (maestrxs) para ver detalles operativos del estudio del INSP",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Otro",
+        "item": "INSP",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-02-17",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cuarta Sesión - Capacitación operadora y comité STAS",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -4839,19 +3034,6 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-02-17",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cuarta Sesión - Capacitación operadora y comité STAS",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Capacitación Comité",
         "colaborador": "",
         "links": []
       },
@@ -5026,19 +3208,6 @@
       },
       {
         "fecha": "2024-01-25",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Preparación Asemblea. Victor",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Construcción de propuesta",
-        "item": "Asamblea Comunitaria",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-01-25",
         "categoria": "STAS - Implementación / Infraestructura",
         "clase": "Nuestra Agua / STAS",
         "notas": "Instalación sistema. Jaime and Mat",
@@ -5047,6 +3216,19 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Construcción",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-01-25",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Preparación Asemblea. Victor",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Construcción de propuesta",
+        "item": "Asamblea Comunitaria",
         "colaborador": "",
         "links": []
       },
@@ -5065,19 +3247,6 @@
       },
       {
         "fecha": "2024-01-23",
-        "categoria": "STAS - Estudio INSP",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Firma convenio colaboración Escuela Primaria - INSP",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Otro",
-        "item": "INSP",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-01-23",
         "categoria": "STAS - Implementación / Infraestructura",
         "clase": "Nuestra Agua / STAS",
         "notas": "Victor, Jaime, Allie, Mat. Instalación sistema. DP afterward",
@@ -5086,6 +3255,19 @@
         "personas": null,
         "fase": "Implementación",
         "item": "Construcción",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-01-23",
+        "categoria": "STAS - Estudio INSP",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Firma convenio colaboración Escuela Primaria - INSP",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Otro",
+        "item": "INSP",
         "colaborador": "",
         "links": []
       },
@@ -5169,19 +3351,6 @@
       },
       {
         "fecha": "2023-12-14",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tinaco y tuberia - Filled by Mat afterwatd",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2023-12-14",
         "categoria": "STAS - Técnico",
         "clase": "Nuestra Agua / STAS",
         "notas": "NO REGISTRADO, estimación cruda, fecha arbitraria",
@@ -5190,6 +3359,19 @@
         "personas": null,
         "fase": "Construcción de propuesta",
         "item": "Diseño detallado",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2023-12-14",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tinaco y tuberia - Filled by Mat afterwatd",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Construcción",
         "colaborador": "",
         "links": []
       },
@@ -5208,19 +3390,6 @@
       },
       {
         "fecha": "2023-12-12",
-        "categoria": "STAS - Implementación / Infraestructura",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tinaco y tuberia - Grouped with the activity above - Filled by Mat afterwatd",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Construcción",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2023-12-12",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
         "notas": "5ta sesión con grupo de trabajo - Vic - Filled by Mat afterward",
@@ -5229,6 +3398,19 @@
         "personas": null,
         "fase": "Construcción de propuesta",
         "item": "Sesión grupo de trabajo",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2023-12-12",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tinaco y tuberia - Grouped with the activity above - Filled by Mat afterwatd",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Construcción",
         "colaborador": "",
         "links": []
       },
@@ -5299,19 +3481,6 @@
       },
       {
         "fecha": "2023-11-28",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Vinculación comité STAS y toma de decisiones. Filled by Mat afterward",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Construcción de propuesta",
-        "item": "Conformación estructura organizativa",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2023-11-28",
         "categoria": "STAS - Estudio INSP",
         "clase": "Nuestra Agua / STAS",
         "notas": "Visita INSP - Vic, Dylan - Filled by MAt afterward",
@@ -5320,6 +3489,19 @@
         "personas": null,
         "fase": "Otro",
         "item": "INSP",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2023-11-28",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Vinculación comité STAS y toma de decisiones. Filled by Mat afterward",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Construcción de propuesta",
+        "item": "Conformación estructura organizativa",
         "colaborador": "",
         "links": []
       },
@@ -5468,9 +3650,22 @@
       },
       {
         "fecha": "2023-10-20",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Taller Educación Ambiental / STAS - 4to y 5to primaria (Agua Segura SABES)",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Escuela",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2023-10-20",
         "categoria": "STAS - Estudio INSP",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Primer acercamiento estudio INSP con comité de madres de familia primaria (Dylan)",
+        "notas": "Primer acercamiento estudio INSP con comité de madres de familia primaria (Víctor)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
@@ -5496,25 +3691,12 @@
         "fecha": "2023-10-20",
         "categoria": "STAS - Estudio INSP",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Primer acercamiento estudio INSP con comité de madres de familia primaria (Víctor)",
+        "notas": "Primer acercamiento estudio INSP con comité de madres de familia primaria (Dylan)",
         "facilitador": "",
         "acompanantes": "",
         "personas": null,
         "fase": "Otro",
         "item": "INSP",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2023-10-20",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Taller Educación Ambiental / STAS - 4to y 5to primaria (Agua Segura SABES)",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Implementación",
-        "item": "Escuela",
         "colaborador": "",
         "links": []
       },
@@ -5728,19 +3910,6 @@
       },
       {
         "fecha": "2023-08-25",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "NO REGISTRADO, estimación cruda, fecha arbitraria",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "Dialogar",
-        "item": "Diseño preliminar",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2023-08-25",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
         "notas": "Seguimiento primeras adecuaciones, programación asamblea",
@@ -5749,6 +3918,19 @@
         "personas": null,
         "fase": "Construcción de propuesta",
         "item": "Evaluación Edificio",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2023-08-25",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "NO REGISTRADO, estimación cruda, fecha arbitraria",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "Dialogar",
+        "item": "Diseño preliminar",
         "colaborador": "",
         "links": []
       },
@@ -5892,6 +4074,2339 @@
         "personas": null,
         "fase": "Dialogar",
         "item": "Reunión con autoridades locales",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "San Elías",
+    "municipio": "Dolores Hidalgo",
+    "total": 95,
+    "last_activity": "2026-06-02",
+    "first_activity": "2025-03-05",
+    "days_since": -15,
+    "acts_3m": 29,
+    "acts_6m": 51,
+    "primary_clase": "Nuestra Agua / STAS",
+    "clase_counts": {
+      "Nuestra Agua / STAS": 95
+    },
+    "latest_stas_phase": "Uso y Apropriación",
+    "cats": {
+      "STAS Social": 36,
+      "STAS Técnico": 34,
+      "STAS Impl.": 12,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 1,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "Caminos de Agua"
+    ],
+    "log": [
+      {
+        "fecha": "2026-06-02",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Mejoras en lavado de garrafones y muestreo",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-06-02",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo semanal y refisión de buenas prácticas de lavado de garrafones",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-06-01",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Encontrarnos de nuevo, actualizaciones, seguimientos e invitaciones",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo semanal y nuevas listas de registro para venta de garrafones",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-26",
+        "categoria": "Nuestra Agua-Exploración",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Visita de la SAMA para explorar colaboración",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 13,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/BhoMmcaaykZWtR8t7"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1aoY96MfRfhqd7mhKnmhXULa4ZyO4wNR3E-tmjCZfmZA/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-18",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo Arsénico",
+        "facilitador": "Aura",
+        "acompanantes": "Martijn",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-14",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo para HPC y recorrido para Natalia",
+        "facilitador": "Aura",
+        "acompanantes": "Fátima y Natalia",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-07",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo semanal",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-21",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-14",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo semanal As",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-07",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo y bomba",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-01",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo semanal",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-26",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Entrega de las modificaciones del sistama",
+        "facilitador": "Alvaro",
+        "acompanantes": "Victor y Aura",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-25",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desinfección del sistema",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro y Aura",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio de hidroneumático y bomba y muestras semanales",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro y Aura",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-18",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo semanal",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-09",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Resolución de problemas - quitando tanque hidroneumatico",
+        "facilitador": "Matthieu",
+        "acompanantes": "Victor Hernández",
+        "personas": 0,
+        "fase": "Uso y Apropriación",
+        "item": "Resolución de problemas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-09",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Se removió  el hidroneumático del sistema",
+        "facilitador": "Matthieu",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-05",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reemplazo de bomba e hidroneumático",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-04",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Enjuague de columnas en Los Ricos",
+        "facilitador": "Matthieu",
+        "acompanantes": "Aura Bustamente",
+        "personas": null,
+        "fase": "",
+        "item": "Resolución de problemas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-02",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Enjuague de columnas en Los Ricos",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": null,
+        "fase": "",
+        "item": "Resolución de problemas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-26",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Enjuague de columnas en Los Ricos",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": null,
+        "fase": "",
+        "item": "Resolución de problemas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-25",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Enjuague de columnas en Los Ricos",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": null,
+        "fase": "",
+        "item": "Resolución de problemas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-25",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reposición de columnas BC regeneradas",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Verificando temas de olor y bomba",
+        "facilitador": "Matthieu",
+        "acompanantes": "",
+        "personas": 0,
+        "fase": "Uso y Apropriación",
+        "item": "Resolución de problemas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-24",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Revisión de lámpara UV, bypass de hidroneumático",
+        "facilitador": "Matthieu",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-20",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Visita SIMAPAS",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 10,
+        "fase": "Otro",
+        "item": "Vinculación institucional",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-18",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio de Bayoxide",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-16",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Quinta sesión de Construcción de Acuerdos",
+        "facilitador": "Victor",
+        "acompanantes": "Aura Bustamente",
+        "personas": 5,
+        "fase": "Uso y Apropriación",
+        "item": "Construcción de acuerdos",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-16",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo semanal",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-13",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Retiro de 2 columnas de BC para regeneración y desconección de lámpara UV",
+        "facilitador": "Aura",
+        "acompanantes": "Victor",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-10",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cierre de 2 columnas de BC",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-06",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Bypass y desinfección",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura Bustamente",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-04",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo para identificar fuente de olor",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-03",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Identificación del olor",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-19",
+        "categoria": "",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestras con especiación de As",
+        "facilitador": "",
+        "acompanantes": "Aura Bustamente",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-11",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Inauguración - Jeep",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": 0,
+        "fase": "Inauguración",
+        "item": "Inauguración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-11",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Inauguración - Blanca",
+        "facilitador": "Saúl",
+        "acompanantes": "Aura, Alexandra, Ana",
+        "personas": 0,
+        "fase": "Inauguración",
+        "item": "Inauguración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-11",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Inauguración - Kicks",
+        "facilitador": "Victor",
+        "acompanantes": "4 personas de Los Ricos",
+        "personas": 0,
+        "fase": "Inauguración",
+        "item": "Inauguración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-11",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Inauguración - Mat",
+        "facilitador": "Alvaro",
+        "acompanantes": "3 personas de Los Ricos",
+        "personas": 0,
+        "fase": "Inauguración",
+        "item": "Inauguración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-11",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Inauguración - Dylan",
+        "facilitador": "Dylan",
+        "acompanantes": "Casilda, Daniela",
+        "personas": 0,
+        "fase": "Inauguración",
+        "item": "Inauguración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/rgWre5683TLNKqQDA"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-09",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión Pre-Inauguración",
+        "facilitador": "Victor",
+        "acompanantes": "Alexandra Weiner",
+        "personas": 8,
+        "fase": "Implementación",
+        "item": "Construcción de acuerdos",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-08",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Pruebas de agua, cambio de Bayoxide",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-05",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Pruebas de agua y fijación de la mesa",
+        "facilitador": "Matthieu",
+        "acompanantes": "",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Análisis de agua",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-12-04",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Visita SAMA",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 2,
+        "fase": "Implementación",
+        "item": "Análisis de agua tratada",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo LAQUIMIA",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez Fátima Almeida",
+        "personas": 5,
+        "fase": "Implementación",
+        "item": "Análisis de agua tratada",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-26",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cuarta sesión de Construcción de Acuerdos + desinfección día 2",
+        "facilitador": "Victor",
+        "acompanantes": "Ana Torres Matthieu Carriere",
+        "personas": 8,
+        "fase": "Implementación",
+        "item": "Construcción de acuerdos",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-25",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desinfección día 1",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 6,
+        "fase": "Implementación",
+        "item": "Desinfección",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-19",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-19",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Capacitación Tecnica #6 - Sesión 9 parte 2",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 6,
+        "fase": "Implementación",
+        "item": "Capacitación Técnica",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-12",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tercera sesión de Construcción de Acuerdos",
+        "facilitador": "Ana",
+        "acompanantes": "Victor Hernández Matthieu Carriere",
+        "personas": 8,
+        "fase": "Implementación",
+        "item": "Construcción de acuerdos",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Capacitación Tecnica #5 - Sesión 9 parte 2",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 6,
+        "fase": "Implementación",
+        "item": "Capacitación Técnica",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-10",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-05",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Segunda sesión de Construcción de Acuerdos",
+        "facilitador": "Ana",
+        "acompanantes": "Victor Hernández Matthieu Carriere",
+        "personas": 8,
+        "fase": "Implementación",
+        "item": "Construcción de acuerdos",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-03",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Capacitación Tecnica #4 - Sesión 7-9",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 6,
+        "fase": "Implementación",
+        "item": "Capacitación Técnica",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-03",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-29",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Capacitación Tecnica #3 - Sesión 6",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 6,
+        "fase": "Implementación",
+        "item": "Capacitación Técnica",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-29",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-27",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Capacitación Tecnica #2 - Sesión 4-5",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 6,
+        "fase": "Implementación",
+        "item": "Capacitación Técnica",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-27",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-22",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Capacitación Tecnica #1 - Sesión 1-3",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 7,
+        "fase": "Implementación",
+        "item": "Capacitación Técnica",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-15",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez Victor Hernández",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-15",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento instalación con comité",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez Victor Hernández",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Reunión con comité",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-15",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 0,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-08",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Construcción de Acuerdos Organizativos - Sesión 1",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 8,
+        "fase": "Implementación",
+        "item": "Reunión con comité",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-02",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Documentación Instalación STAS",
+        "facilitador": "Fatima",
+        "acompanantes": "Saúl Juarez",
+        "personas": 12,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-02",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Siguientes pasos CdP + Capacitaciones técnicas",
+        "facilitador": "Victor",
+        "acompanantes": "Matthieu Carriere",
+        "personas": 12,
+        "fase": "Implementación",
+        "item": "Reunión con comité",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-01",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Alvaro",
+        "acompanantes": "Jaime Mata Victor Hernández",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-30",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Saúl",
+        "acompanantes": "Victor Hernández",
+        "personas": null,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-29",
+        "categoria": "STAS - Implementación / Infraestructura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Instalación STAS",
+        "facilitador": "Matthieu",
+        "acompanantes": "",
+        "personas": 5,
+        "fase": "Implementación",
+        "item": "Instalación STAS",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.google.com/share/AF1QipME_F626RjymDTacL6tWbbJmKO1_AV0T07HXLamCZIr7EyJxhe_OaLzVNgZPm3leA?key=aDhSdm1wWkdDbXZOYzJjTkVmRWpKcmhZajY0TnVR"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-22",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Conversación sobre cambios internos en CdA",
+        "facilitador": "Victor",
+        "acompanantes": "Saúl Juarez Dylan Terrell",
+        "personas": 10,
+        "fase": "Implementación",
+        "item": "Reunión con comité",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-09-09",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Adecuaciones del espacio",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Adecuaciones del espacio",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.google.com/share/AF1QipND9J9w5WuA3LruteODuXoZxYOKbZFAo1p-sPWrBvvxhSoG8p5zEV_6tkSLQLeEUA?key=VXVESE1SX2JrQkYxOWVMbU55T2R6NWo5Q21UZjVB"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-29",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Siguientes pasos CdP + Adecuaciones del espacio",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 8,
+        "fase": "Implementación",
+        "item": "Siguientes pasos CdP + Adecuaciones del espacio",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-18",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Entrrega de resultados de Calidad de Agua y siguientes pasos",
+        "facilitador": "Victor",
+        "acompanantes": "Alejandra Rodríguez Alfaro",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Entrega resultados calidad de agua",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-10",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Fortalecimiento de Capacidades - Sesión 6",
+        "facilitador": "Ana Lilia",
+        "acompanantes": "Victor Hernández",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Fortalecimiento de Capacidades",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-08",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Fortalecimiento de Capacidades - Sesión 5",
+        "facilitador": "Ana Lilia",
+        "acompanantes": "Victor Hernández",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Fortalecimiento de Capacidades",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-03",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Fortalecimiento de Capacidades - Sesión 4",
+        "facilitador": "Paola",
+        "acompanantes": "Victor Hernández",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Fortalecimiento de Capacidades",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-01",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Fortalecimiento de Capacidades - Sesión 3",
+        "facilitador": "Paola",
+        "acompanantes": "Victor Hernández",
+        "personas": 10,
+        "fase": "Implementación",
+        "item": "Fortalecimiento de Capacidades",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-27",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Fortalecimiento de Capacidades - Sesión 2",
+        "facilitador": "Ana Lilia",
+        "acompanantes": "Victor Hernández",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Fortalecimiento de Capacidades",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-25",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Fortalecimiento de Capacidades - Sesión 1",
+        "facilitador": "Ana Lilia",
+        "acompanantes": "Victor Hernández",
+        "personas": 9,
+        "fase": "Implementación",
+        "item": "Fortalecimiento de Capacidades",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6wSobsWFdQqSXBym9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-22",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Análisis Hidráulico",
+        "facilitador": "Matthieu",
+        "acompanantes": "",
+        "personas": 12,
+        "fase": "Construcción de propuesta",
+        "item": "Análisis Hidráulico",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-15",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Toma de muestra CIATEC para análisis completo de calidad de agua",
+        "facilitador": "Victor",
+        "acompanantes": "Alvaro GutierrezFátima Almeida",
+        "personas": 10,
+        "fase": "Firma de acuerdo",
+        "item": "Análisis completo de Calidad de Agua",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.google.com/share/AF1QipORzglmiymxGNNb-z-oMZMoBFrc3SqFBGlQzcxdAl4VViM__ZNSaUC8XFdEifmwcQ?key=eUpSSDVhSnFSeVVhRU5ZbXJYSWM2QnA2Y3RxdTd3"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-04",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Validación cronograma general y proceso de Fortalecimiento de Capacidades",
+        "facilitador": "Victor",
+        "acompanantes": "Fátima Almeida",
+        "personas": 8,
+        "fase": "Construcción de propuesta",
+        "item": "Validación cronograma y Fortalecimiento de Capacidades",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GvSrsuXqBu2tKbW79"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-06-07",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Diagnóstico Comunitario STAS",
+        "facilitador": "Victor",
+        "acompanantes": "almancilla@gmail.com",
+        "personas": 32,
+        "fase": "Dialogar",
+        "item": "Diagnóstico Comunitario",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/krUWnH1vzLGnsfWPA"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-06-07",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Devolución Diagnóstico Comunitario y siguientes pasos STAS",
+        "facilitador": "Victor",
+        "acompanantes": "Saúl Juarez",
+        "personas": 4,
+        "fase": "Firma de acuerdo",
+        "item": "Devolución Diagnóstico Comunitario y siguientes pasos STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-05-31",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Asamblea Comunitaria - Acercamiento STAS",
+        "facilitador": "Victor",
+        "acompanantes": "Saúl Juarez",
+        "personas": 33,
+        "fase": "Dialogar",
+        "item": "Asamblea Comunitaria",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1Rphb7jFZoSQn7hufjgV0be3AaRfALMAugP-5uzLfk2Q/edit?tab=t.0#heading=h.1bo9ws3p5uxo"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-23",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con grupo motor - Detalles y preparativos para asamblea con la comunidad",
+        "facilitador": "Victor",
+        "acompanantes": "Ana Torres almancilla@gmail.com",
+        "personas": 8,
+        "fase": "Dialogar",
+        "item": "Reunión con grupo motor",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/12v5Q7-NMUVYZEoTjfJ4qnovZ7miJqwrt2U24QZg77E0/edit?tab=t.0#heading=h.l8p4802p9wki"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-01",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Entrega de resultados de calidad de agua y propuesta de adecuaciones al edificio STAS",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 9,
+        "fase": "Dialogar",
+        "item": "Entrega de resultados de calidad de agua",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1d70k6OjzjKC-9txPy0NRu9I8lh8yFTfN2LKXyt6IkPY/edit?tab=t.0#heading=h.ron0gwllywkr"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-05",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Visita al STAS de Alonso Yáñez",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "Dialogar",
+        "item": "Visita al STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-04-05",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Visita al STAS de Alonso Yáñez",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "Dialogar",
+        "item": "Visita al STAS",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-27",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Conversación con organismo operador SIMAPAS",
+        "facilitador": "Saúl",
+        "acompanantes": "Alejandra Rodríguez Alfaro",
+        "personas": 11,
+        "fase": "Dialogar",
+        "item": "Asamblea Comunitaria",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-24",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con organismo operador y recabación de datos técnicos",
+        "facilitador": "Saúl",
+        "acompanantes": "Alejandra Rodríguez Alfaro",
+        "personas": 10,
+        "fase": "Dialogar",
+        "item": "Asamblea Comunitaria",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-14",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Primer Acercamiento con Familias - San Elías y Santo Niño de Trancas",
+        "facilitador": "Saúl",
+        "acompanantes": "Omar Bárcenas Victor Hernández",
+        "personas": 42,
+        "fase": "Dialogar",
+        "item": "Asamblea Comunitaria",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-05",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Primer Acercamiento con Comités de Agua y Comités de Apoyos - San Elías, Santo Niño de Trancas, Estancia de Zamarripa y Cerrote de la Puerta",
+        "facilitador": "Saúl",
+        "acompanantes": "Victor Hernández",
+        "personas": 19,
+        "fase": "Dialogar",
+        "item": "Reunión con Comités de Agua y Comités de Apoyos",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Los Ricos de Arriba",
+    "municipio": "San Miguel de Allende",
+    "total": 36,
+    "last_activity": "2026-05-28",
+    "first_activity": "2025-03-04",
+    "days_since": -10,
+    "acts_3m": 11,
+    "acts_6m": 13,
+    "primary_clase": "Nuestra Agua / STAS",
+    "clase_counts": {
+      "Nuestra Agua / STAS": 36
+    },
+    "latest_stas_phase": "Uso y Apropriación",
+    "cats": {
+      "STAS Social": 8,
+      "STAS Técnico": 28,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "Caminos de Agua"
+    ],
+    "log": [
+      {
+        "fecha": "2026-05-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Recoger primeros 2 lotes de carbón de hueso del nuevo horno eléctrico",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-21",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con todo el grupo",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-12",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio de foco UV y pagos.",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-30",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Recoleccion de carbon para RSSCT",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desecho de solucion de regeneracion",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneracion",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-22",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desinfección",
+        "facilitador": "Aura",
+        "acompanantes": "Matthieu",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tratamiento de solución gastada",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-07",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tratamiento de solución gastada",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-01",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tratamiento de solución gastada",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-31",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración de carbón de hueso",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-30",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración de carbón de hueso",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-28",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con todo el grupo",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-14",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con todo el grupo",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 16,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-18",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimientos varios",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-07",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 5,
+        "fase": "Uso y Apropriación",
+        "item": "Ingreso Familias Nuevas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio foco UV",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Mantenimiento",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-21",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-09",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimientos varios",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-06-26",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Monitoreo STAS",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Monitoreo tech",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-06-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desinfección",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Desinfección",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-06-23",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio de tubería y desinfección",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Cambio de tubería + desinfección",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-06-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Regent Plant",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale, Fatima",
+        "personas": 3,
+        "fase": "Uso y Apropriación",
+        "item": "Quema, Colado y reunión con Jeff",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1hp0S0Y7AAfqoPWYumsC9gZJ3BIG5wa5p?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Recoger Carbon de hueso",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Nuevo BC para AY",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-05-27",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta Regen",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Regen Plant",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-05-21",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración BC (3/3)",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-20",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración BC (2/3)",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-19",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración BC (1/3)",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-09",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Quema carbón de hueso y preparacion Rege",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Otro",
+        "item": "Quema",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-04-30",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Horno eléctrico y Seguimo Regeneracion",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Otro",
+        "item": "Horno electrico",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1plrfMy-r7yaJz0I3JYnyt7Lupqg2SqCS?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Otro",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p0xMycrzfryBBjHYtKzIcWLjV303bx2r?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-22",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Otro",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1g8HGG3uCLwDfn6ZHmllkuImhLBSnLrpD?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Otro",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-04-07",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Bayoxide columns check",
+        "facilitador": "Jaime",
+        "acompanantes": "Nico",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "System check",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-04-03",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Bayoxide columns change",
+        "facilitador": "Jaime",
+        "acompanantes": "Alejandro, Nico",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "Bayoxide columns change",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-15",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
+        "facilitador": "Victor",
+        "acompanantes": "Marina, Agustina, Carmen",
+        "personas": 5,
+        "fase": "Uso y Apropriación",
+        "item": "Ingreso Familias Nuevas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-04",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Asamblea con familias integrantes del Piloto 2",
+        "facilitador": "Victor",
+        "acompanantes": "Marina, Agustina, Carmen",
+        "personas": 23,
+        "fase": "Uso y Apropriación",
+        "item": "Asamblea de Familias Usuarias",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Marroquín de Abajo",
+    "municipio": "San Miguel de Allende",
+    "total": 12,
+    "last_activity": "2026-05-28",
+    "first_activity": "2025-06-18",
+    "days_since": -10,
+    "acts_3m": 5,
+    "acts_6m": 8,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 12
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 4,
+      "M&E": 1,
+      "Seg. Tec.": 2,
+      "Reunión AEA": 0,
+      "Grupo Com.": 1,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 1,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "Rancho Sol Dorado"
+    ],
+    "log": [
+      {
+        "fecha": "2026-05-28",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-23",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "estar presente para ver el proceso de instalacion",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-17",
+        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Instalación de primer SCALL (Plástico - 5,000L) Marroquin",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/VS5Wj4xLSkUpDM9Q6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-22",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Visita a Familias en sus hogares para orientar la instalción de SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "compañero de Marroquin;",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/s8ujjkhP46DpKTup6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-19",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Ultimo taller formativo, Agua de lluvia y alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/47THRb5fuCwfZn748"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-12",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 3, Contaminantes e impactos a la Salud por Arsénico y Fluoruro.",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/df8mfPWfQkcMWs4E8"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-15",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Retomando el proceso, introduccion a cuenca y cuidados técnicos antes de inatalación",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 24,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jFctK57aHv3e3Y9W8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-11-25",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesion de acuerdos y compromisos con el grupo de Marroquin y la Mesita",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 23,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-14",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion con personas que sol dorado invita",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 30,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-28",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Seguimiento",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-03",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "presentar a lideres de la comunidad de Marroquin la intencon de hacer alguna colaboracion a nvel de comunidad.",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-06-18",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Tener una reunion para explorar la posibilidad de hacer una colaboracion en la comuniadd de Marroquin",
+        "facilitador": "Dylan",
+        "acompanantes": "Saul",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Santa Rosa",
+    "municipio": "San Felipe",
+    "total": 1,
+    "last_activity": "2026-05-26",
+    "first_activity": "2026-05-26",
+    "days_since": -8,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Otro",
+    "clase_counts": {
+      "Otro": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 1,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [],
+    "log": [
+      {
+        "fecha": "2026-05-26",
+        "categoria": "Nuestra Agua-Exploración",
+        "clase": "Otro",
+        "notas": "Visita a planta de osmosi inversa para explorar colaboración con la SAMA",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": 13,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/BhoMmcaaykZWtR8t7"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1aoY96MfRfhqd7mhKnmhXULa4ZyO4wNR3E-tmjCZfmZA/edit?usp=sharing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "comunidad": "Salitrillo",
+    "municipio": "San Miguel de Allende",
+    "total": 5,
+    "last_activity": "2026-05-13",
+    "first_activity": "2024-05-16",
+    "days_since": 5,
+    "acts_3m": 3,
+    "acts_6m": 4,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 5
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 1,
+      "Seg. Tec.": 1,
+      "Reunión AEA": 0,
+      "Grupo Com.": 3,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-05-13",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Realizar enterga de filtros a comite que dara seguimiento para recambios a filtros EOZ",
+        "facilitador": "María José",
+        "acompanantes": "Omar Bárcenas",
+        "personas": 18,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6gcaLQGYyMR43hFn7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-28",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Compartir la manera de recambiar a filtros EOZ, y mejorar primer separador",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 35,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-25",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
+        "facilitador": "Omar",
+        "acompanantes": "María José Valle Avila Ana Torres",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-05",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-05-16",
+        "categoria": "Visita M&E-1 Agua y Salud",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
+        "facilitador": "Omar",
+        "acompanantes": "Ana",
+        "personas": 12,
+        "fase": "",
+        "item": "",
         "colaborador": "",
         "links": []
       }
@@ -6387,105 +6902,6 @@
     ]
   },
   {
-    "comunidad": "Salitrillo",
-    "municipio": "San Miguel de Allende",
-    "total": 4,
-    "last_activity": "2026-04-28",
-    "first_activity": "2024-05-16",
-    "days_since": 20,
-    "acts_3m": 2,
-    "acts_6m": 3,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 3,
-      "Otro": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 1,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 3,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-04-28",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Otro",
-        "notas": "Comparor manera de recambiar a filtros EOZ, y mejorar primer separador",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 35,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-25",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
-        "facilitador": "Omar",
-        "acompanantes": "María José Valle Avila Ana Torres",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-05",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 26,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-05-16",
-        "categoria": "Visita M&E-1 Agua y Salud",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
-        "facilitador": "Omar",
-        "acompanantes": "Ana",
-        "personas": 12,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
     "comunidad": "Dolores Hidalgo Cuna de la Independencia Nacional",
     "municipio": "Dolores Hidalgo",
     "total": 1,
@@ -6710,179 +7126,6 @@
     ]
   },
   {
-    "comunidad": "Marroquín de Abajo",
-    "municipio": "San Miguel de Allende",
-    "total": 9,
-    "last_activity": "2026-03-22",
-    "first_activity": "2025-06-18",
-    "days_since": 57,
-    "acts_3m": 2,
-    "acts_6m": 5,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 9
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 4,
-      "M&E": 1,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 1,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "Rancho Sol Dorado"
-    ],
-    "log": [
-      {
-        "fecha": "2026-03-22",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Visita a Familias en sus hogares para orientar la instalción de SCALL",
-        "facilitador": "Omar",
-        "acompanantes": "compañero de Marroquin;",
-        "personas": 26,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/s8ujjkhP46DpKTup6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-19",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Ultimo taller formativo, Agua de lluvia y alternativas de agua segura",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/47THRb5fuCwfZn748"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-12",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 3, Contaminantes e impactos a la Salud por Arsénico y Fluoruro.",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/df8mfPWfQkcMWs4E8"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-15",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Retomando el proceso, introduccion a cuenca y cuidados técnicos antes de inatalación",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 24,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/jFctK57aHv3e3Y9W8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-11-25",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesion de acuerdos y compromisos con el grupo de Marroquin y la Mesita",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 23,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-14",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion con personas que sol dorado invita",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 30,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-28",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Seguimiento",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-03",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "presentar a lideres de la comunidad de Marroquin la intencon de hacer alguna colaboracion a nvel de comunidad.",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-18",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Tener una reunion para explorar la posibilidad de hacer una colaboracion en la comuniadd de Marroquin",
-        "facilitador": "Dylan",
-        "acompanantes": "Saul",
-        "personas": 4,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
     "comunidad": "San Diego de la Unión",
     "municipio": "San Diego de la Unión",
     "total": 5,
@@ -6893,8 +7136,8 @@
     "acts_6m": 5,
     "primary_clase": "Filtros",
     "clase_counts": {
-      "Filtros": 3,
-      "Cosecha de Agua de Lluvia": 2
+      "Cosecha de Agua de Lluvia": 2,
+      "Filtros": 3
     },
     "latest_stas_phase": "",
     "cats": {
@@ -7595,9 +7838,9 @@
     "acts_6m": 0,
     "primary_clase": "Sanitarios Secos",
     "clase_counts": {
+      "Cosecha de Agua de Lluvia": 1,
       "Sanitarios Secos": 6,
-      "Educación": 4,
-      "Cosecha de Agua de Lluvia": 1
+      "Educación": 4
     },
     "latest_stas_phase": "",
     "cats": {
@@ -8378,7 +8621,7 @@
   {
     "comunidad": "La California",
     "municipio": "Dolores Hidalgo",
-    "total": 2,
+    "total": 3,
     "last_activity": "2025-09-17",
     "first_activity": "2024-10-15",
     "days_since": 243,
@@ -8386,7 +8629,7 @@
     "acts_6m": 0,
     "primary_clase": "Cosecha de Agua de Lluvia",
     "clase_counts": {
-      "Cosecha de Agua de Lluvia": 2
+      "Cosecha de Agua de Lluvia": 3
     },
     "latest_stas_phase": "",
     "cats": {
@@ -8394,7 +8637,7 @@
       "STAS Técnico": 0,
       "STAS Impl.": 0,
       "STAS Estudio": 0,
-      "Taller": 1,
+      "Taller": 2,
       "M&E": 1,
       "Seg. Tec.": 0,
       "Reunión AEA": 0,
@@ -8420,6 +8663,24 @@
         "facilitador": "COENLAVIS",
         "acompanantes": "",
         "personas": 6,
+        "fase": "",
+        "item": "",
+        "colaborador": "Coenlavis",
+        "links": [
+          {
+            "tipo": "doc",
+            "url": "https://photos.app.goo.gl/mwF3oJZ7KCouYgLE7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-13",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Taller de seguimiento y organización comunitaria, Coenlavis",
+        "facilitador": "COENLAVIS",
+        "acompanantes": "",
+        "personas": 5,
         "fase": "",
         "item": "",
         "colaborador": "Coenlavis",
@@ -8676,7 +8937,7 @@
   },
   {
     "comunidad": "Rancho de Ovejas",
-    "municipio": "Dolores Hidalgo",
+    "municipio": "San Diego de la Unión",
     "total": 2,
     "last_activity": "2025-08-20",
     "first_activity": "2024-10-08",
@@ -8750,7 +9011,7 @@
   },
   {
     "comunidad": "Cóporo",
-    "municipio": "Dolores Hidalgo",
+    "municipio": "San Diego de la Unión",
     "total": 2,
     "last_activity": "2025-08-20",
     "first_activity": "2024-11-06",
@@ -9005,17 +9266,17 @@
     ]
   },
   {
-    "comunidad": " La California",
+    "comunidad": "La Piedra",
     "municipio": "Dolores Hidalgo",
-    "total": 1,
+    "total": 2,
     "last_activity": "2025-08-13",
-    "first_activity": "2025-08-13",
+    "first_activity": "2024-10-22",
     "days_since": 278,
     "acts_3m": 0,
     "acts_6m": 0,
     "primary_clase": "Cosecha de Agua de Lluvia",
     "clase_counts": {
-      "Cosecha de Agua de Lluvia": 1
+      "Cosecha de Agua de Lluvia": 2
     },
     "latest_stas_phase": "",
     "cats": {
@@ -9024,7 +9285,7 @@
       "STAS Impl.": 0,
       "STAS Estudio": 0,
       "Taller": 1,
-      "M&E": 0,
+      "M&E": 1,
       "Seg. Tec.": 0,
       "Reunión AEA": 0,
       "Grupo Com.": 0,
@@ -9034,63 +9295,8 @@
       "EA": 0
     },
     "partners": [
-      "Coenlavis"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2025-08-13",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Taller de seguimiento y organización comunitaria, Coenlavis",
-        "facilitador": "COENLAVIS",
-        "acompanantes": "",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "Coenlavis",
-        "links": [
-          {
-            "tipo": "doc",
-            "url": "https://photos.app.goo.gl/mwF3oJZ7KCouYgLE7"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "comunidad": " La Piedra",
-    "municipio": "Dolores Hidalgo",
-    "total": 1,
-    "last_activity": "2025-08-13",
-    "first_activity": "2025-08-13",
-    "days_since": 278,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 1,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [
-      "Coenlavis"
+      "Coenlavis",
+      "SECOPA"
     ],
     "funders": [
       "FGRA - Fundación Gonzalo Río Arronte"
@@ -9111,6 +9317,24 @@
           {
             "tipo": "doc",
             "url": "https://photos.app.goo.gl/mwF3oJZ7KCouYgLE7"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-10-22",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Resgistro de 11 SCALL Rotoplas Cistern (5,000L)",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 11,
+        "fase": "",
+        "item": "",
+        "colaborador": "SECOPA",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ng8r71XhDuEJLv11A"
           }
         ]
       }
@@ -10175,62 +10399,6 @@
     ]
   },
   {
-    "comunidad": "La Piedra",
-    "municipio": "Dolores Hidalgo",
-    "total": 1,
-    "last_activity": "2024-10-22",
-    "first_activity": "2024-10-22",
-    "days_since": 573,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 1,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [
-      "SECOPA"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2024-10-22",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Resgistro de 11 SCALL Rotoplas Cistern (5,000L)",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 11,
-        "fase": "",
-        "item": "",
-        "colaborador": "SECOPA",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/ng8r71XhDuEJLv11A"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "comunidad": "Rancho Ovejas",
     "municipio": "Dolores Hidalgo",
     "total": 1,
@@ -10614,7 +10782,7 @@
     ]
   },
   {
-    "comunidad": "El Corcovado",
+    "comunidad": "San José del Corcovado",
     "municipio": "San Luis de la Paz",
     "total": 2,
     "last_activity": "2024-06-20",
