@@ -152,30 +152,27 @@ header{
 .photo-link:hover{background:#dde8ff;}
 .gps-note{font-size:10px;color:#bbb;font-style:italic;}
 
-/* SUMMARY ROW: fixed height at bottom */
-.sum-row{
-  flex:0 0 160px;
-  min-height:0;
-  background:#fff;
-  border-top:2px solid #dde2f0;
-  display:flex;
-  overflow-x:auto;
-  overflow-y:hidden;
-}
-.sum-row::-webkit-scrollbar{height:3px;}
-.sum-row::-webkit-scrollbar-thumb{background:#dde2f0;border-radius:3px;}
-.sum-sec{
-  padding:10px 14px;
-  border-right:1px solid #eef0f8;
-  min-width:150px;flex-shrink:0;
-  overflow-y:auto;
-}
-.sum-sec::-webkit-scrollbar{width:3px;}
-.sum-sec h3{font-size:9px;font-weight:600;color:var(--t);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;}
-.sum-tbl{font-size:10px;width:100%;border-collapse:collapse;}
-.sum-tbl td{padding:2px 4px 2px 0;}
+/* SUMMARY (now lives in the sidebar) */
+.sum-wrap{flex:1;overflow-y:auto;min-height:0;padding:10px 12px 16px;}
+.sum-sec{margin-bottom:14px;}
+.sum-sec h3{font-size:11px;font-weight:600;color:var(--t);text-transform:uppercase;letter-spacing:.05em;margin-bottom:6px;padding-bottom:3px;border-bottom:1px solid #eef;}
+.sum-tbl{font-size:12px;width:100%;border-collapse:collapse;}
+.sum-tbl td{padding:3px 4px 3px 0;}
 .sum-tbl td:last-child{font-weight:600;color:var(--b);text-align:right;padding-right:0;white-space:nowrap;}
-.sum-tbl tr.no-gps td{color:#bbb;font-style:italic;}
+.sum-tbl tr.no-gps td{color:#bbb;font-style:italic;font-size:11px;}
+.dq-note{font-size:11px;color:#777;line-height:1.5;background:#fbfbe8;border:1px solid #ecebc0;border-radius:6px;padding:8px 10px;margin-bottom:14px;}
+.dq-note b{color:#9a7b00;}
+
+/* COLLAPSIBLE COMMUNITY LIST */
+.comm-toggle{
+  display:flex;align-items:center;gap:5px;cursor:pointer;user-select:none;
+  font-size:12px;font-weight:600;color:var(--b);
+  padding:8px 0 8px;border-top:1px solid #eef0f8;
+}
+.comm-toggle .arr{transition:transform .15s;font-size:10px;color:#888;}
+.comm-toggle.open .arr{transform:rotate(90deg);}
+.comm-list{display:none;}
+.comm-list.open{display:block;}
 
 /* LEAFLET LEGEND */
 .lg{
@@ -239,16 +236,16 @@ header{
     <div id="map"></div>
     <div class="sb">
       <div style="display:flex;flex-direction:column;height:100%;position:relative;">
-        <!-- List view -->
+        <!-- Summary view (default) -->
         <div id="list-view" style="display:flex;flex-direction:column;height:100%;">
           <div class="srch"><input type="text" id="sq" placeholder="Buscar comunidad…" autocomplete="off"></div>
-          <div class="sbh"><h2 id="sbt">Sistemas</h2><p id="sbs"></p></div>
-          <div class="sl" id="sl"></div>
+          <div class="sbh"><h2 id="sbt">Resumen</h2><p id="sbs"></p></div>
+          <div class="sum-wrap" id="sum-wrap"></div>
         </div>
         <!-- Detail view -->
         <div class="dv" id="dv">
           <div class="dv-head">
-            <button class="dv-back" id="dv-back">← Volver</button>
+            <button class="dv-back" id="dv-back">← Volver al resumen</button>
             <h2 id="dv-name"></h2>
             <div class="sub" id="dv-sub"></div>
           </div>
@@ -260,7 +257,6 @@ header{
     <div class="lg" id="legend"></div>
     <div class="dc">Datos actualizados al abril 2026 · caminosdeagua.org</div>
   </div>
-  <div class="sum-row" id="sum-row"></div>
 </div>
 
 <script>
@@ -328,7 +324,9 @@ function go(){
       radius:6,fillColor:color,color:'#fff',weight:1.5,fillOpacity:.88
     }).bindPopup(mkPop(s),{maxWidth:230,autoPan:false});
     mk.on('click',()=>{
-      openDetail(s);
+      const byComm=groupByCommunity(filtered);
+      const comm=byComm[s.comunidad+'||'+s.municipio];
+      if(comm)openCommunity(comm);
       map.flyTo([s.lat,s.lon],Math.max(map.getZoom(),14),{duration:1.0,easeLinearity:0.15});
       map.once('moveend',()=>mk.openPopup());
     });
@@ -340,8 +338,7 @@ function go(){
   document.getElementById('legend').innerHTML='<h4>Tecnología</h4>'+
     techsNow.map(t=>`<div class="lr"><div class="ld" style="background:${TC[t]||'#253489'}"></div>${t.split('—')[1]?.trim()||t}</div>`).join('');
 
-  updList(filtered);
-  updSummary(filtered);
+  updSidebar(filtered);
 }
 
 function mkPop(s){
@@ -353,62 +350,55 @@ ${s.benef?`<div class="pr"><span class="k">Beneficiarios</span><span class="v">$
 ${s.financiador&&s.financiador!=='Desconocido'?`<div class="pr"><span class="k">Financiador</span><span class="v">${s.financiador.replace('FGRA — Fundación Gonzalo Río Arronte','FGRA')}</span></div>`:''}`;
 }
 
-function updList(filtered){
-  const sl=document.getElementById('sl');
-  document.getElementById('sbt').textContent=`${filtered.length.toLocaleString()} sistemas`;
-  document.getElementById('sbs').textContent=`${filtered.filter(s=>s.lat).length} en el mapa`;
-  sl.innerHTML='';
-  if(!filtered.length){sl.innerHTML='<div class="no-res">Sin resultados.</div>';return;}
-
+function groupByCommunity(filtered){
   const byComm={};
   filtered.forEach(s=>{
     const k=s.comunidad+'||'+s.municipio;
-    if(!byComm[k])byComm[k]={comunidad:s.comunidad,municipio:s.municipio,systems:[],lat:null,lon:null};
+    if(!byComm[k])byComm[k]={key:k,comunidad:s.comunidad,municipio:s.municipio,systems:[],lat:null,lon:null};
     byComm[k].systems.push(s);
-    if(s.lat&&!byComm[k].lat){byComm[k].lat=s.lat;byComm[k].lon=s.lon;}
+    if(s.lat&&byComm[k].lat===null){byComm[k].lat=s.lat;byComm[k].lon=s.lon;}
   });
-
-  Object.values(byComm).sort((a,b)=>a.comunidad.localeCompare(b.comunidad,'es')).forEach(comm=>{
-    const d=document.createElement('div');
-    d.className='sc';
-    const tc={};
-    comm.systems.forEach(s=>{tc[s.tech]=(tc[s.tech]||0)+1;});
-    const tags=Object.entries(tc).map(([t,n])=>{
-      const col=TC[t]||'#253489';
-      const label=t.split('—')[1]?.trim()||t;
-      return `<span style="background:${col}22;color:${col};border:1px solid ${col}44">${label}: ${n}</span>`;
-    }).join('');
-    d.innerHTML=`<h3>${comm.comunidad}</h3><div class="mn">${comm.municipio}</div><div class="tg">${tags}</div>`;
-    d.addEventListener('click',()=>{
-      if(comm.lat)map.flyTo([comm.lat,comm.lon],14,{duration:1.0,easeLinearity:0.15});
-      openDetail(comm.systems[0]);
-    });
-    sl.appendChild(d);
-  });
+  return byComm;
 }
 
-function updSummary(filtered){
-  const row=document.getElementById('sum-row');
-  const byTech={},byFin={},byYear={};
+function updSidebar(filtered){
+  const wrap=document.getElementById('sum-wrap');
+  document.getElementById('sbt').textContent='Resumen';
+  document.getElementById('sbs').textContent=`${filtered.length.toLocaleString()} sistemas · ${filtered.filter(s=>s.lat).length} en el mapa`;
+  if(!filtered.length){wrap.innerHTML='<div class="no-res">Sin resultados para estos filtros.</div>';return;}
+
+  const byTech={},byFin={},byYear={},byMun={};
   filtered.forEach(s=>{
     if(!byTech[s.tech])byTech[s.tech]={total:0,mapped:0};
     byTech[s.tech].total++;if(s.lat)byTech[s.tech].mapped++;
     const f=s.financiador||'Desconocido';
     byFin[f]=(byFin[f]||0)+1;
     if(s.año)byYear[s.año]=(byYear[s.año]||0)+1;
+    const m=s.municipio||'Sin municipio';
+    byMun[m]=(byMun[m]||0)+1;
   });
   const unmapped=filtered.filter(s=>!s.lat).length;
 
   let h='';
+
+  // Por tecnología (with inline sin-GPS rows)
   h+=`<div class="sum-sec"><h3>Por tecnología</h3><table class="sum-tbl">`;
   Object.entries(byTech).sort((a,b)=>b[1].total-a[1].total).forEach(([t,v])=>{
     const noGPS=v.total-v.mapped;
     const label=t.split('—')[1]?.trim()||t;
     h+=`<tr><td style="color:${TC[t]||'#253489'};font-weight:500">${label}</td><td>${v.total}</td></tr>`;
-    if(noGPS>0)h+=`<tr class="no-gps"><td style="padding-left:8px">sin GPS</td><td>${noGPS}</td></tr>`;
+    if(noGPS>0)h+=`<tr class="no-gps"><td style="padding-left:10px">sin GPS</td><td>${noGPS}</td></tr>`;
   });
   h+=`</table></div>`;
 
+  // Por municipio
+  h+=`<div class="sum-sec"><h3>Por municipio</h3><table class="sum-tbl">`;
+  Object.entries(byMun).sort((a,b)=>b[1]-a[1]).forEach(([m,n])=>{
+    h+=`<tr><td>${m}</td><td>${n}</td></tr>`;
+  });
+  h+=`</table></div>`;
+
+  // Por financiador
   h+=`<div class="sum-sec"><h3>Por financiador</h3><table class="sum-tbl">`;
   Object.entries(byFin).sort((a,b)=>b[1]-a[1]).forEach(([f,n])=>{
     const label=f.replace('FGRA — Fundación Gonzalo Río Arronte','FGRA').replace('Municipality of San Diego de la Unión','Mun. San Diego');
@@ -416,61 +406,119 @@ function updSummary(filtered){
   });
   h+=`</table></div>`;
 
+  // Por año
   h+=`<div class="sum-sec"><h3>Por año</h3><table class="sum-tbl">`;
   Object.entries(byYear).sort((a,b)=>parseInt(a[0])-parseInt(b[0])).forEach(([y,n])=>{
     h+=`<tr><td>${y}</td><td>${n}</td></tr>`;
   });
   h+=`</table></div>`;
 
+  // Data-quality note
   if(unmapped>0){
-    h+=`<div class="sum-sec" style="max-width:280px"><h3>Sin coordenadas GPS</h3>
-    <div style="font-size:11px;color:#666;line-height:1.5">${unmapped} sistemas no aparecen en el mapa.<br>
-    <span style="font-size:10px;color:#bbb">Las coordenadas se irán completando en el registro.</span></div></div>`;
+    h+=`<div class="dq-note"><b>${unmapped.toLocaleString()} sistemas</b> sin coordenadas GPS no aparecen en el mapa. Use la búsqueda o la lista de comunidades para encontrarlos. Las coordenadas se irán completando en el registro.</div>`;
   }
-  row.innerHTML=h;
+
+  // Collapsible community list
+  const byComm=groupByCommunity(filtered);
+  const comms=Object.values(byComm).sort((a,b)=>a.comunidad.localeCompare(b.comunidad,'es'));
+  h+=`<div class="comm-toggle" id="comm-toggle"><span class="arr">▸</span> ${comms.length} comunidades</div>`;
+  h+=`<div class="comm-list" id="comm-list">`;
+  comms.forEach(comm=>{
+    const tc={};
+    comm.systems.forEach(s=>{tc[s.tech]=(tc[s.tech]||0)+1;});
+    const tags=Object.entries(tc).map(([t,n])=>{
+      const col=TC[t]||'#253489';
+      const label=t.split('—')[1]?.trim()||t;
+      return `<span style="background:${col}22;color:${col};border:1px solid ${col}44">${label}: ${n}</span>`;
+    }).join('');
+    const gps=comm.lat?'':' <span style="color:#bbb;font-size:9px">⚠ sin GPS</span>';
+    h+=`<div class="sc" data-key="${comm.key.replace(/"/g,'&quot;')}"><h3>${comm.comunidad}${gps}</h3><div class="mn">${comm.municipio}</div><div class="tg">${tags}</div></div>`;
+  });
+  h+=`</div>`;
+
+  wrap.innerHTML=h;
+
+  // Wire collapse toggle (auto-open when searching)
+  const tog=document.getElementById('comm-toggle'), lst=document.getElementById('comm-list');
+  if(ST.q){tog.classList.add('open');lst.classList.add('open');}
+  tog.addEventListener('click',()=>{tog.classList.toggle('open');lst.classList.toggle('open');});
+
+  // Wire community cards
+  wrap.querySelectorAll('.sc').forEach(card=>{
+    card.addEventListener('click',()=>{
+      const comm=byComm[card.dataset.key];
+      if(comm){
+        if(comm.lat)map.flyTo([comm.lat,comm.lon],14,{duration:1.0,easeLinearity:0.15});
+        openCommunity(comm);
+      }
+    });
+  });
 }
 
-function openDetail(s){
-  const color=TC[s.tech]||'#253489';
-  document.getElementById('dv-name').textContent=s.comunidad;
-  document.getElementById('dv-sub').innerHTML=`<span class="tech-badge" style="background:${color}">${s.tech}</span>`;
+function openCommunity(comm){
+  const sys=comm.systems;
+  document.getElementById('dv-name').textContent=comm.comunidad;
+
+  // Tech badges in header
+  const tc={};
+  sys.forEach(s=>{tc[s.tech]=(tc[s.tech]||0)+1;});
+  const badges=Object.entries(tc).map(([t,n])=>{
+    const col=TC[t]||'#253489';
+    const label=t.split('—')[1]?.trim()||t;
+    return `<span class="tech-badge" style="background:${col};margin-right:4px">${label}: ${n}</span>`;
+  }).join('');
+  document.getElementById('dv-sub').innerHTML=`<div style="color:#888;font-size:11px;margin-bottom:5px">${comm.municipio} · ${sys.length} sistema${sys.length!==1?'s':''}</div>${badges}`;
+
   let h='';
 
-  if(s.benef||s.mujeres||s.hombres||s.ninos||s.ninas){
-    h+='<div class="section"><h4>Beneficiarios</h4><div class="benef-grid">';
-    if(s.benef)h+=`<div class="benef-box"><div class="bn">${s.benef}</div><div class="bl">Total</div></div>`;
-    if(s.mujeres)h+=`<div class="benef-box"><div class="bn">${s.mujeres}</div><div class="bl">Mujeres</div></div>`;
-    if(s.hombres)h+=`<div class="benef-box"><div class="bn">${s.hombres}</div><div class="bl">Hombres</div></div>`;
-    if(s.ninos)h+=`<div class="benef-box"><div class="bn">${s.ninos}</div><div class="bl">Niños</div></div>`;
-    if(s.ninas)h+=`<div class="benef-box"><div class="bn">${s.ninas}</div><div class="bl">Niñas</div></div>`;
+  // Aggregate beneficiaries
+  const sum=(k)=>sys.reduce((a,s)=>a+(s[k]||0),0);
+  const tBen=sum('benef'),tMuj=sum('mujeres'),tHom=sum('hombres'),tNin=sum('ninos'),tNia=sum('ninas');
+  if(tBen||tMuj||tHom||tNin||tNia){
+    h+='<div class="section"><h4>Beneficiarios (total comunidad)</h4><div class="benef-grid">';
+    if(tBen)h+=`<div class="benef-box"><div class="bn">${tBen}</div><div class="bl">Total</div></div>`;
+    if(tMuj)h+=`<div class="benef-box"><div class="bn">${tMuj}</div><div class="bl">Mujeres</div></div>`;
+    if(tHom)h+=`<div class="benef-box"><div class="bn">${tHom}</div><div class="bl">Hombres</div></div>`;
+    if(tNin)h+=`<div class="benef-box"><div class="bn">${tNin}</div><div class="bl">Niños</div></div>`;
+    if(tNia)h+=`<div class="benef-box"><div class="bn">${tNia}</div><div class="bl">Niñas</div></div>`;
     h+='</div></div>';
   }
 
-  h+='<div class="section"><h4>Detalles</h4>';
-  if(s.id)h+=`<div class="dt-row"><span class="k">Código</span><span class="v">${s.id}</span></div>`;
-  if(s.municipio)h+=`<div class="dt-row"><span class="k">Municipio</span><span class="v">${s.municipio}</span></div>`;
-  if(s.fecha)h+=`<div class="dt-row"><span class="k">Fecha</span><span class="v">${s.fecha}</span></div>`;
-  if(s.año)h+=`<div class="dt-row"><span class="k">Año</span><span class="v">${s.año}</span></div>`;
+  // Years, funders, collaborators, projects across the community
+  const yrs=[...new Set(sys.map(s=>s.año).filter(Boolean))].sort();
+  const fins=[...new Set(sys.map(s=>s.financiador).filter(f=>f&&f!=='Desconocido'))];
+  const cols=[...new Set(sys.map(s=>s.colaborador).filter(Boolean))];
+  const pros=[...new Set(sys.map(s=>s.proyecto).filter(Boolean))];
+  h+='<div class="section"><h4>Resumen</h4>';
+  if(yrs.length)h+=`<div class="dt-row"><span class="k">Años</span><span class="v">${yrs[0]===yrs[yrs.length-1]?yrs[0]:yrs[0]+'–'+yrs[yrs.length-1]}</span></div>`;
+  if(fins.length)h+=`<div class="dt-row"><span class="k">Financiador${fins.length>1?'es':''}</span><span class="v">${fins.map(f=>f.replace('FGRA — Fundación Gonzalo Río Arronte','FGRA')).join(', ')}</span></div>`;
+  if(cols.length)h+=`<div class="dt-row"><span class="k">Colaborador${cols.length>1?'es':''}</span><span class="v">${cols.join(', ')}</span></div>`;
+  if(pros.length)h+=`<div class="dt-row"><span class="k">Proyecto${pros.length>1?'s':''}</span><span class="v">${pros.join(', ')}</span></div>`;
+  const mapped=sys.filter(s=>s.lat).length;
+  h+=`<div class="dt-row"><span class="k">En el mapa</span><span class="v">${mapped} de ${sys.length}</span></div>`;
   h+='</div>';
 
-  h+='<div class="section"><h4>Financiamiento y colaboración</h4>';
-  if(s.financiador&&s.financiador!=='Desconocido')
-    h+=`<div class="dt-row"><span class="k">Financiador</span><span class="v">${s.financiador}</span></div>`;
-  if(s.colaborador)
-    h+=`<div class="dt-row"><span class="k">Colaborador</span><span class="v">${s.colaborador}</span></div>`;
-  if(s.proyecto)
-    h+=`<div class="dt-row"><span class="k">Proyecto</span><span class="v">${s.proyecto}</span></div>`;
+  // Per-system list
+  h+=`<div class="section"><h4>Sistemas (${sys.length})</h4>`;
+  sys.slice().sort((a,b)=>(a.fecha||'').localeCompare(b.fecha||'')).forEach(s=>{
+    const col=TC[s.tech]||'#253489';
+    const label=s.tech.split('—')[1]?.trim()||s.tech;
+    h+=`<div style="border:1px solid #eef0f8;border-radius:6px;padding:7px 9px;margin-bottom:6px;">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;gap:8px">
+        <span style="font-weight:600;color:${col};font-size:11px">${label}</span>
+        <span style="font-size:10px;color:#aaa">${s.fecha||s.año||''}</span>
+      </div>`;
+    if(s.id)h+=`<div style="font-size:10px;color:#888;margin-top:2px">Código: ${s.id}</div>`;
+    if(s.benef)h+=`<div style="font-size:10px;color:#888">${s.benef} beneficiarios</div>`;
+    if(s.foto_goo||s.foto_drive){
+      h+='<div style="display:flex;gap:6px;margin-top:4px;flex-wrap:wrap">';
+      if(s.foto_goo)h+=`<a class="photo-link" style="font-size:10px;padding:2px 7px" href="${s.foto_goo}" target="_blank">📷 Fotos</a>`;
+      if(s.foto_drive)h+=`<a class="photo-link" style="font-size:10px;padding:2px 7px" href="${s.foto_drive}" target="_blank">📁 Drive</a>`;
+      h+='</div>';
+    }
+    h+=`</div>`;
+  });
   h+='</div>';
-
-  if(s.foto_goo||s.foto_drive){
-    h+='<div class="section"><h4>Fotos y documentos</h4><div class="photo-links">';
-    if(s.foto_goo)h+=`<a class="photo-link" href="${s.foto_goo}" target="_blank">📷 Ver fotos (Google Photos)</a>`;
-    if(s.foto_drive)h+=`<a class="photo-link" href="${s.foto_drive}" target="_blank">📁 Ver en Google Drive</a>`;
-    h+='</div></div>';
-  }
-
-  if(s.lat)h+=`<div class="section"><h4>GPS</h4><div class="gps-note">${s.lat.toFixed(5)}, ${s.lon.toFixed(5)}</div></div>`;
-  else h+=`<div class="section"><div class="gps-note">Sin coordenadas GPS registradas</div></div>`;
 
   document.getElementById('dv-body').innerHTML=h;
   document.getElementById('dv-body').scrollTop=0;
