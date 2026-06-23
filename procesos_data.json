@@ -2,15 +2,15 @@
   {
     "comunidad": "Alonso Yáñez",
     "municipio": "San Miguel de Allende",
-    "total": 307,
-    "last_activity": "2026-06-10",
+    "total": 308,
+    "last_activity": "2026-06-20",
     "first_activity": "2023-05-11",
-    "days_since": -23,
-    "acts_3m": 6,
-    "acts_6m": 8,
+    "days_since": -33,
+    "acts_3m": 7,
+    "acts_6m": 9,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 307
+      "Nuestra Agua / STAS": 308
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
@@ -26,7 +26,7 @@
       "Expl. NA": 0,
       "Monitoreo": 0,
       "Capacitación": 0,
-      "EA": 0
+      "EA": 1
     },
     "partners": [
       "CUVAPAS"
@@ -36,6 +36,24 @@
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
     "log": [
+      {
+        "fecha": "2026-06-20",
+        "categoria": "EA - Rama Agua Segura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Visita, encuentro y conversación con Nuestra Agua en Alonso Yáñez",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 11,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/UWhq7FPfmyZjsWoo7"
+          }
+        ]
+      },
       {
         "fecha": "2026-06-10",
         "categoria": "STAS - Técnico",
@@ -4082,19 +4100,19 @@
   {
     "comunidad": "San Elías",
     "municipio": "Dolores Hidalgo",
-    "total": 95,
-    "last_activity": "2026-06-02",
+    "total": 96,
+    "last_activity": "2026-06-18",
     "first_activity": "2025-03-05",
-    "days_since": -15,
-    "acts_3m": 29,
-    "acts_6m": 51,
+    "days_since": -31,
+    "acts_3m": 30,
+    "acts_6m": 52,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 95
+      "Nuestra Agua / STAS": 96
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
-      "STAS Social": 36,
+      "STAS Social": 37,
       "STAS Técnico": 34,
       "STAS Impl.": 12,
       "STAS Estudio": 0,
@@ -4113,6 +4131,19 @@
       "Caminos de Agua"
     ],
     "log": [
+      {
+        "fecha": "2026-06-18",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento a Acuerdos Organizativos",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 14,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento Acuerdos Organizativos",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-06-02",
         "categoria": "STAS - Técnico",
@@ -4148,7 +4179,7 @@
         "acompanantes": "",
         "personas": 7,
         "fase": "Uso y Apropriación",
-        "item": "",
+        "item": "Seguimiento Acuerdos Organizativos",
         "colaborador": "",
         "links": []
       },
@@ -5470,6 +5501,72 @@
         "fase": "Dialogar",
         "item": "Reunión con Comités de Agua y Comités de Apoyos",
         "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "San Miguel de Allende",
+    "municipio": "San Miguel de Allende",
+    "total": 2,
+    "last_activity": "2026-06-15",
+    "first_activity": "2025-11-14",
+    "days_since": -28,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Educación",
+    "clase_counts": {
+      "Educación": 1,
+      "Nuestra Agua / STAS": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 1,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 1
+    },
+    "partners": [
+      "Hermandad de la cuenca"
+    ],
+    "funders": [
+      "Caminos de Agua",
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-06-15",
+        "categoria": "EA - Rama Agua Segura",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Sesión virtual - planeación y organización visita a Nuestra Agua Alonso Yáñez",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-14",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Sesión con la Comisión de la Hermandad para co-crear la intención del Foro Público como proceso iniciado desde Caminos-Inana frente al compromiso del Proyecto de Agua en Acción.",
+        "facilitador": "Casilda",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "Hermandad de la cuenca",
         "links": []
       }
     ]
@@ -7021,8 +7118,8 @@
       "Grupo Com.": 0,
       "Expl. NA": 0,
       "Monitoreo": 0,
-      "Capacitación": 5,
-      "EA": 1
+      "Capacitación": 0,
+      "EA": 6
     },
     "partners": [
       "CUVAPAS",
@@ -7034,7 +7131,7 @@
     "log": [
       {
         "fecha": "2026-04-03",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "categoria": "EA - Rama Agua Segura",
         "clase": "Cosecha de Agua de Lluvia",
         "notas": "Dia 5. Capacitacion Tecnica  cosntruiran de cisterna; ferrocemento de 12 mil Litros",
         "facilitador": "Omar",
@@ -7047,7 +7144,7 @@
       },
       {
         "fecha": "2026-04-02",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "categoria": "EA - Rama Agua Segura",
         "clase": "Cosecha de Agua de Lluvia",
         "notas": "Dia 4. Capacitacion Tecnica  cosntruiran de cisterna; ferrocemento de 12 mil Litros",
         "facilitador": "Omar",
@@ -7060,7 +7157,7 @@
       },
       {
         "fecha": "2026-04-01",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "categoria": "EA - Rama Agua Segura",
         "clase": "Cosecha de Agua de Lluvia",
         "notas": "Dia 3. Capacitacion Tecnica  cosntruiran de cisterna; ferrocemento de 12 mil Litros",
         "facilitador": "Omar",
@@ -7073,7 +7170,7 @@
       },
       {
         "fecha": "2026-03-31",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "categoria": "EA - Rama Agua Segura",
         "clase": "Cosecha de Agua de Lluvia",
         "notas": "Dia 2. Capacitacion Tecnica  cosntruiran de cisterna; ferrocemento de 12 mil Litros",
         "facilitador": "Omar",
@@ -7086,7 +7183,7 @@
       },
       {
         "fecha": "2026-03-30",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "categoria": "EA - Rama Agua Segura",
         "clase": "Cosecha de Agua de Lluvia",
         "notas": "Dia 1. Capacitacion Tecnica  cosntruiran de cisterna; ferrocemento de 12 mil Litros",
         "facilitador": "Omar",
@@ -7099,7 +7196,7 @@
       },
       {
         "fecha": "2026-03-21",
-        "categoria": "EA-Ramas",
+        "categoria": "EA - Rama Agua Segura",
         "clase": "Cosecha de Agua de Lluvia",
         "notas": "Acordar momentos de la construccion de la cisterna de ferrocemnto, con la familia que lo construira junto a la Rama de agua segura",
         "facilitador": "Omar",
@@ -7777,12 +7874,12 @@
     ]
   },
   {
-    "comunidad": "San Miguel de Allende",
+    "comunidad": "Los Ricos de Abajo",
     "municipio": "San Miguel de Allende",
     "total": 1,
-    "last_activity": "2025-11-14",
-    "first_activity": "2025-11-14",
-    "days_since": 185,
+    "last_activity": "2025-11-15",
+    "first_activity": "2025-11-15",
+    "days_since": 184,
     "acts_3m": 0,
     "acts_6m": 0,
     "primary_clase": "Educación",
@@ -7798,32 +7895,35 @@
       "Taller": 0,
       "M&E": 0,
       "Seg. Tec.": 0,
-      "Reunión AEA": 1,
+      "Reunión AEA": 0,
       "Grupo Com.": 0,
       "Expl. NA": 0,
       "Monitoreo": 0,
       "Capacitación": 0,
-      "EA": 0
+      "EA": 1
     },
-    "partners": [
-      "Hermandad de la cuenca"
-    ],
+    "partners": [],
     "funders": [
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
     "log": [
       {
-        "fecha": "2025-11-14",
-        "categoria": "Reunión de seguimiento AEA",
+        "fecha": "2025-11-15",
+        "categoria": "EA - Rama Agua Segura",
         "clase": "Educación",
-        "notas": "Sesión con la Comisión de la Hermandad para co-crear la intención del Foro Público como proceso iniciado desde Caminos-Inana frente al compromiso del Proyecto de Agua en Acción.",
-        "facilitador": "Casilda",
-        "acompanantes": "",
-        "personas": null,
+        "notas": "Visita a Nuestra Agua Los Ricos",
+        "facilitador": "Victor",
+        "acompanantes": "Omar Bárcenas",
+        "personas": 6,
         "fase": "",
         "item": "",
-        "colaborador": "Hermandad de la cuenca",
-        "links": []
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/wcH9AT44yhBN3ics7"
+          }
+        ]
       }
     ]
   },
