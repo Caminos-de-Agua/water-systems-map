@@ -5572,6 +5572,463 @@
     ]
   },
   {
+    "comunidad": "San Pedro de la Sierra",
+    "municipio": "Dolores Hidalgo",
+    "total": 23,
+    "last_activity": "2026-06-12",
+    "first_activity": "2024-08-26",
+    "days_since": -25,
+    "acts_3m": 2,
+    "acts_6m": 3,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 22,
+      "Filtros": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 8,
+      "M&E": 2,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 6,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 1,
+      "EA": 0
+    },
+    "partners": [
+      "Grupo motivador de San Pedro de la Sierra"
+    ],
+    "funders": [
+      "Amistad Canada"
+    ],
+    "log": [
+      {
+        "fecha": "2026-06-12",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión de seguimiento y consulta de un posible siguiente proceso de Multiplicador@s en la región",
+        "facilitador": "Ana",
+        "acompanantes": "Omar, Susi, Eli, Pedro",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "Grupo motivador de San Pedro de la Sierra",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/1dttXqLbdcKx231Z8"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/16KhpN3PRZQw2-XUmiw201E5iLSxdnLmOq2kNBdKlwKU/edit?tab=t.0#heading=h.uzgwg173ap76"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-13",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión de seguimiento y consulta de un posible siguiente proceso de Multiplicador@s en la región",
+        "facilitador": "Ana",
+        "acompanantes": "Omar, Susi, Eli, Pedro",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "Grupo motivador de San Pedro de la Sierra",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/16KhpN3PRZQw2-XUmiw201E5iLSxdnLmOq2kNBdKlwKU/edit?tab=t.0#heading=h.uzgwg173ap76"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-12-09",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión de retroalimentación de proceso de Multiplicador@s",
+        "facilitador": "Ana",
+        "acompanantes": "Omar, Susi, Eli, Pedro",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "Grupo motivador de San Pedro de la Sierra",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/16KhpN3PRZQw2-XUmiw201E5iLSxdnLmOq2kNBdKlwKU/edit?tab=t.0"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-22",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión virtual ¿Cómo va todo?",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "Grupo motivador de San Pedro de la Sierra",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/16KhpN3PRZQw2-XUmiw201E5iLSxdnLmOq2kNBdKlwKU/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-08",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Atestiguar y respaldar, a replicadoras en su primera sesion de inicio de proceso",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 15,
+        "fase": "",
+        "item": "",
+        "colaborador": "Grupo motivador de San Pedro de la Sierra",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/bYyJsMEqZwq4PpMh8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-01",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Empezar proceso con grupo motivador que animará proceso de implementación de SCALLs",
+        "facilitador": "Ana",
+        "acompanantes": "Omar",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "Grupo motivador de San Pedro de la Sierra",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/bYyJsMEqZwq4PpMh8"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/1a5b2yA1yNkSjxh3euMexeiJBU2AeBh8f/edit?usp=sharing&ouid=118247189377518096848&rtpof=true&sd=true"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-21",
+        "categoria": "Capacitación técnica - Entrega de Filtro",
+        "clase": "Filtros",
+        "notas": "Entrega recepción de 25 filtros ceramicos a las comunidades de San Pedro de la Sierra y Peña colorada",
+        "facilitador": "Omar",
+        "acompanantes": "Ana Torres",
+        "personas": 28,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/3aEifyfRFFWQznsLA"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-01-24",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Resgitro de 25 SCALL - Rotoplas (5,000) en San Pedro de la Sierra y Peña colorada",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 30,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/pTCDpwizFY84ERuu7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-01-20",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Retomar el proceso- Ofrecimientos (Experiencias de intercambio) y siguientes pasos.",
+        "facilitador": "Omar",
+        "acompanantes": "Fátima Almeida",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-12-16",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Compartiendo experiencias, y cierre de año",
+        "facilitador": "Ana",
+        "acompanantes": "Omar",
+        "personas": 40,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/KsqaVPNdyseRJ7y99"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://drive.google.com/drive/folders/12uEQDymthI2qUtvbk3CEM7pJvMHPPhyc?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-11-25",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión 4- Capacitación Técnica",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/zXELro6yandHoZo46"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-11-23",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Entrega de Materiales para instalación (techo, primer separador, Cietrna)",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-11-16",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Entrega de Materiales para construcción de base de cisterna",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 17,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "doc",
+            "url": "https://drive.google.com/drive/folders/1A3Ma3X_3lplCttJdrYBeVHc_Fz65pa7o?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-11-11",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 6 Agua de lluvia como oportunidad",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 31,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-11-05",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Visita a familias en sus hogares para orientar la instalación de cisternas",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 16,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "doc",
+            "url": "https://drive.google.com/drive/folders/1dk8sGNN8V4b89bzj7ivLcH1jqNk35lke?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-10-28",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 5. Alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 31,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/WUNZD1Tsw6kqtMDX6"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-10-21",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 4. Efectos en la Salud",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 31,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/PkC3pMR8q1PuHPoP6"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-10-14",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 3. Tipos de contaminates y experiencias de gestión",
+        "facilitador": "Omar",
+        "acompanantes": "Fatíma",
+        "personas": 29,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/tVVz8XAZPBPeoDAx8"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-10-07",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión 2. Mirada de cuenca y situacion regional . mas Resto de 10 lineas base",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl",
+        "personas": 31,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/uD4U9WaVe9wdVH7m6"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-09-25",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Líneas base a 8 personas del grupo comunitario",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 8,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2024-09-23",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión 1. Presentación, Acuerdos de convivencia y compromisos, presentes personas de la comunidad de Peña Colorada",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juárez",
+        "personas": 32,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jZV6rJTAnLPq3DtG9"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1b6Nv5h4ytqINK8sfSETDSNpTmc8xTjKCsZa6QcGgYKo/edit?usp=sharing"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://drive.google.com/drive/folders/1aL9Wpultxv_tXkDZZjzdn-zuIwXvmyJm?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-09-04",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "seguir explorando la posibilidad",
+        "facilitador": "Saúl",
+        "acompanantes": "Tere de Tampico",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1b6Nv5h4ytqINK8sfSETDSNpTmc8xTjKCsZa6QcGgYKo/edit"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://drive.google.com/drive/folders/1vY4_ZaXtRVDYzS62pP8Td8l4MyTLEu-j?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-08-26",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Conocer a la comunidad y al grupo. fue la primera vez despues de que habian mandado una invitacion y conocerle y ver si habria la posibilidad dehacer una colaboracion",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 17,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1vY4_ZaXtRVDYzS62pP8Td8l4MyTLEu-j?usp=drive_link"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "comunidad": "Los Ricos de Arriba",
     "municipio": "San Miguel de Allende",
     "total": 36,
@@ -8214,405 +8671,6 @@
           {
             "tipo": "doc",
             "url": "https://photos.app.goo.gl/mwF3oJZ7KCouYgLE7"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "comunidad": "San Pedro de la Sierra",
-    "municipio": "Dolores Hidalgo",
-    "total": 20,
-    "last_activity": "2025-10-22",
-    "first_activity": "2024-08-26",
-    "days_since": 208,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 19,
-      "Filtros": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 8,
-      "M&E": 2,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 6,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 1,
-      "EA": 0
-    },
-    "partners": [
-      "Grupo motivador de San Pedro de la Sierra"
-    ],
-    "funders": [
-      "Amistad Canada"
-    ],
-    "log": [
-      {
-        "fecha": "2025-10-22",
-        "categoria": "Multiplicador@s",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesión virtual ¿Cómo va todo?",
-        "facilitador": "Ana",
-        "acompanantes": "",
-        "personas": 4,
-        "fase": "",
-        "item": "",
-        "colaborador": "Grupo motivador de San Pedro de la Sierra",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/16KhpN3PRZQw2-XUmiw201E5iLSxdnLmOq2kNBdKlwKU/edit?usp=sharing"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-08",
-        "categoria": "Multiplicador@s",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Atestiguar y respaldar, a replicadoras en su primera sesion de inicio de proceso",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 15,
-        "fase": "",
-        "item": "",
-        "colaborador": "Grupo motivador de San Pedro de la Sierra",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/bYyJsMEqZwq4PpMh8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-01",
-        "categoria": "Multiplicador@s",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Empezar proceso con grupo motivador que animará proceso de implementación de SCALLs",
-        "facilitador": "Ana",
-        "acompanantes": "Omar",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "Grupo motivador de San Pedro de la Sierra",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/bYyJsMEqZwq4PpMh8"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://docs.google.com/document/d/1a5b2yA1yNkSjxh3euMexeiJBU2AeBh8f/edit?usp=sharing&ouid=118247189377518096848&rtpof=true&sd=true"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-21",
-        "categoria": "Capacitación técnica - Entrega de Filtro",
-        "clase": "Filtros",
-        "notas": "Entrega recepción de 25 filtros ceramicos a las comunidades de San Pedro de la Sierra y Peña colorada",
-        "facilitador": "Omar",
-        "acompanantes": "Ana Torres",
-        "personas": 28,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/3aEifyfRFFWQznsLA"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-01-24",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Resgitro de 25 SCALL - Rotoplas (5,000) en San Pedro de la Sierra y Peña colorada",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 30,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/pTCDpwizFY84ERuu7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-01-20",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Retomar el proceso- Ofrecimientos (Experiencias de intercambio) y siguientes pasos.",
-        "facilitador": "Omar",
-        "acompanantes": "Fátima Almeida",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-12-16",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Compartiendo experiencias, y cierre de año",
-        "facilitador": "Ana",
-        "acompanantes": "Omar",
-        "personas": 40,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/KsqaVPNdyseRJ7y99"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://drive.google.com/drive/folders/12uEQDymthI2qUtvbk3CEM7pJvMHPPhyc?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-11-25",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesión 4- Capacitación Técnica",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/zXELro6yandHoZo46"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-11-23",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Entrega de Materiales para instalación (techo, primer separador, Cietrna)",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-11-16",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Entrega de Materiales para construcción de base de cisterna",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 17,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "doc",
-            "url": "https://drive.google.com/drive/folders/1A3Ma3X_3lplCttJdrYBeVHc_Fz65pa7o?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-11-11",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 6 Agua de lluvia como oportunidad",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 31,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-11-05",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Visita a familias en sus hogares para orientar la instalación de cisternas",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 16,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "doc",
-            "url": "https://drive.google.com/drive/folders/1dk8sGNN8V4b89bzj7ivLcH1jqNk35lke?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-10-28",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 5. Alternativas de agua segura",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 31,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/WUNZD1Tsw6kqtMDX6"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-10-21",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 4. Efectos en la Salud",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 31,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/PkC3pMR8q1PuHPoP6"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-10-14",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 3. Tipos de contaminates y experiencias de gestión",
-        "facilitador": "Omar",
-        "acompanantes": "Fatíma",
-        "personas": 29,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/tVVz8XAZPBPeoDAx8"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-10-07",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesión 2. Mirada de cuenca y situacion regional . mas Resto de 10 lineas base",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl",
-        "personas": 31,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/uD4U9WaVe9wdVH7m6"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-09-25",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Líneas base a 8 personas del grupo comunitario",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 8,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2024-09-23",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesión 1. Presentación, Acuerdos de convivencia y compromisos, presentes personas de la comunidad de Peña Colorada",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juárez",
-        "personas": 32,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/jZV6rJTAnLPq3DtG9"
-          },
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1b6Nv5h4ytqINK8sfSETDSNpTmc8xTjKCsZa6QcGgYKo/edit?usp=sharing"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://drive.google.com/drive/folders/1aL9Wpultxv_tXkDZZjzdn-zuIwXvmyJm?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-09-04",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "seguir explorando la posibilidad",
-        "facilitador": "Saúl",
-        "acompanantes": "Tere de Tampico",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1b6Nv5h4ytqINK8sfSETDSNpTmc8xTjKCsZa6QcGgYKo/edit"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://drive.google.com/drive/folders/1vY4_ZaXtRVDYzS62pP8Td8l4MyTLEu-j?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-08-26",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Conocer a la comunidad y al grupo. fue la primera vez despues de que habian mandado una invitacion y conocerle y ver si habria la posibilidad dehacer una colaboracion",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 17,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1vY4_ZaXtRVDYzS62pP8Td8l4MyTLEu-j?usp=drive_link"
           }
         ]
       }
