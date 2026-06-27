@@ -5506,6 +5506,431 @@
     ]
   },
   {
+    "comunidad": "El Pájaro Bobo",
+    "municipio": "Dolores Hidalgo",
+    "total": 23,
+    "last_activity": "2026-06-17",
+    "first_activity": "2025-06-26",
+    "days_since": -30,
+    "acts_3m": 4,
+    "acts_6m": 8,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 16,
+      "Nuestra Agua / STAS": 6,
+      "Filtros": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 7,
+      "M&E": 2,
+      "Seg. Tec.": 1,
+      "Reunión AEA": 0,
+      "Grupo Com.": 3,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 7,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-06-17",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Entrega de Resultados de monitoreo a nuevo pozo comunitario y postura de caminos de agua en torno a posibilidad de Nuestra Agua",
+        "facilitador": "Omar",
+        "acompanantes": "Alvaro Gutierrez",
+        "personas": 22,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-04",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "A compañar y servir de apopyo para el comte quien promuve el cuidado del medio y de la saúl",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": 22,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-18",
+        "categoria": "Capacitación técnica - Entrega de Filtro",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Entrega de filtros y registros de SCALLs, Replicadoras Pájaro Bobo",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 14,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/aSELmhLQnrsUP3s49"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-20",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Construcción de Bases, construcción de Cisterna de Ferrocemento e instalaciones SCALLS.",
+        "facilitador": "Grupo de Pájaro Bobo",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/d1NX9ejYWx37zCfb6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-06",
+        "categoria": "Multiplicador@s",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Gestión y compra de Materiales, Replicadoras,",
+        "facilitador": "Grupo de Pájaro Bobo",
+        "acompanantes": "",
+        "personas": 13,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/48VRCRZTHPCw4oR16"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://drive.google.com/drive/folders/18XAEbn72_LUB47PLqtcwloSrbzhSmwWM?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-02",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "1er taller de multiplicadoras, facilitado por comite de Pájaro Bobo y recorrido a hogares para orientar la isntalcion de su SCALLS",
+        "facilitador": "Omar",
+        "acompanantes": "Maria Jose comite de Pájaro Bobo",
+        "personas": 13,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GkwEGGoqjz5pvCLA6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-20",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Retomar pendientes de instalcion e invitacion a experiencias de intercambio",
+        "facilitador": "Omar",
+        "acompanantes": "Fátima Almeida",
+        "personas": 21,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-19",
+        "categoria": "Capacitación técnica - Entrega de Filtro",
+        "clase": "Filtros",
+        "notas": "Entrega de 32 filtros a familais que instalrons su SCALL en la comunidad de Pájaro Bobo",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 32,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/3YKruNZedrmuprN9A"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-24",
+        "categoria": "Festejos",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Festejar/celebrar el trabajo en grupo y el logro de tener 32 SCALLS",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/KXtnoHRGPaCPQh38A"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-21",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Encuentro, para compartir en grupo experiencias y aprendisajes",
+        "facilitador": "Omar",
+        "acompanantes": "Ana Torres",
+        "personas": 28,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/CCCLAkjFHd29mVWK7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-06",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Registro de SCALLs; 9 de Ferrocemnto 12 mil l y 23 de Rotoplas 5 mil l.",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 34,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/e6ybHEpuiXMVbzTV7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-01",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Seguimentoa proceso, agenda de siguientes pasos",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 28,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/dWA3HdU6sy6RUD338"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-29",
+        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Dia 5. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
+        "facilitador": "Omar",
+        "acompanantes": "COENLAVIS: Don Martín",
+        "personas": 12,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-28",
+        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Dia 4. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
+        "facilitador": "Omar",
+        "acompanantes": "COENLAVIS: Don Martín",
+        "personas": 11,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-27",
+        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Dia 3. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
+        "facilitador": "Omar",
+        "acompanantes": "COENLAVIS: Don Martín",
+        "personas": 10,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-26",
+        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Dia 2. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros y encuentro con instaldores referentes para cisternas de 5 Mil L.",
+        "facilitador": "Omar",
+        "acompanantes": "COENLAVIS: Don Martín",
+        "personas": 11,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-25",
+        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Dia 1. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez\nCOENLAVIS: Don Martín",
+        "personas": 14,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/4mW5AD6y7z7R88ur6"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-18",
+        "categoria": "Visita M&E",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Construccion de bases para 23 SCALLs 5 Mil L del 18 AGO- 5 SEP",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": 23,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ZvncCmncGjzocNFT7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-06",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión 4. Vista a familias en sus hogares para orientar la instalación. Acuerdos para Instalación de SCALL y logísticas",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 42,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/bH3Dsq6fBc4BG43v6"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-29",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión 4. Alternativas de agua segura, agua de lluvia como oportunidad, SCALLS, Deninir modelo",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 40,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/HqAKs7XUAdjTPRnV8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-22",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 3.CONTAMINANTES E IMPACTOS A LA SALUD; lF y As. Ofrecimientos-Temas del grupo \"Bordo\"",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 39,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/Xjk7Kma2SAHtmoUh8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-08",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 2. MIRADA DE CUENCA Y SITUACIÓN REGIONAL DEL AGUA",
+        "facilitador": "Omar",
+        "acompanantes": "Fátima Almeida",
+        "personas": 37,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jGps5jiVngn6MCVz7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-06-26",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 1. Presentación, Acuerdos de convivencia y compromisos",
+        "facilitador": "Omar",
+        "acompanantes": "Ana Torres Victor Hernández",
+        "personas": 30,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1Qmz7Y_Sjs5Q7k-v2aajPkSSfUJdrsuJOjYOsOPOytNA/edit?tab=t.0#heading=h.2au6et2b9kzw"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/1c2JwiBitFsOUkpqI8dE7Kv8HS7LhpqixBpbSpZo_UXk/edit?tab=t.0"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "comunidad": "San Miguel de Allende",
     "municipio": "San Miguel de Allende",
     "total": 2,
@@ -5567,6 +5992,241 @@
         "fase": "",
         "item": "",
         "colaborador": "Hermandad de la cuenca",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Marroquín de Abajo",
+    "municipio": "San Miguel de Allende",
+    "total": 13,
+    "last_activity": "2026-06-14",
+    "first_activity": "2025-06-18",
+    "days_since": -27,
+    "acts_3m": 6,
+    "acts_6m": 9,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 13
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 4,
+      "M&E": 2,
+      "Seg. Tec.": 2,
+      "Reunión AEA": 0,
+      "Grupo Com.": 1,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 1,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "Rancho Sol Dorado"
+    ],
+    "log": [
+      {
+        "fecha": "2026-06-14",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Registro de SCALL (Plástico - 5,000L) en la comunidad e Marroquín",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/k6fwRHajEhyPo5AB6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-28",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-23",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "estar presente para ver el proceso de instalacion",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-17",
+        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Instalación de primer SCALL (Plástico - 5,000L) Marroquin",
+        "facilitador": "Omar",
+        "acompanantes": "Fa, Saúl, Natalia",
+        "personas": 10,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/VS5Wj4xLSkUpDM9Q6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-22",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Visita a Familias en sus hogares para orientar la instalción de SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "compañero de Marroquin;",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/s8ujjkhP46DpKTup6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-19",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Ultimo taller formativo, Agua de lluvia y alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/47THRb5fuCwfZn748"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-12",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 3, Contaminantes e impactos a la Salud por Arsénico y Fluoruro.",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/df8mfPWfQkcMWs4E8"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-15",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Retomando el proceso, introduccion a cuenca y cuidados técnicos antes de inatalación",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 24,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jFctK57aHv3e3Y9W8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-11-25",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesion de acuerdos y compromisos con el grupo de Marroquin y la Mesita",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 23,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-14",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion con personas que sol dorado invita",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 30,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-28",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Seguimiento",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-03",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "presentar a lideres de la comunidad de Marroquin la intencon de hacer alguna colaboracion a nvel de comunidad.",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-06-18",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Tener una reunion para explorar la posibilidad de hacer una colaboracion en la comuniadd de Marroquin",
+        "facilitador": "Dylan",
+        "acompanantes": "Saul",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
         "links": []
       }
     ]
@@ -6578,223 +7238,6 @@
     ]
   },
   {
-    "comunidad": "Marroquín de Abajo",
-    "municipio": "San Miguel de Allende",
-    "total": 12,
-    "last_activity": "2026-05-28",
-    "first_activity": "2025-06-18",
-    "days_since": -10,
-    "acts_3m": 5,
-    "acts_6m": 8,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 12
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 4,
-      "M&E": 1,
-      "Seg. Tec.": 2,
-      "Reunión AEA": 0,
-      "Grupo Com.": 1,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 1,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "Rancho Sol Dorado"
-    ],
-    "log": [
-      {
-        "fecha": "2026-05-28",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-23",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "estar presente para ver el proceso de instalacion",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-17",
-        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Instalación de primer SCALL (Plástico - 5,000L) Marroquin",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/VS5Wj4xLSkUpDM9Q6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-03-22",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Visita a Familias en sus hogares para orientar la instalción de SCALL",
-        "facilitador": "Omar",
-        "acompanantes": "compañero de Marroquin;",
-        "personas": 26,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/s8ujjkhP46DpKTup6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-19",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Ultimo taller formativo, Agua de lluvia y alternativas de agua segura",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/47THRb5fuCwfZn748"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-12",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 3, Contaminantes e impactos a la Salud por Arsénico y Fluoruro.",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/df8mfPWfQkcMWs4E8"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-15",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Retomando el proceso, introduccion a cuenca y cuidados técnicos antes de inatalación",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 24,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/jFctK57aHv3e3Y9W8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-11-25",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesion de acuerdos y compromisos con el grupo de Marroquin y la Mesita",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 23,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-14",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion con personas que sol dorado invita",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 30,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-28",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Seguimiento",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-03",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "presentar a lideres de la comunidad de Marroquin la intencon de hacer alguna colaboracion a nvel de comunidad.",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-18",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Tener una reunion para explorar la posibilidad de hacer una colaboracion en la comuniadd de Marroquin",
-        "facilitador": "Dylan",
-        "acompanantes": "Saul",
-        "personas": 4,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
     "comunidad": "Santa Rosa",
     "municipio": "San Felipe",
     "total": 1,
@@ -7040,418 +7483,6 @@
         "item": "",
         "colaborador": "Administración Municipal de SDU",
         "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "El Pájaro Bobo",
-    "municipio": "Dolores Hidalgo",
-    "total": 22,
-    "last_activity": "2026-05-04",
-    "first_activity": "2025-06-26",
-    "days_since": 14,
-    "acts_3m": 3,
-    "acts_6m": 7,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 15,
-      "Nuestra Agua / STAS": 6,
-      "Filtros": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 7,
-      "M&E": 2,
-      "Seg. Tec.": 1,
-      "Reunión AEA": 0,
-      "Grupo Com.": 2,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 7,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-05-04",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "A compañar y servir de apopyo para el comte quien promuve el cuidado del medio y de la saúl",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": 22,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-18",
-        "categoria": "Capacitación técnica - Entrega de Filtro",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Entrega de filtros y registros de SCALLs, Replicadoras Pájaro Bobo",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 14,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/aSELmhLQnrsUP3s49"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-20",
-        "categoria": "Multiplicador@s",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Construcción de Bases, construcción de Cisterna de Ferrocemento e instalaciones SCALLS.",
-        "facilitador": "Grupo de Pájaro Bobo",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/d1NX9ejYWx37zCfb6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-06",
-        "categoria": "Multiplicador@s",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Gestión y compra de Materiales, Replicadoras,",
-        "facilitador": "Grupo de Pájaro Bobo",
-        "acompanantes": "",
-        "personas": 13,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/48VRCRZTHPCw4oR16"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://drive.google.com/drive/folders/18XAEbn72_LUB47PLqtcwloSrbzhSmwWM?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-02",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "1er taller de multiplicadoras, facilitado por comite de Pájaro Bobo y recorrido a hogares para orientar la isntalcion de su SCALLS",
-        "facilitador": "Omar",
-        "acompanantes": "Maria Jose comite de Pájaro Bobo",
-        "personas": 13,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GkwEGGoqjz5pvCLA6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-20",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Retomar pendientes de instalcion e invitacion a experiencias de intercambio",
-        "facilitador": "Omar",
-        "acompanantes": "Fátima Almeida",
-        "personas": 21,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-19",
-        "categoria": "Capacitación técnica - Entrega de Filtro",
-        "clase": "Filtros",
-        "notas": "Entrega de 32 filtros a familais que instalrons su SCALL en la comunidad de Pájaro Bobo",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 32,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/3YKruNZedrmuprN9A"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-24",
-        "categoria": "Festejos",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Festejar/celebrar el trabajo en grupo y el logro de tener 32 SCALLS",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/KXtnoHRGPaCPQh38A"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-21",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Encuentro, para compartir en grupo experiencias y aprendisajes",
-        "facilitador": "Omar",
-        "acompanantes": "Ana Torres",
-        "personas": 28,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/CCCLAkjFHd29mVWK7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-06",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Registro de SCALLs; 9 de Ferrocemnto 12 mil l y 23 de Rotoplas 5 mil l.",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 34,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/e6ybHEpuiXMVbzTV7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-01",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Seguimentoa proceso, agenda de siguientes pasos",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 28,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/dWA3HdU6sy6RUD338"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-29",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Dia 5. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
-        "facilitador": "Omar",
-        "acompanantes": "COENLAVIS: Don Martín",
-        "personas": 12,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-28",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Dia 4. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
-        "facilitador": "Omar",
-        "acompanantes": "COENLAVIS: Don Martín",
-        "personas": 11,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-27",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Dia 3. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
-        "facilitador": "Omar",
-        "acompanantes": "COENLAVIS: Don Martín",
-        "personas": 10,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-26",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Dia 2. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros y encuentro con instaldores referentes para cisternas de 5 Mil L.",
-        "facilitador": "Omar",
-        "acompanantes": "COENLAVIS: Don Martín",
-        "personas": 11,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-25",
-        "categoria": "Capacitación técnica - SCALL (Ferrocemento - 12,000L)",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Dia 1. Capacitacion Tecnica a familias que cosntruiran su cisterna de ferrocemento de 12 mil Litros",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez\nCOENLAVIS: Don Martín",
-        "personas": 14,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/4mW5AD6y7z7R88ur6"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-18",
-        "categoria": "Visita M&E",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Construccion de bases para 23 SCALLs 5 Mil L del 18 AGO- 5 SEP",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": 23,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/ZvncCmncGjzocNFT7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-06",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesión 4. Vista a familias en sus hogares para orientar la instalación. Acuerdos para Instalación de SCALL y logísticas",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 42,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/bH3Dsq6fBc4BG43v6"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-29",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesión 4. Alternativas de agua segura, agua de lluvia como oportunidad, SCALLS, Deninir modelo",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 40,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/HqAKs7XUAdjTPRnV8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-22",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 3.CONTAMINANTES E IMPACTOS A LA SALUD; lF y As. Ofrecimientos-Temas del grupo \"Bordo\"",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 39,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/Xjk7Kma2SAHtmoUh8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-08",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 2. MIRADA DE CUENCA Y SITUACIÓN REGIONAL DEL AGUA",
-        "facilitador": "Omar",
-        "acompanantes": "Fátima Almeida",
-        "personas": 37,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/jGps5jiVngn6MCVz7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-06-26",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 1. Presentación, Acuerdos de convivencia y compromisos",
-        "facilitador": "Omar",
-        "acompanantes": "Ana Torres Victor Hernández",
-        "personas": 30,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1Qmz7Y_Sjs5Q7k-v2aajPkSSfUJdrsuJOjYOsOPOytNA/edit?tab=t.0#heading=h.2au6et2b9kzw"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://docs.google.com/document/d/1c2JwiBitFsOUkpqI8dE7Kv8HS7LhpqixBpbSpZo_UXk/edit?tab=t.0"
-          }
-        ]
       }
     ]
   },
