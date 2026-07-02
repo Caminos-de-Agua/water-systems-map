@@ -1,5 +1,139 @@
 [
   {
+    "comunidad": "Salitrillo",
+    "municipio": "San Miguel de Allende",
+    "total": 6,
+    "last_activity": "2026-07-07",
+    "first_activity": "2024-05-16",
+    "days_since": -50,
+    "acts_3m": 4,
+    "acts_6m": 5,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 6
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 1,
+      "Seg. Tec.": 2,
+      "Reunión AEA": 0,
+      "Grupo Com.": 3,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-07",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Proceso de recambio de Primer seprador Valvula grey por tuberia hidraulica",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 10,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GzTCVjTbvJCYXwdD8"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-13",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Realizar enterga de filtros a comite que dara seguimiento para recambios a filtros EOZ",
+        "facilitador": "María José",
+        "acompanantes": "Omar Bárcenas",
+        "personas": 18,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6gcaLQGYyMR43hFn7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-28",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Compartir la manera de recambiar a filtros EOZ, y mejorar primer separador",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 35,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-25",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
+        "facilitador": "Omar",
+        "acompanantes": "María José Valle Avila Ana Torres",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-05",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-05-16",
+        "categoria": "Visita M&E-1 Agua y Salud",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
+        "facilitador": "Omar",
+        "acompanantes": "Ana",
+        "personas": 12,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "San Elías",
     "municipio": "Dolores Hidalgo",
     "total": 100,
@@ -1534,6 +1668,259 @@
         "fase": "",
         "item": "",
         "colaborador": "Hermandad de la cuenca",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Marroquín de Abajo",
+    "municipio": "San Miguel de Allende",
+    "total": 14,
+    "last_activity": "2026-06-28",
+    "first_activity": "2025-06-18",
+    "days_since": -41,
+    "acts_3m": 7,
+    "acts_6m": 10,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 14
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 4,
+      "M&E": 2,
+      "Seg. Tec.": 2,
+      "Reunión AEA": 0,
+      "Grupo Com.": 1,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 1,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "Rancho Sol Dorado"
+    ],
+    "log": [
+      {
+        "fecha": "2026-06-28",
+        "categoria": "Festejos",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Festejo del grupo de cisternas comunidad de Marroquin de Abajo.",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/2HpWwDP4EbsAVwck7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-06-14",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Registro de SCALL (Plástico - 5,000L) en la comunidad e Marroquín",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/k6fwRHajEhyPo5AB6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-28",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-23",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "estar presente para ver el proceso de instalacion",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-17",
+        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Instalación de primer SCALL (Plástico - 5,000L) Marroquin",
+        "facilitador": "Omar",
+        "acompanantes": "Fa, Saúl, Natalia",
+        "personas": 10,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/VS5Wj4xLSkUpDM9Q6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-22",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Visita a Familias en sus hogares para orientar la instalción de SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "compañero de Marroquin;",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/s8ujjkhP46DpKTup6"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-19",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Ultimo taller formativo, Agua de lluvia y alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/47THRb5fuCwfZn748"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-12",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "SESIÓN 3, Contaminantes e impactos a la Salud por Arsénico y Fluoruro.",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/df8mfPWfQkcMWs4E8"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-01-15",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Retomando el proceso, introduccion a cuenca y cuidados técnicos antes de inatalación",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 24,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jFctK57aHv3e3Y9W8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-11-25",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesion de acuerdos y compromisos con el grupo de Marroquin y la Mesita",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 23,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-14",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion con personas que sol dorado invita",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 30,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-08-28",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Seguimiento",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-03",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "presentar a lideres de la comunidad de Marroquin la intencon de hacer alguna colaboracion a nvel de comunidad.",
+        "facilitador": "Saúl",
+        "acompanantes": "Daniela",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-06-18",
+        "categoria": "",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Tener una reunion para explorar la posibilidad de hacer una colaboracion en la comuniadd de Marroquin",
+        "facilitador": "Dylan",
+        "acompanantes": "Saul",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
         "links": []
       }
     ]
@@ -6062,241 +6449,6 @@
     ]
   },
   {
-    "comunidad": "Marroquín de Abajo",
-    "municipio": "San Miguel de Allende",
-    "total": 13,
-    "last_activity": "2026-06-14",
-    "first_activity": "2025-06-18",
-    "days_since": -27,
-    "acts_3m": 6,
-    "acts_6m": 9,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 13
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 4,
-      "M&E": 2,
-      "Seg. Tec.": 2,
-      "Reunión AEA": 0,
-      "Grupo Com.": 1,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 1,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "Rancho Sol Dorado"
-    ],
-    "log": [
-      {
-        "fecha": "2026-06-14",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Registro de SCALL (Plástico - 5,000L) en la comunidad e Marroquín",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/k6fwRHajEhyPo5AB6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-05-28",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-23",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "estar presente para ver el proceso de instalacion",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-17",
-        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Instalación de primer SCALL (Plástico - 5,000L) Marroquin",
-        "facilitador": "Omar",
-        "acompanantes": "Fa, Saúl, Natalia",
-        "personas": 10,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/VS5Wj4xLSkUpDM9Q6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-03-22",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Visita a Familias en sus hogares para orientar la instalción de SCALL",
-        "facilitador": "Omar",
-        "acompanantes": "compañero de Marroquin;",
-        "personas": 26,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/s8ujjkhP46DpKTup6"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-19",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Ultimo taller formativo, Agua de lluvia y alternativas de agua segura",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/47THRb5fuCwfZn748"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-12",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "SESIÓN 3, Contaminantes e impactos a la Salud por Arsénico y Fluoruro.",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/df8mfPWfQkcMWs4E8"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-01-15",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Retomando el proceso, introduccion a cuenca y cuidados técnicos antes de inatalación",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 24,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/jFctK57aHv3e3Y9W8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-11-25",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesion de acuerdos y compromisos con el grupo de Marroquin y la Mesita",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 23,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-14",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion con personas que sol dorado invita",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 30,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-08-28",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Seguimiento",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-03",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "presentar a lideres de la comunidad de Marroquin la intencon de hacer alguna colaboracion a nvel de comunidad.",
-        "facilitador": "Saúl",
-        "acompanantes": "Daniela",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-18",
-        "categoria": "",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Tener una reunion para explorar la posibilidad de hacer una colaboracion en la comuniadd de Marroquin",
-        "facilitador": "Dylan",
-        "acompanantes": "Saul",
-        "personas": 4,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
     "comunidad": "San Pedro de la Sierra",
     "municipio": "Dolores Hidalgo",
     "total": 23,
@@ -7355,122 +7507,6 @@
             "url": "https://docs.google.com/document/d/1aoY96MfRfhqd7mhKnmhXULa4ZyO4wNR3E-tmjCZfmZA/edit?usp=sharing"
           }
         ]
-      }
-    ]
-  },
-  {
-    "comunidad": "Salitrillo",
-    "municipio": "San Miguel de Allende",
-    "total": 5,
-    "last_activity": "2026-05-13",
-    "first_activity": "2024-05-16",
-    "days_since": 5,
-    "acts_3m": 3,
-    "acts_6m": 4,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 5
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 1,
-      "Seg. Tec.": 1,
-      "Reunión AEA": 0,
-      "Grupo Com.": 3,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-05-13",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Realizar enterga de filtros a comite que dara seguimiento para recambios a filtros EOZ",
-        "facilitador": "María José",
-        "acompanantes": "Omar Bárcenas",
-        "personas": 18,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6gcaLQGYyMR43hFn7"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-04-28",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Compartir la manera de recambiar a filtros EOZ, y mejorar primer separador",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 35,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-25",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
-        "facilitador": "Omar",
-        "acompanantes": "María José Valle Avila Ana Torres",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-05",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 26,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-05-16",
-        "categoria": "Visita M&E-1 Agua y Salud",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
-        "facilitador": "Omar",
-        "acompanantes": "Ana",
-        "personas": 12,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
       }
     ]
   },
