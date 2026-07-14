@@ -1,16 +1,604 @@
 [
   {
+    "comunidad": "Los Ricos de Arriba",
+    "municipio": "San Miguel de Allende",
+    "total": 39,
+    "last_activity": "2026-07-13",
+    "first_activity": "2025-03-04",
+    "days_since": -56,
+    "acts_3m": 14,
+    "acts_6m": 16,
+    "primary_clase": "Nuestra Agua / STAS",
+    "clase_counts": {
+      "Nuestra Agua / STAS": 39
+    },
+    "latest_stas_phase": "Uso y Apropriación",
+    "cats": {
+      "STAS Social": 8,
+      "STAS Técnico": 31,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "Caminos de Agua"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-13",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Excavacion Fosa y limpieza PR parte 2",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-07-09",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Negociacion maquinista y limpieza de PR",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-07-07",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Limpieza para trabajos de fosa de infiltracion",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Recoger primeros 2 lotes de carbón de hueso del nuevo horno eléctrico",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-21",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con todo el grupo",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-12",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio de foco UV y pagos.",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-30",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Recoleccion de carbon para RSSCT",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desecho de solucion de regeneracion",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneracion",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-22",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desinfección",
+        "facilitador": "Aura",
+        "acompanantes": "Matthieu",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tratamiento de solución gastada",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-07",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tratamiento de solución gastada",
+        "facilitador": "Alvaro",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-01",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Tratamiento de solución gastada",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-31",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración de carbón de hueso",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-30",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración de carbón de hueso",
+        "facilitador": "Alvaro",
+        "acompanantes": "Aura",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-28",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con todo el grupo",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-14",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Reunión con todo el grupo",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 16,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-18",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimientos varios",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-07",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 5,
+        "fase": "Uso y Apropriación",
+        "item": "Ingreso Familias Nuevas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio foco UV",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Mantenimiento",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-21",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-09",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimientos varios",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 3,
+        "fase": "Uso y Apropriación",
+        "item": "Seguimiento comunitario",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-06-26",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Monitoreo STAS",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Monitoreo tech",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-06-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Desinfección",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Desinfección",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-06-23",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Cambio de tubería y desinfección",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Cambio de tubería + desinfección",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-06-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Regent Plant",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale, Fatima",
+        "personas": 3,
+        "fase": "Uso y Apropriación",
+        "item": "Quema, Colado y reunión con Jeff",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1hp0S0Y7AAfqoPWYumsC9gZJ3BIG5wa5p?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-28",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Recoger Carbon de hueso",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Nuevo BC para AY",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-05-27",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta Regen",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Regen Plant",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-05-21",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración BC (3/3)",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-20",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración BC (2/3)",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-19",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración BC (1/3)",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "Regeneración",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-05-09",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Quema carbón de hueso y preparacion Rege",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Otro",
+        "item": "Quema",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-04-30",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Horno eléctrico y Seguimo Regeneracion",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Otro",
+        "item": "Horno electrico",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1plrfMy-r7yaJz0I3JYnyt7Lupqg2SqCS?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-24",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Otro",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1p0xMycrzfryBBjHYtKzIcWLjV303bx2r?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-22",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "Ale",
+        "personas": 2,
+        "fase": "Otro",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://drive.google.com/drive/folders/1g8HGG3uCLwDfn6ZHmllkuImhLBSnLrpD?usp=drive_link"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-04-10",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Seguimiento Planta de Regeneración",
+        "facilitador": "Jaime",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Otro",
+        "item": "Regeneration Plant",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-04-07",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Bayoxide columns check",
+        "facilitador": "Jaime",
+        "acompanantes": "Nico",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "System check",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-04-03",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Bayoxide columns change",
+        "facilitador": "Jaime",
+        "acompanantes": "Alejandro, Nico",
+        "personas": null,
+        "fase": "Uso y Apropriación",
+        "item": "Bayoxide columns change",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-15",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
+        "facilitador": "Victor",
+        "acompanantes": "Marina, Agustina, Carmen",
+        "personas": 5,
+        "fase": "Uso y Apropriación",
+        "item": "Ingreso Familias Nuevas",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2025-03-04",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Asamblea con familias integrantes del Piloto 2",
+        "facilitador": "Victor",
+        "acompanantes": "Marina, Agustina, Carmen",
+        "personas": 23,
+        "fase": "Uso y Apropriación",
+        "item": "Asamblea de Familias Usuarias",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "Salitrillo",
     "municipio": "San Miguel de Allende",
-    "total": 6,
-    "last_activity": "2026-07-07",
+    "total": 7,
+    "last_activity": "2026-07-12",
     "first_activity": "2024-05-16",
-    "days_since": -50,
-    "acts_3m": 4,
-    "acts_6m": 5,
+    "days_since": -55,
+    "acts_3m": 5,
+    "acts_6m": 6,
     "primary_clase": "Cosecha de Agua de Lluvia",
     "clase_counts": {
-      "Cosecha de Agua de Lluvia": 6
+      "Cosecha de Agua de Lluvia": 7
     },
     "latest_stas_phase": "",
     "cats": {
@@ -22,7 +610,7 @@
       "M&E": 1,
       "Seg. Tec.": 2,
       "Reunión AEA": 0,
-      "Grupo Com.": 3,
+      "Grupo Com.": 4,
       "Expl. NA": 0,
       "Monitoreo": 0,
       "Capacitación": 0,
@@ -33,6 +621,19 @@
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
     "log": [
+      {
+        "fecha": "2026-07-12",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion con instaladores referentes",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-07-07",
         "categoria": "Seguimiento a tecnologías",
@@ -6054,7 +6655,9 @@
       "Capacitación": 7,
       "EA": 0
     },
-    "partners": [],
+    "partners": [
+      "Facilitador@s de procesos Pájaro Bobo"
+    ],
     "funders": [
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
@@ -6069,7 +6672,7 @@
         "personas": 22,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Facilitador@s de procesos Pájaro Bobo",
         "links": []
       },
       {
@@ -6082,7 +6685,7 @@
         "personas": 22,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Facilitador@s de procesos Pájaro Bobo",
         "links": []
       },
       {
@@ -6095,7 +6698,7 @@
         "personas": 14,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Facilitador@s de procesos Pájaro Bobo",
         "links": [
           {
             "tipo": "foto",
@@ -6113,7 +6716,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Facilitador@s de procesos Pájaro Bobo",
         "links": [
           {
             "tipo": "foto",
@@ -6131,7 +6734,7 @@
         "personas": 13,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Facilitador@s de procesos Pájaro Bobo",
         "links": [
           {
             "tipo": "foto",
@@ -6153,7 +6756,7 @@
         "personas": 13,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Facilitador@s de procesos Pájaro Bobo",
         "links": [
           {
             "tipo": "foto",
@@ -6445,6 +7048,303 @@
             "url": "https://docs.google.com/document/d/1c2JwiBitFsOUkpqI8dE7Kv8HS7LhpqixBpbSpZo_UXk/edit?tab=t.0"
           }
         ]
+      }
+    ]
+  },
+  {
+    "comunidad": "San Cayetano",
+    "municipio": "San Luis de la Paz",
+    "total": 16,
+    "last_activity": "2026-06-16",
+    "first_activity": "2024-06-27",
+    "days_since": -29,
+    "acts_3m": 4,
+    "acts_6m": 5,
+    "primary_clase": "Educación",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 1,
+      "Sanitarios Secos": 6,
+      "Educación": 9
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 3,
+      "M&E": 1,
+      "Seg. Tec.": 2,
+      "Reunión AEA": 5,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-06-16",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Seguimiento del proyecto y planeación del convocatoria al Foro de calidad del agua",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-29",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Educación",
+        "notas": "Sesión de la rama de Sanitarios secos de la escuela del agua para transparentar rutas de gestión y activar sanitario. Inauguración de 26 sanitarios",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 50,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/SyRXU8F9rySzBn8W7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-14",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Educación",
+        "notas": "Seguimiento y motivación",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 36,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-11",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Seguimiento del proyecto y planeación de las construcción de cisternas de 12,000 litros",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-20",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Educación",
+        "notas": "CUVAPAS reactiva sus comités",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 50,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/9aCwAgHsX4b7tDxi9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-11-08",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Sanitarios Secos",
+        "notas": "Reunión de seguimiento Sanitarios Secos. Benenficiarias y albañiles.",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-06",
+        "categoria": "Reunión de la Hermandad de la Cuenca",
+        "clase": "Educación",
+        "notas": "Varios temas. Intencionar retiro anual en 2026",
+        "facilitador": "",
+        "acompanantes": "Facilitó Juan Carlos Zesati.",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://drive.google.com/file/d/1jQeuoSzKf2vs9HNXje0yAZRSPTplYPa3/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-30",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Taller de uso y mantenimiento de Sanitarios secos",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 13,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/hMYyMKaDGsU7CK466"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-22",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Sanitarios Secos",
+        "notas": "Reunión para coordinar herrero y albañiles en el proceso de los sanitarios secos en construcción",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-08",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Sanitarios Secos",
+        "notas": "Visita a sanitarios secos en proceso de construcción",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/e9zbpCrSSM3yMTuW8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-25",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Varios asuntos de seguimiento del proyecto, específicamente planear la implementación de los siguientes 10 sanitarios secos y actualizaciones del proceso",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "Alonso, Marta, Luz, Yare, Saul, Cas",
+        "personas": 6,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/eG9oojf1FokvAPJR7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-04",
+        "categoria": "Reunión de la Hermandad de la Cuenca",
+        "clase": "Educación",
+        "notas": "Varios temas. Una reunión con vinculaciones intencionadas desde procesos de implementación de SCALLs en dos comunidades de San Miguel de Allende con Caminos de Agua. Por primera vez asisten dos jóvenes respresentando la Escuela del Agua.",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/8bhYWKdasfJmdcvW8"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1jhpD3WGmsE3lAZJdypg1Rj6S_5UfS2JR/edit"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-29",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Sanitarios Secos",
+        "notas": "Reunión de comités de Sanitarios Secos",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-19",
+        "categoria": "Taller",
+        "clase": "Sanitarios Secos",
+        "notas": "Primer taller técnico para albañiles de la primera etapa de construcción de 16 sanitarios secos",
+        "facilitador": "Casilda",
+        "acompanantes": "Omar",
+        "personas": 30,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/yHSf2VYJvFybvwtu8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-12",
+        "categoria": "Taller",
+        "clase": "Sanitarios Secos",
+        "notas": "Primer taller educativo con las 26 usuarias de nuevos sanitarios secos",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/mBv9zBGxPNzGNSnF8"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-06-27",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Registro de SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
       }
     ]
   },
@@ -6906,555 +7806,6 @@
     ]
   },
   {
-    "comunidad": "Los Ricos de Arriba",
-    "municipio": "San Miguel de Allende",
-    "total": 36,
-    "last_activity": "2026-05-28",
-    "first_activity": "2025-03-04",
-    "days_since": -10,
-    "acts_3m": 11,
-    "acts_6m": 13,
-    "primary_clase": "Nuestra Agua / STAS",
-    "clase_counts": {
-      "Nuestra Agua / STAS": 36
-    },
-    "latest_stas_phase": "Uso y Apropriación",
-    "cats": {
-      "STAS Social": 8,
-      "STAS Técnico": 28,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "Caminos de Agua"
-    ],
-    "log": [
-      {
-        "fecha": "2026-05-28",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Recoger primeros 2 lotes de carbón de hueso del nuevo horno eléctrico",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-21",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con todo el grupo",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-12",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio de foco UV y pagos.",
-        "facilitador": "Aura",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-30",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Recoleccion de carbon para RSSCT",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desecho de solucion de regeneracion",
-        "facilitador": "Alvaro",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneracion",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-22",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desinfección",
-        "facilitador": "Aura",
-        "acompanantes": "Matthieu",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-10",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tratamiento de solución gastada",
-        "facilitador": "Alvaro",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-07",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tratamiento de solución gastada",
-        "facilitador": "Alvaro",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-01",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Tratamiento de solución gastada",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-31",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración de carbón de hueso",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-30",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración de carbón de hueso",
-        "facilitador": "Alvaro",
-        "acompanantes": "Aura",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-28",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con todo el grupo",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-14",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Reunión con todo el grupo",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 16,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-18",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimientos varios",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-07",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 5,
-        "fase": "Uso y Apropriación",
-        "item": "Ingreso Familias Nuevas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-28",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio foco UV",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Mantenimiento",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-21",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-09",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimientos varios",
-        "facilitador": "Victor",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "Uso y Apropriación",
-        "item": "Seguimiento comunitario",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-26",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Monitoreo STAS",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Monitoreo tech",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-06-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Desinfección",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Desinfección",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-06-23",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Cambio de tubería y desinfección",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Cambio de tubería + desinfección",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1fwNLcleosVaXcJIVD5hf8PZVM6l7qrv9?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-06-10",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Regent Plant",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale, Fatima",
-        "personas": 3,
-        "fase": "Uso y Apropriación",
-        "item": "Quema, Colado y reunión con Jeff",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1hp0S0Y7AAfqoPWYumsC9gZJ3BIG5wa5p?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-28",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Recoger Carbon de hueso",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Nuevo BC para AY",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-05-27",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta Regen",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Regen Plant",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-05-21",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración BC (3/3)",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-20",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración BC (2/3)",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-19",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Regeneración BC (1/3)",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Uso y Apropriación",
-        "item": "Regeneración",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p-lJHR1P_yBUeg3kL_DZQwm8sciEgB3R?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-05-09",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Quema carbón de hueso y preparacion Rege",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Otro",
-        "item": "Quema",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-04-30",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Horno eléctrico y Seguimo Regeneracion",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Otro",
-        "item": "Horno electrico",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1plrfMy-r7yaJz0I3JYnyt7Lupqg2SqCS?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-24",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Otro",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1p0xMycrzfryBBjHYtKzIcWLjV303bx2r?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-22",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "Ale",
-        "personas": 2,
-        "fase": "Otro",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://drive.google.com/drive/folders/1g8HGG3uCLwDfn6ZHmllkuImhLBSnLrpD?usp=drive_link"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-04-10",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Seguimiento Planta de Regeneración",
-        "facilitador": "Jaime",
-        "acompanantes": "",
-        "personas": 1,
-        "fase": "Otro",
-        "item": "Regeneration Plant",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-04-07",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Bayoxide columns check",
-        "facilitador": "Jaime",
-        "acompanantes": "Nico",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "System check",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-04-03",
-        "categoria": "STAS - Técnico",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Bayoxide columns change",
-        "facilitador": "Jaime",
-        "acompanantes": "Alejandro, Nico",
-        "personas": null,
-        "fase": "Uso y Apropriación",
-        "item": "Bayoxide columns change",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-15",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Taller formativo y entrega de filtros para nuevas familias del Piloto 2",
-        "facilitador": "Victor",
-        "acompanantes": "Marina, Agustina, Carmen",
-        "personas": 5,
-        "fase": "Uso y Apropriación",
-        "item": "Ingreso Familias Nuevas",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2025-03-04",
-        "categoria": "STAS - Social",
-        "clase": "Nuestra Agua / STAS",
-        "notas": "Asamblea con familias integrantes del Piloto 2",
-        "facilitador": "Victor",
-        "acompanantes": "Marina, Agustina, Carmen",
-        "personas": 23,
-        "fase": "Uso y Apropriación",
-        "item": "Asamblea de Familias Usuarias",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
     "comunidad": "Santa Rosa",
     "municipio": "San Felipe",
     "total": 1,
@@ -7682,6 +8033,57 @@
     ]
   },
   {
+    "comunidad": "La Norita del Refugio",
+    "municipio": "San Luis de la Paz",
+    "total": 1,
+    "last_activity": "2026-04-16",
+    "first_activity": "2026-04-16",
+    "days_since": 32,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Educación",
+    "clase_counts": {
+      "Educación": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-04-16",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Educación",
+        "notas": "Reactivar el grupo de Cuvapas en la Norita",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "Vergel de Guadalupe",
     "municipio": "San Luis de la Paz",
     "total": 7,
@@ -7808,6 +8210,76 @@
         "item": "",
         "colaborador": "CUVAPAS",
         "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Pozo Hondo (Ex-Hacienda de Pozo Hondo)",
+    "municipio": "San Luis de la Paz",
+    "total": 2,
+    "last_activity": "2026-03-19",
+    "first_activity": "2024-11-08",
+    "days_since": 60,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 1,
+      "Educación": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 1,
+      "M&E": 1,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-03-19",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Visita a grupo comunitario",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2024-11-08",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Resgistro de 4 SCALL Ferrocemento (12,000L)",
+        "facilitador": "Omar",
+        "acompanantes": "Yare, America, Luz Torres",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/pQBxxZEn2xDwoV9F8"
+          }
+        ]
       }
     ]
   },
@@ -8294,6 +8766,81 @@
     ]
   },
   {
+    "comunidad": "La Peñita",
+    "municipio": "San Luis de la Paz",
+    "total": 2,
+    "last_activity": "2026-01-31",
+    "first_activity": "2024-06-18",
+    "days_since": 107,
+    "acts_3m": 0,
+    "acts_6m": 1,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 1,
+      "Educación": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 1,
+      "M&E": 1,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-01-31",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Taller de uso y mantenimiento de Sanitario Ecológico",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 11,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/PanmzMwKweCdz8ua7"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-06-18",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Registro de SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 44,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/4dyvNY5EwA6rrkZPA"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "comunidad": "Palma Prieta",
     "municipio": "Dolores Hidalgo",
     "total": 2,
@@ -8513,228 +9060,6 @@
             "url": "https://photos.app.goo.gl/wcH9AT44yhBN3ics7"
           }
         ]
-      }
-    ]
-  },
-  {
-    "comunidad": "San Cayetano",
-    "municipio": "San Luis de la Paz",
-    "total": 11,
-    "last_activity": "2025-11-08",
-    "first_activity": "2024-06-27",
-    "days_since": 191,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Sanitarios Secos",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 1,
-      "Sanitarios Secos": 6,
-      "Educación": 4
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 3,
-      "M&E": 1,
-      "Seg. Tec.": 1,
-      "Reunión AEA": 3,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [
-      "CUVAPAS"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2025-11-08",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Sanitarios Secos",
-        "notas": "Reunión de seguimiento Sanitarios Secos. Benenficiarias y albañiles.",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-06",
-        "categoria": "Reunión de la Hermandad de la Cuenca",
-        "clase": "Educación",
-        "notas": "Varios temas. Intencionar retiro anual en 2026",
-        "facilitador": "",
-        "acompanantes": "Facilitó Juan Carlos Zesati.",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://drive.google.com/file/d/1jQeuoSzKf2vs9HNXje0yAZRSPTplYPa3/view?usp=sharing"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-30",
-        "categoria": "Taller",
-        "clase": "Educación",
-        "notas": "Taller de uso y mantenimiento de Sanitarios secos",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 13,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/hMYyMKaDGsU7CK466"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-22",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Sanitarios Secos",
-        "notas": "Reunión para coordinar herrero y albañiles en el proceso de los sanitarios secos en construcción",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-08",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Sanitarios Secos",
-        "notas": "Visita a sanitarios secos en proceso de construcción",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/e9zbpCrSSM3yMTuW8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-25",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Educación",
-        "notas": "Varios asuntos de seguimiento del proyecto, específicamente planear la implementación de los siguientes 10 sanitarios secos y actualizaciones del proceso",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "Alonso, Marta, Luz, Yare, Saul, Cas",
-        "personas": 6,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/eG9oojf1FokvAPJR7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-04",
-        "categoria": "Reunión de la Hermandad de la Cuenca",
-        "clase": "Educación",
-        "notas": "Varios temas. Una reunión con vinculaciones intencionadas desde procesos de implementación de SCALLs en dos comunidades de San Miguel de Allende con Caminos de Agua. Por primera vez asisten dos jóvenes respresentando la Escuela del Agua.",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/8bhYWKdasfJmdcvW8"
-          },
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1jhpD3WGmsE3lAZJdypg1Rj6S_5UfS2JR/edit"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-29",
-        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
-        "clase": "Sanitarios Secos",
-        "notas": "Reunión de comités de Sanitarios Secos",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-19",
-        "categoria": "Taller",
-        "clase": "Sanitarios Secos",
-        "notas": "Primer taller técnico para albañiles de la primera etapa de construcción de 16 sanitarios secos",
-        "facilitador": "Casilda",
-        "acompanantes": "Omar",
-        "personas": 30,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/yHSf2VYJvFybvwtu8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-12",
-        "categoria": "Taller",
-        "clase": "Sanitarios Secos",
-        "notas": "Primer taller educativo con las 26 usuarias de nuevos sanitarios secos",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/mBv9zBGxPNzGNSnF8"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-06-27",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Registro de SCALL",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
       }
     ]
   },
@@ -10563,62 +10888,6 @@
     ]
   },
   {
-    "comunidad": "Pozo Hondo (Ex-Hacienda de Pozo Hondo)",
-    "municipio": "San Luis de la Paz",
-    "total": 1,
-    "last_activity": "2024-11-08",
-    "first_activity": "2024-11-08",
-    "days_since": 556,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 1,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [
-      "CUVAPAS"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2024-11-08",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Resgistro de 4 SCALL Ferrocemento (12,000L)",
-        "facilitador": "Omar",
-        "acompanantes": "Yare, America, Luz Torres",
-        "personas": 4,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/pQBxxZEn2xDwoV9F8"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "comunidad": "Ejido Gómez Villanueva",
     "municipio": "San Diego de la Unión",
     "total": 2,
@@ -11240,62 +11509,6 @@
         "facilitador": "Omar",
         "acompanantes": "",
         "personas": 6,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/4dyvNY5EwA6rrkZPA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "comunidad": "La Peñita",
-    "municipio": "San Luis de la Paz",
-    "total": 1,
-    "last_activity": "2024-06-18",
-    "first_activity": "2024-06-18",
-    "days_since": 699,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 1,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [
-      "CUVAPAS"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2024-06-18",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Registro de SCALL",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 44,
         "fase": "",
         "item": "",
         "colaborador": "CUVAPAS",
