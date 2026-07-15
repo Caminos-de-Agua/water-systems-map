@@ -735,6 +735,104 @@
     ]
   },
   {
+    "comunidad": "El Capulín",
+    "municipio": "Dolores Hidalgo",
+    "total": 1,
+    "last_activity": "2026-07-09",
+    "first_activity": "2026-07-09",
+    "days_since": -52,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Exploración NA",
+    "clase_counts": {
+      "Exploración NA": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 1,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-09",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Exploración NA",
+        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez Aura Bustamente",
+        "personas": 12,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Paredones",
+    "municipio": "Dolores Hidalgo",
+    "total": 1,
+    "last_activity": "2026-07-09",
+    "first_activity": "2026-07-09",
+    "days_since": -52,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Exploración NA",
+    "clase_counts": {
+      "Exploración NA": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 1,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-09",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Exploración NA",
+        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez Aura Bustamente",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "San Elías",
     "municipio": "Dolores Hidalgo",
     "total": 100,
@@ -2197,15 +2295,15 @@
   {
     "comunidad": "San Miguel de Allende",
     "municipio": "San Miguel de Allende",
-    "total": 3,
+    "total": 5,
     "last_activity": "2026-06-29",
     "first_activity": "2025-11-14",
     "days_since": -42,
-    "acts_3m": 2,
-    "acts_6m": 2,
-    "primary_clase": "Nuestra Agua / STAS",
+    "acts_3m": 4,
+    "acts_6m": 4,
+    "primary_clase": "Educación",
     "clase_counts": {
-      "Educación": 1,
+      "Educación": 3,
       "Nuestra Agua / STAS": 2
     },
     "latest_stas_phase": "",
@@ -2222,10 +2320,11 @@
       "Expl. NA": 0,
       "Monitoreo": 0,
       "Capacitación": 0,
-      "EA": 2
+      "EA": 4
     },
     "partners": [
-      "Hermandad de la cuenca"
+      "Hermandad de la cuenca",
+      "Inana"
     ],
     "funders": [
       "Caminos de Agua",
@@ -2256,6 +2355,32 @@
         "fase": "",
         "item": "",
         "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-29",
+        "categoria": "EA- Planeación",
+        "clase": "Educación",
+        "notas": "Post Encuentro 6",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-26",
+        "categoria": "EA- Planeación",
+        "clase": "Educación",
+        "notas": "Pre Sexto Encuentro",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 6,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
         "links": []
       },
       {
@@ -7054,17 +7179,17 @@
   {
     "comunidad": "San Cayetano",
     "municipio": "San Luis de la Paz",
-    "total": 16,
+    "total": 21,
     "last_activity": "2026-06-16",
     "first_activity": "2024-06-27",
     "days_since": -29,
-    "acts_3m": 4,
-    "acts_6m": 5,
+    "acts_3m": 9,
+    "acts_6m": 10,
     "primary_clase": "Educación",
     "clase_counts": {
       "Cosecha de Agua de Lluvia": 1,
       "Sanitarios Secos": 6,
-      "Educación": 9
+      "Educación": 14
     },
     "latest_stas_phase": "",
     "cats": {
@@ -7080,10 +7205,11 @@
       "Expl. NA": 0,
       "Monitoreo": 0,
       "Capacitación": 0,
-      "EA": 0
+      "EA": 5
     },
     "partners": [
-      "CUVAPAS"
+      "CUVAPAS",
+      "Inana"
     ],
     "funders": [
       "FGRA - Fundación Gonzalo Río Arronte"
@@ -7101,6 +7227,72 @@
         "item": "",
         "colaborador": "CUVAPAS",
         "links": []
+      },
+      {
+        "fecha": "2026-05-18",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 2 con maestras del territorio",
+        "facilitador": "Raquel",
+        "acompanantes": "",
+        "personas": 18,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ZmPGXsXYLfhBNGnE8"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?tab=t.0"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-17",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 7",
+        "facilitador": "Raquel",
+        "acompanantes": "",
+        "personas": 46,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/h68JuzvBSB7prexw5"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-16",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 7",
+        "facilitador": "Raquel",
+        "acompanantes": "",
+        "personas": 48,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/h68JuzvBSB7prexw5"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?usp=sharing"
+          }
+        ]
       },
       {
         "fecha": "2026-04-29",
@@ -7134,13 +7326,57 @@
         "links": []
       },
       {
-        "fecha": "2026-03-11",
+        "fecha": "2026-03-27",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 6",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 47,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ticUo8qYcoGBYYLM9"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/1LQ2r9GAjSQPS94HuKnZfaoi7pOMFpkh-aDMBS7U3kS4/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-26",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 6",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 47,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ticUo8qYcoGBYYLM9"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/1LQ2r9GAjSQPS94HuKnZfaoi7pOMFpkh-aDMBS7U3kS4/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-12",
         "categoria": "Reunión de seguimiento AEA",
         "clase": "Educación",
-        "notas": "Seguimiento del proyecto y planeación de las construcción de cisternas de 12,000 litros",
+        "notas": "Seguimiento del proyecto y planeación de las construcción de cisternas de 12,000 litros, incluyendo la de la Escuela Primaria. Intencionando circulo de palabra de mujeres",
         "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
+        "acompanantes": "Marta, Casilda, Yare, Erika, Luz",
+        "personas": 5,
         "fase": "",
         "item": "",
         "colaborador": "CUVAPAS",
@@ -8033,6 +8269,173 @@
     ]
   },
   {
+    "comunidad": "Pozo Ademado",
+    "municipio": "San Diego de la Unión",
+    "total": 8,
+    "last_activity": "2026-04-17",
+    "first_activity": "2024-05-08",
+    "days_since": 31,
+    "acts_3m": 3,
+    "acts_6m": 3,
+    "primary_clase": "Educación",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 3,
+      "Educación": 4,
+      "Filtros": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 1,
+      "M&E": 2,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 3,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 1,
+      "EA": 0
+    },
+    "partners": [
+      "Administración Municipal de SDU",
+      "Coenlavis",
+      "Inana",
+      "SECOPA"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-04-17",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Educación",
+        "notas": "Taller encuentro participando aprendices de la rama Salud y organización comunitaria",
+        "facilitador": "SECOPA",
+        "acompanantes": "",
+        "personas": 35,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-11",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Seguimiento del proyecto y planeación de la construcción de sanitarios secos. Intencionando circulo de palabra de mujeres",
+        "facilitador": "SECOPA",
+        "acompanantes": "Marta, Cas, Carmen, Gude, Blanca",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-05",
+        "categoria": "Capacitación técnica - Entrega de Filtro",
+        "clase": "Filtros",
+        "notas": "Entrega de Filtros_comunidades varias con SECOPA AyS",
+        "facilitador": "Omar",
+        "acompanantes": "MaJo El Bobo",
+        "personas": 23,
+        "fase": "",
+        "item": "",
+        "colaborador": "SECOPA",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/G1qm79xK1yLK7t8f6"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-24",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Varios asuntos de seguimiento del proyecto, específicamente revisar el proceso de SECOPA-COENLAVIS, sus SCALLs y quienes estan en lista, asi como los filtros pendientes.",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 6,
+        "fase": "",
+        "item": "",
+        "colaborador": "SECOPA",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/eG9oojf1FokvAPJR7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-15",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Taller de seguimiento y organización comunitaria, Coenlavis",
+        "facilitador": "COENLAVIS",
+        "acompanantes": "",
+        "personas": 17,
+        "fase": "",
+        "item": "",
+        "colaborador": "Coenlavis",
+        "links": [
+          {
+            "tipo": "doc",
+            "url": "https://photos.app.goo.gl/mwF3oJZ7KCouYgLE7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-23",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Reunión del grupo motor del proyecto de Agua en Acción para preparar y consensar los cambios que se vean necesarios del proyecto para la solicitud de ajuste",
+        "facilitador": "Casilda",
+        "acompanantes": "",
+        "personas": 11,
+        "fase": "",
+        "item": "",
+        "colaborador": "SECOPA",
+        "links": []
+      },
+      {
+        "fecha": "2024-11-06",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Resgistro de 2 SCALL Rotoplas Cistern (5,000L)",
+        "facilitador": "Omar",
+        "acompanantes": "Fátima Almeida Victor Hernández",
+        "personas": 2,
+        "fase": "",
+        "item": "",
+        "colaborador": "SECOPA",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jzqPswpWw2UGsS5a9"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-05-08",
+        "categoria": "Visita M&E-1 Agua y Salud",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez, Gudelia",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "Administración Municipal de SDU",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "La Norita del Refugio",
     "municipio": "San Luis de la Paz",
     "total": 1,
@@ -8409,146 +8812,6 @@
             "url": "https://photos.app.goo.gl/wQv8j5jYtANvfUpM8"
           }
         ]
-      }
-    ]
-  },
-  {
-    "comunidad": "Pozo Ademado",
-    "municipio": "San Diego de la Unión",
-    "total": 6,
-    "last_activity": "2026-03-05",
-    "first_activity": "2024-05-08",
-    "days_since": 74,
-    "acts_3m": 1,
-    "acts_6m": 1,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 3,
-      "Educación": 2,
-      "Filtros": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 1,
-      "M&E": 2,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 2,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 1,
-      "EA": 0
-    },
-    "partners": [
-      "Administración Municipal de SDU",
-      "Coenlavis",
-      "SECOPA"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-03-05",
-        "categoria": "Capacitación técnica - Entrega de Filtro",
-        "clase": "Filtros",
-        "notas": "Entrega de Filtros_comunidades varias con SECOPA AyS",
-        "facilitador": "Omar",
-        "acompanantes": "MaJo El Bobo",
-        "personas": 23,
-        "fase": "",
-        "item": "",
-        "colaborador": "SECOPA",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/G1qm79xK1yLK7t8f6"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-24",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Educación",
-        "notas": "Varios asuntos de seguimiento del proyecto, específicamente revisar el proceso de SECOPA-COENLAVIS, sus SCALLs y quienes estan en lista, asi como los filtros pendientes.",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 6,
-        "fase": "",
-        "item": "",
-        "colaborador": "SECOPA",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/eG9oojf1FokvAPJR7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-15",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Taller de seguimiento y organización comunitaria, Coenlavis",
-        "facilitador": "COENLAVIS",
-        "acompanantes": "",
-        "personas": 17,
-        "fase": "",
-        "item": "",
-        "colaborador": "Coenlavis",
-        "links": [
-          {
-            "tipo": "doc",
-            "url": "https://photos.app.goo.gl/mwF3oJZ7KCouYgLE7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-23",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Educación",
-        "notas": "Reunión del grupo motor del proyecto de Agua en Acción para preparar y consensar los cambios que se vean necesarios del proyecto para la solicitud de ajuste",
-        "facilitador": "Casilda",
-        "acompanantes": "",
-        "personas": 11,
-        "fase": "",
-        "item": "",
-        "colaborador": "SECOPA",
-        "links": []
-      },
-      {
-        "fecha": "2024-11-06",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Resgistro de 2 SCALL Rotoplas Cistern (5,000L)",
-        "facilitador": "Omar",
-        "acompanantes": "Fátima Almeida Victor Hernández",
-        "personas": 2,
-        "fase": "",
-        "item": "",
-        "colaborador": "SECOPA",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/jzqPswpWw2UGsS5a9"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-05-08",
-        "categoria": "Visita M&E-1 Agua y Salud",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez, Gudelia",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "Administración Municipal de SDU",
-        "links": []
       }
     ]
   },
