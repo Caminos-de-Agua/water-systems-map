@@ -835,20 +835,20 @@
   {
     "comunidad": "San Elías",
     "municipio": "Dolores Hidalgo",
-    "total": 100,
+    "total": 101,
     "last_activity": "2026-06-30",
     "first_activity": "2025-03-05",
     "days_since": -43,
-    "acts_3m": 34,
-    "acts_6m": 56,
+    "acts_3m": 35,
+    "acts_6m": 57,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 100
+      "Nuestra Agua / STAS": 101
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
       "STAS Social": 37,
-      "STAS Técnico": 38,
+      "STAS Técnico": 39,
       "STAS Impl.": 12,
       "STAS Estudio": 0,
       "Taller": 0,
@@ -873,6 +873,19 @@
         "notas": "Conexión de columnas de BC y muestreo de HPC",
         "facilitador": "Aura",
         "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-06-30",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo quincenal, compostura de fugas y onboarding a Logan",
+        "facilitador": "Aura",
+        "acompanantes": "Fátima y Logan",
         "personas": null,
         "fase": "",
         "item": "",
