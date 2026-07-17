@@ -8235,6 +8235,96 @@
     ]
   },
   {
+    "comunidad": "Ejido Gómez Villanueva",
+    "municipio": "San Diego de la Unión",
+    "total": 3,
+    "last_activity": "2026-04-25",
+    "first_activity": "2024-05-08",
+    "days_since": 23,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 2,
+      "Educación": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 1,
+      "M&E": 2,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [
+      "Administración Municipal de SDU",
+      "Coenlavis",
+      "SECOPA"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-04-25",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Taller técnico de 3 sanitarios ecológicos. Proceso de obra, recorrido e inauguración con caldito y elotes",
+        "facilitador": "SECOPA",
+        "acompanantes": "",
+        "personas": 12,
+        "fase": "",
+        "item": "",
+        "colaborador": "Coenlavis",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/sp1Fe7439S8A3cPeA"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-11-06",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Resgistro de 7 SCALL Rotoplas Cistern (5,000L)",
+        "facilitador": "Omar",
+        "acompanantes": "Fátima Almeida Victor Hernández",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "SECOPA",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jzqPswpWw2UGsS5a9"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-05-08",
+        "categoria": "Visita M&E-1 Agua y Salud",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez, esposo de Blanca",
+        "personas": 3,
+        "fase": "",
+        "item": "",
+        "colaborador": "Administración Municipal de SDU",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "La Cieneguita",
     "municipio": "San Miguel de Allende",
     "total": 1,
@@ -8284,16 +8374,16 @@
   {
     "comunidad": "Pozo Ademado",
     "municipio": "San Diego de la Unión",
-    "total": 8,
+    "total": 9,
     "last_activity": "2026-04-17",
     "first_activity": "2024-05-08",
     "days_since": 31,
-    "acts_3m": 3,
-    "acts_6m": 3,
+    "acts_3m": 4,
+    "acts_6m": 4,
     "primary_clase": "Educación",
     "clase_counts": {
       "Cosecha de Agua de Lluvia": 3,
-      "Educación": 4,
+      "Educación": 5,
       "Filtros": 1
     },
     "latest_stas_phase": "",
@@ -8302,7 +8392,7 @@
       "STAS Técnico": 0,
       "STAS Impl.": 0,
       "STAS Estudio": 0,
-      "Taller": 1,
+      "Taller": 2,
       "M&E": 2,
       "Seg. Tec.": 0,
       "Reunión AEA": 3,
@@ -8347,6 +8437,24 @@
         "item": "",
         "colaborador": "Inana",
         "links": []
+      },
+      {
+        "fecha": "2026-03-09",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Taller educativo de uso y mantenimiento de sanitarios ecológicos",
+        "facilitador": "SECOPA",
+        "acompanantes": "",
+        "personas": 9,
+        "fase": "",
+        "item": "",
+        "colaborador": "Coenlavis",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/TZicikswofS2kWEn8"
+          }
+        ]
       },
       {
         "fecha": "2026-03-05",
@@ -11159,76 +11267,6 @@
         "fase": "",
         "item": "",
         "colaborador": "CUVAPAS",
-        "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "Ejido Gómez Villanueva",
-    "municipio": "San Diego de la Unión",
-    "total": 2,
-    "last_activity": "2024-11-06",
-    "first_activity": "2024-05-08",
-    "days_since": 558,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 2
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 2,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [
-      "Administración Municipal de SDU",
-      "SECOPA"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2024-11-06",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Resgistro de 7 SCALL Rotoplas Cistern (5,000L)",
-        "facilitador": "Omar",
-        "acompanantes": "Fátima Almeida Victor Hernández",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "SECOPA",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/jzqPswpWw2UGsS5a9"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-05-08",
-        "categoria": "Visita M&E-1 Agua y Salud",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez, esposo de Blanca",
-        "personas": 3,
-        "fase": "",
-        "item": "",
-        "colaborador": "Administración Municipal de SDU",
         "links": []
       }
     ]
