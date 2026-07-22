@@ -2,19 +2,19 @@
   {
     "comunidad": "Los Ricos de Arriba",
     "municipio": "San Miguel de Allende",
-    "total": 39,
-    "last_activity": "2026-07-13",
+    "total": 40,
+    "last_activity": "2026-07-14",
     "first_activity": "2025-03-04",
-    "days_since": -56,
-    "acts_3m": 14,
-    "acts_6m": 16,
+    "days_since": -57,
+    "acts_3m": 15,
+    "acts_6m": 17,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 39
+      "Nuestra Agua / STAS": 40
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
-      "STAS Social": 8,
+      "STAS Social": 9,
       "STAS Técnico": 31,
       "STAS Impl.": 0,
       "STAS Estudio": 0,
@@ -33,6 +33,19 @@
       "Caminos de Agua"
     ],
     "log": [
+      {
+        "fecha": "2026-07-14",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Invitación a Familias Usuarias a reunión grupol / Carta de apliación al premio Earthana",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-07-13",
         "categoria": "STAS - Técnico",
@@ -2530,7 +2543,7 @@
         "fecha": "2026-06-29",
         "categoria": "EA - Rama Agua Segura",
         "clase": "Nuestra Agua / STAS",
-        "notas": "Sesión virtual - planeación y organización visita a Nuestra Agua Alonso Yáñez",
+        "notas": "Sesión virtual - retroalimentación visita a Nuestra Agua Alonso Yáñez",
         "facilitador": "Victor",
         "acompanantes": "",
         "personas": 7,
