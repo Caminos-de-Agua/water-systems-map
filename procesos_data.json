@@ -2,19 +2,19 @@
   {
     "comunidad": "Los Ricos de Arriba",
     "municipio": "San Miguel de Allende",
-    "total": 40,
-    "last_activity": "2026-07-14",
+    "total": 42,
+    "last_activity": "2026-07-20",
     "first_activity": "2025-03-04",
-    "days_since": -57,
-    "acts_3m": 15,
-    "acts_6m": 17,
+    "days_since": -63,
+    "acts_3m": 17,
+    "acts_6m": 19,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 40
+      "Nuestra Agua / STAS": 42
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
-      "STAS Social": 9,
+      "STAS Social": 11,
       "STAS Técnico": 31,
       "STAS Impl.": 0,
       "STAS Estudio": 0,
@@ -34,14 +34,40 @@
     ],
     "log": [
       {
+        "fecha": "2026-07-20",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Invitación a Familias Usuarias a reunión grupol / Carta de apliación al premio Earthana",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 1,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-07-17",
+        "categoria": "STAS - Social",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Invitación a Familias Usuarias a reunión grupol / Carta de apliación al premio Earthana",
+        "facilitador": "Victor",
+        "acompanantes": "",
+        "personas": 2,
+        "fase": "Uso y Apropriación",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
         "fecha": "2026-07-14",
         "categoria": "STAS - Social",
         "clase": "Nuestra Agua / STAS",
         "notas": "Invitación a Familias Usuarias a reunión grupol / Carta de apliación al premio Earthana",
         "facilitador": "Victor",
         "acompanantes": "",
-        "personas": null,
-        "fase": "",
+        "personas": 4,
+        "fase": "Uso y Apropriación",
         "item": "",
         "colaborador": "",
         "links": []
