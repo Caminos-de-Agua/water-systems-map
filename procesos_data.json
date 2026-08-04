@@ -1,5 +1,165 @@
 [
   {
+    "comunidad": "Salitrillo",
+    "municipio": "San Miguel de Allende",
+    "total": 8,
+    "last_activity": "2026-07-24",
+    "first_activity": "2024-05-16",
+    "days_since": -67,
+    "acts_3m": 6,
+    "acts_6m": 7,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 8
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 1,
+      "Seg. Tec.": 2,
+      "Reunión AEA": 0,
+      "Grupo Com.": 5,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-24",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunión con comité,  Acordar acompañamiento del comité al nuevo grupo de personas interesadas en un SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-07-12",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion con instaladores referentes",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-07-07",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Proceso de recambio de Primer seprador Valvula grey por tuberia hidraulica",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 10,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GzTCVjTbvJCYXwdD8"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-13",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Realizar enterga de filtros a comite que dara seguimiento para recambios a filtros EOZ",
+        "facilitador": "María José",
+        "acompanantes": "Omar Bárcenas",
+        "personas": 18,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6gcaLQGYyMR43hFn7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-28",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Compartir la manera de recambiar a filtros EOZ, y mejorar primer separador",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 35,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-25",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
+        "facilitador": "Omar",
+        "acompanantes": "María José Valle Avila Ana Torres",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-05",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-05-16",
+        "categoria": "Visita M&E-1 Agua y Salud",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
+        "facilitador": "Omar",
+        "acompanantes": "Ana",
+        "personas": 12,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "Los Ricos de Arriba",
     "municipio": "San Miguel de Allende",
     "total": 42,
@@ -621,153 +781,6 @@
         "personas": 23,
         "fase": "Uso y Apropriación",
         "item": "Asamblea de Familias Usuarias",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "Salitrillo",
-    "municipio": "San Miguel de Allende",
-    "total": 7,
-    "last_activity": "2026-07-12",
-    "first_activity": "2024-05-16",
-    "days_since": -55,
-    "acts_3m": 5,
-    "acts_6m": 6,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 7
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 1,
-      "Seg. Tec.": 2,
-      "Reunión AEA": 0,
-      "Grupo Com.": 4,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-07-12",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion con instaladores referentes",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-07-07",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Proceso de recambio de Primer seprador Valvula grey por tuberia hidraulica",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 10,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GzTCVjTbvJCYXwdD8"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-05-13",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Realizar enterga de filtros a comite que dara seguimiento para recambios a filtros EOZ",
-        "facilitador": "María José",
-        "acompanantes": "Omar Bárcenas",
-        "personas": 18,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6gcaLQGYyMR43hFn7"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-04-28",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Compartir la manera de recambiar a filtros EOZ, y mejorar primer separador",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 35,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-25",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
-        "facilitador": "Omar",
-        "acompanantes": "María José Valle Avila Ana Torres",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-05",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 26,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-05-16",
-        "categoria": "Visita M&E-1 Agua y Salud",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
-        "facilitador": "Omar",
-        "acompanantes": "Ana",
-        "personas": 12,
-        "fase": "",
-        "item": "",
         "colaborador": "",
         "links": []
       }
