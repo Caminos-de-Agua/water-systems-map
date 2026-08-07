@@ -1,16 +1,16 @@
 [
   {
-    "comunidad": "Salitrillo",
+    "comunidad": "Estancia de Canal",
     "municipio": "San Miguel de Allende",
-    "total": 8,
-    "last_activity": "2026-07-24",
-    "first_activity": "2024-05-16",
-    "days_since": -67,
-    "acts_3m": 6,
-    "acts_6m": 7,
+    "total": 4,
+    "last_activity": "2026-08-06",
+    "first_activity": "2024-05-25",
+    "days_since": -80,
+    "acts_3m": 2,
+    "acts_6m": 2,
     "primary_clase": "Cosecha de Agua de Lluvia",
     "clase_counts": {
-      "Cosecha de Agua de Lluvia": 8
+      "Cosecha de Agua de Lluvia": 4
     },
     "latest_stas_phase": "",
     "cats": {
@@ -20,162 +20,109 @@
       "STAS Estudio": 0,
       "Taller": 0,
       "M&E": 1,
-      "Seg. Tec.": 2,
+      "Seg. Tec.": 0,
       "Reunión AEA": 0,
-      "Grupo Com.": 5,
+      "Grupo Com.": 0,
       "Expl. NA": 0,
       "Monitoreo": 0,
-      "Capacitación": 0,
+      "Capacitación": 3,
       "EA": 0
     },
-    "partners": [],
+    "partners": [
+      "Bill Wilkinson",
+      "Salvemos el Rio Laja"
+    ],
     "funders": [
+      "Bill Wilkinson",
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
     "log": [
       {
-        "fecha": "2026-07-24",
-        "categoria": "Reunión de grupo comunitario",
+        "fecha": "2026-08-06",
+        "categoria": "Visita M&E",
         "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunión con comité,  Acordar acompañamiento del comité al nuevo grupo de personas interesadas en un SCALL",
-        "facilitador": "Omar",
+        "notas": "Regostro de SCALLS Rotopla de 5 mil L, en Estancia de Canal, Salvemos el Rio Laja",
+        "facilitador": "",
         "acompanantes": "",
-        "personas": 4,
+        "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-07-12",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion con instaladores referentes",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-07-07",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Proceso de recambio de Primer seprador Valvula grey por tuberia hidraulica",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 10,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
+        "colaborador": "Salvemos el Rio Laja",
         "links": [
           {
             "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GzTCVjTbvJCYXwdD8"
+            "url": "https://photos.app.goo.gl/pxoabjwVULWnco1n8"
           }
         ]
       },
       {
-        "fecha": "2026-05-13",
-        "categoria": "Seguimiento a tecnologías",
+        "fecha": "2026-07-21",
+        "categoria": "Capacitación técnica - Entrega de Filtro",
         "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Realizar enterga de filtros a comite que dara seguimiento para recambios a filtros EOZ",
-        "facilitador": "María José",
-        "acompanantes": "Omar Bárcenas",
-        "personas": 18,
+        "notas": "Taller de usos y mantenimento filtro EOZ, 19 familias en Estancia de Canal",
+        "facilitador": "Omar",
+        "acompanantes": "María José Valle Avila",
+        "personas": 22,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Salvemos el Rio Laja",
         "links": [
           {
             "tipo": "foto",
-            "url": "https://photos.app.goo.gl/6gcaLQGYyMR43hFn7"
+            "url": "https://photos.app.goo.gl/S4Mss5Gsxh9J3VC79"
           }
         ]
       },
       {
-        "fecha": "2026-04-28",
-        "categoria": "Reunión de grupo comunitario",
+        "fecha": "2024-06-08",
+        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
         "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Compartir la manera de recambiar a filtros EOZ, y mejorar primer separador",
-        "facilitador": "Omar",
+        "notas": "instalacion tecnica de SCAll",
+        "facilitador": "Saúl",
         "acompanantes": "",
-        "personas": 35,
+        "personas": 3,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Bill Wilkinson",
         "links": []
       },
       {
-        "fecha": "2026-02-25",
-        "categoria": "Reunión de grupo comunitario",
+        "fecha": "2024-05-25",
+        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
         "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
-        "facilitador": "Omar",
-        "acompanantes": "María José Valle Avila Ana Torres",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-02-05",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
-        "facilitador": "Omar",
+        "notas": "Capacitacion tecnica a grupo de madres de familia de la comuniadad y personas de organizacion comunitaria",
+        "facilitador": "Saúl",
         "acompanantes": "",
-        "personas": 26,
+        "personas": 13,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Bill Wilkinson",
         "links": [
           {
             "tipo": "foto",
-            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
+            "url": "https://photos.google.com/u/1/album/AF1QipMrh2tujB_w8ooxPd7zb6mObZKnUw9S_t9sKNWr"
           }
         ]
-      },
-      {
-        "fecha": "2024-05-16",
-        "categoria": "Visita M&E-1 Agua y Salud",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
-        "facilitador": "Omar",
-        "acompanantes": "Ana",
-        "personas": 12,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
       }
     ]
   },
   {
     "comunidad": "Los Ricos de Arriba",
     "municipio": "San Miguel de Allende",
-    "total": 42,
-    "last_activity": "2026-07-20",
+    "total": 45,
+    "last_activity": "2026-08-06",
     "first_activity": "2025-03-04",
-    "days_since": -63,
-    "acts_3m": 17,
-    "acts_6m": 19,
+    "days_since": -80,
+    "acts_3m": 20,
+    "acts_6m": 22,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 42
+      "Nuestra Agua / STAS": 45
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
       "STAS Social": 11,
-      "STAS Técnico": 31,
+      "STAS Técnico": 34,
       "STAS Impl.": 0,
       "STAS Estudio": 0,
       "Taller": 0,
@@ -193,6 +140,45 @@
       "Caminos de Agua"
     ],
     "log": [
+      {
+        "fecha": "2026-08-06",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración carbón de hueso de Planta Piloto",
+        "facilitador": "Aura",
+        "acompanantes": "Matthieu",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-08-04",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración carbón de hueso de Planta Piloto",
+        "facilitador": "Aura",
+        "acompanantes": "Alvaro",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-08-03",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Regeneración carbón de hueso de Planta Piloto",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-07-20",
         "categoria": "STAS - Social",
@@ -787,195 +773,22 @@
     ]
   },
   {
-    "comunidad": "El Capulín",
-    "municipio": "Dolores Hidalgo",
-    "total": 1,
-    "last_activity": "2026-07-09",
-    "first_activity": "2026-07-09",
-    "days_since": -52,
-    "acts_3m": 1,
-    "acts_6m": 1,
-    "primary_clase": "Exploración NA",
-    "clase_counts": {
-      "Exploración NA": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 1,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-07-09",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Exploración NA",
-        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez Aura Bustamente",
-        "personas": 12,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "Paredones",
-    "municipio": "Dolores Hidalgo",
-    "total": 1,
-    "last_activity": "2026-07-09",
-    "first_activity": "2026-07-09",
-    "days_since": -52,
-    "acts_3m": 1,
-    "acts_6m": 1,
-    "primary_clase": "Exploración NA",
-    "clase_counts": {
-      "Exploración NA": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 1,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-07-09",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Exploración NA",
-        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez Aura Bustamente",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "Catalán del Refugio (Catalanes)",
-    "municipio": "San Diego de la Unión",
-    "total": 2,
-    "last_activity": "2026-07-01",
-    "first_activity": "2025-11-17",
-    "days_since": -44,
-    "acts_3m": 1,
-    "acts_6m": 1,
-    "primary_clase": "Filtros",
-    "clase_counts": {
-      "Filtros": 1,
-      "Educación": 1
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 1,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 1,
-      "EA": 0
-    },
-    "partners": [
-      "Coenlavis"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-07-01",
-        "categoria": "Taller",
-        "clase": "Educación",
-        "notas": "Taller de inauguración de cisternas",
-        "facilitador": "COENLAVIS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "Coenlavis",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/g8NHRzJKz6eNnVtD9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-11-17",
-        "categoria": "Capacitación técnica - Entrega de Filtro",
-        "clase": "Filtros",
-        "notas": "Enterga de 35 filtros a personas que forman parte del grupo de SECOPA, COENLAVIS, comunidades de; Catalan, el Ranchito, garabtillo",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez",
-        "personas": 35,
-        "fase": "",
-        "item": "",
-        "colaborador": "Coenlavis",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/FdkwEZAfae3UNPXw8"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "comunidad": "San Elías",
     "municipio": "Dolores Hidalgo",
-    "total": 101,
-    "last_activity": "2026-06-30",
+    "total": 102,
+    "last_activity": "2026-08-05",
     "first_activity": "2025-03-05",
-    "days_since": -43,
-    "acts_3m": 35,
-    "acts_6m": 57,
+    "days_since": -79,
+    "acts_3m": 36,
+    "acts_6m": 58,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 101
+      "Nuestra Agua / STAS": 102
     },
     "latest_stas_phase": "Uso y Apropriación",
     "cats": {
       "STAS Social": 37,
-      "STAS Técnico": 39,
+      "STAS Técnico": 40,
       "STAS Impl.": 12,
       "STAS Estudio": 0,
       "Taller": 0,
@@ -993,6 +806,19 @@
       "Caminos de Agua"
     ],
     "log": [
+      {
+        "fecha": "2026-08-05",
+        "categoria": "STAS - Técnico",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "Muestreo quincenal de As y otros parámetros para monitorear las columnas y las bacterias heterótrofas",
+        "facilitador": "Aura",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-06-30",
         "categoria": "STAS - Técnico",
@@ -2429,6 +2255,344 @@
         "item": "Reunión con Comités de Agua y Comités de Apoyos",
         "colaborador": "",
         "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Salitrillo",
+    "municipio": "San Miguel de Allende",
+    "total": 8,
+    "last_activity": "2026-07-24",
+    "first_activity": "2024-05-16",
+    "days_since": -67,
+    "acts_3m": 6,
+    "acts_6m": 7,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 8
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 1,
+      "Seg. Tec.": 2,
+      "Reunión AEA": 0,
+      "Grupo Com.": 5,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-24",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunión con comité,  Acordar acompañamiento del comité al nuevo grupo de personas interesadas en un SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/jdzzL3FANRj3dDtaA"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-07-12",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion con instaladores referentes",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-07-07",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Proceso de recambio de Primer seprador Valvula grey por tuberia hidraulica",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 10,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GzTCVjTbvJCYXwdD8"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-13",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Realizar enterga de filtros a comite que dara seguimiento para recambios a filtros EOZ",
+        "facilitador": "María José",
+        "acompanantes": "Omar Bárcenas",
+        "personas": 18,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/6gcaLQGYyMR43hFn7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-28",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Compartir la manera de recambiar a filtros EOZ, y mejorar primer separador",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 35,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-25",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunion cpon comite de Salitrillo, Marichuy, Cary, Rosa",
+        "facilitador": "Omar",
+        "acompanantes": "María José Valle Avila Ana Torres",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/GYDg6EuExrVbujzN9"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-02-05",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Reunión en Escula Primaria, seguimiento a SCALLs",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 26,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/XwToGpnQSyfa29Mj8"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-05-16",
+        "categoria": "Visita M&E-1 Agua y Salud",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Encuesta de M&-1 (Monitoreo de 1 año)",
+        "facilitador": "Omar",
+        "acompanantes": "Ana",
+        "personas": 12,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "El Capulín",
+    "municipio": "Dolores Hidalgo",
+    "total": 1,
+    "last_activity": "2026-07-09",
+    "first_activity": "2026-07-09",
+    "days_since": -52,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Exploración NA",
+    "clase_counts": {
+      "Exploración NA": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 1,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-09",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Exploración NA",
+        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez Aura Bustamente",
+        "personas": 12,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Paredones",
+    "municipio": "Dolores Hidalgo",
+    "total": 1,
+    "last_activity": "2026-07-09",
+    "first_activity": "2026-07-09",
+    "days_since": -52,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Exploración NA",
+    "clase_counts": {
+      "Exploración NA": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 0,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 1,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-09",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Exploración NA",
+        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez Aura Bustamente",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
+    "comunidad": "Catalán del Refugio (Catalanes)",
+    "municipio": "San Diego de la Unión",
+    "total": 2,
+    "last_activity": "2026-07-01",
+    "first_activity": "2025-11-17",
+    "days_since": -44,
+    "acts_3m": 1,
+    "acts_6m": 1,
+    "primary_clase": "Filtros",
+    "clase_counts": {
+      "Filtros": 1,
+      "Educación": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 1,
+      "M&E": 0,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 1,
+      "EA": 0
+    },
+    "partners": [
+      "Coenlavis"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-07-01",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Taller de inauguración de cisternas",
+        "facilitador": "COENLAVIS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "Coenlavis",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/g8NHRzJKz6eNnVtD9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-11-17",
+        "categoria": "Capacitación técnica - Entrega de Filtro",
+        "clase": "Filtros",
+        "notas": "Enterga de 35 filtros a personas que forman parte del grupo de SECOPA, COENLAVIS, comunidades de; Catalan, el Ranchito, garabtillo",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez",
+        "personas": 35,
+        "fase": "",
+        "item": "",
+        "colaborador": "Coenlavis",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/FdkwEZAfae3UNPXw8"
+          }
+        ]
       }
     ]
   },
@@ -12411,76 +12575,6 @@
           {
             "tipo": "foto",
             "url": "https://photos.app.goo.gl/4dyvNY5EwA6rrkZPA"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "comunidad": "Estancia de Canal",
-    "municipio": "San Miguel de Allende",
-    "total": 2,
-    "last_activity": "2024-06-08",
-    "first_activity": "2024-05-25",
-    "days_since": 709,
-    "acts_3m": 0,
-    "acts_6m": 0,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 2
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 0,
-      "M&E": 0,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 2,
-      "EA": 0
-    },
-    "partners": [
-      "Bill Wilkinson"
-    ],
-    "funders": [
-      "Bill Wilkinson",
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2024-06-08",
-        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "instalacion tecnica de SCAll",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 3,
-        "fase": "",
-        "item": "",
-        "colaborador": "Bill Wilkinson",
-        "links": []
-      },
-      {
-        "fecha": "2024-05-25",
-        "categoria": "Capacitación técnica - SCALL (Plástico - 5,000L)",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Capacitacion tecnica a grupo de madres de familia de la comuniadad y personas de organizacion comunitaria",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 13,
-        "fase": "",
-        "item": "",
-        "colaborador": "Bill Wilkinson",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.google.com/u/1/album/AF1QipMrh2tujB_w8ooxPd7zb6mObZKnUw9S_t9sKNWr"
           }
         ]
       }
