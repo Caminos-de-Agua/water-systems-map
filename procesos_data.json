@@ -8542,7 +8542,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -9402,6 +9402,7 @@
       "EA": 6
     },
     "partners": [
+      "CUVAPAS",
       "Rama de agua segura"
     ],
     "funders": [
@@ -9496,7 +9497,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -9978,7 +9979,7 @@
         "personas": 44,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -11632,7 +11633,9 @@
       "Capacitación": 1,
       "EA": 0
     },
-    "partners": [],
+    "partners": [
+      "Administración Municipal de SDU"
+    ],
     "funders": [
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
@@ -11647,7 +11650,7 @@
         "personas": 34,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -11720,7 +11723,7 @@
         "personas": 15,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -11738,7 +11741,7 @@
         "personas": 12,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -11802,7 +11805,7 @@
         "personas": 20,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -11820,7 +11823,7 @@
         "personas": 15,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -11884,7 +11887,7 @@
         "personas": 36,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -11902,7 +11905,7 @@
         "personas": 18,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12041,7 +12044,9 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
+    "partners": [
+      "Administración Municipal de SDU"
+    ],
     "funders": [
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
@@ -12056,7 +12061,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": []
       }
     ]
@@ -12090,8 +12095,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-27",
@@ -12103,7 +12112,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12137,8 +12146,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-27",
@@ -12150,7 +12163,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12184,8 +12197,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-25",
@@ -12197,7 +12214,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12215,7 +12232,7 @@
         "personas": 10,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12249,8 +12266,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-25",
@@ -12262,7 +12283,7 @@
         "personas": null,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12301,8 +12322,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-20",
@@ -12314,7 +12339,7 @@
         "personas": 16,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12332,7 +12357,7 @@
         "personas": 10,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12366,8 +12391,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-20",
@@ -12379,7 +12408,7 @@
         "personas": 16,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12418,8 +12447,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-20",
@@ -12431,7 +12464,7 @@
         "personas": 6,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12470,8 +12503,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-18",
@@ -12483,7 +12520,7 @@
         "personas": 6,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12522,8 +12559,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-13",
@@ -12535,7 +12576,7 @@
         "personas": 17,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12553,7 +12594,7 @@
         "personas": 10,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12587,8 +12628,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-13",
@@ -12600,7 +12645,7 @@
         "personas": 24,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12618,7 +12663,7 @@
         "personas": 2,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12652,8 +12697,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-13",
@@ -12665,7 +12714,7 @@
         "personas": 19,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12683,7 +12732,7 @@
         "personas": 2,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12717,8 +12766,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-11",
@@ -12730,7 +12783,7 @@
         "personas": 3,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12769,8 +12822,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-07",
@@ -12782,7 +12839,7 @@
         "personas": 16,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12804,7 +12861,7 @@
         "personas": 3,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -12838,8 +12895,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-07",
@@ -12851,7 +12912,7 @@
         "personas": 23,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12890,8 +12951,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-07",
@@ -12903,7 +12968,7 @@
         "personas": 4,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12942,8 +13007,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-05",
@@ -12955,7 +13024,7 @@
         "personas": 20,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -12994,8 +13063,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-06-05",
@@ -13007,7 +13080,7 @@
         "personas": 14,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -13046,8 +13119,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-05-30",
@@ -13059,7 +13136,7 @@
         "personas": 7,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -13077,7 +13154,7 @@
         "personas": 10,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
@@ -13111,8 +13188,12 @@
       "Capacitación": 0,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "CUVAPAS"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-05-30",
@@ -13124,7 +13205,7 @@
         "personas": 8,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "CUVAPAS",
         "links": [
           {
             "tipo": "foto",
@@ -13676,7 +13757,9 @@
       "Capacitación": 1,
       "EA": 0
     },
-    "partners": [],
+    "partners": [
+      "Administración Municipal de SDU"
+    ],
     "funders": [
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
@@ -13691,7 +13774,7 @@
         "personas": 19,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14099,8 +14182,12 @@
       "Capacitación": 2,
       "EA": 0
     },
-    "partners": [],
-    "funders": [],
+    "partners": [
+      "Administración Municipal de SDU"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
     "log": [
       {
         "fecha": "2024-02-28",
@@ -14112,7 +14199,7 @@
         "personas": 20,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14130,7 +14217,7 @@
         "personas": 11,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": []
       },
       {
@@ -14143,7 +14230,7 @@
         "personas": 18,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14161,7 +14248,7 @@
         "personas": 20,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14179,7 +14266,7 @@
         "personas": 12,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14197,7 +14284,7 @@
         "personas": 14,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": []
       },
       {
@@ -14210,7 +14297,7 @@
         "personas": 14,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": []
       },
       {
@@ -14223,7 +14310,7 @@
         "personas": 12,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": []
       },
       {
@@ -14236,7 +14323,7 @@
         "personas": 16,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14254,7 +14341,7 @@
         "personas": 4,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": []
       },
       {
@@ -14267,7 +14354,7 @@
         "personas": 19,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14285,7 +14372,7 @@
         "personas": 16,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14303,7 +14390,7 @@
         "personas": 15,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
@@ -14321,7 +14408,7 @@
         "personas": 19,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": []
       },
       {
@@ -14334,7 +14421,7 @@
         "personas": 17,
         "fase": "",
         "item": "",
-        "colaborador": "",
+        "colaborador": "Administración Municipal de SDU",
         "links": [
           {
             "tipo": "foto",
