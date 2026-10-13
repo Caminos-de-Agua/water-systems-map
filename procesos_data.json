@@ -2,18 +2,18 @@
   {
     "comunidad": "Alonso Yáñez",
     "municipio": "San Miguel de Allende",
-    "total": 325,
-    "last_activity": "2026-09-29",
+    "total": 326,
+    "last_activity": "2026-10-10",
     "first_activity": "2023-05-11",
-    "days_since": -134,
-    "acts_3m": 24,
-    "acts_6m": 26,
+    "days_since": -145,
+    "acts_3m": 25,
+    "acts_6m": 27,
     "primary_clase": "Nuestra Agua / STAS",
     "clase_counts": {
-      "Nuestra Agua / STAS": 324,
+      "Nuestra Agua / STAS": 325,
       "Vinculación": 1
     },
-    "latest_stas_phase": "Uso y Apropriación",
+    "latest_stas_phase": "Otro",
     "cats": {
       "STAS Social": 162,
       "STAS Técnico": 79,
@@ -38,6 +38,19 @@
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
     "log": [
+      {
+        "fecha": "2026-10-10",
+        "categoria": "Red Nuestra Agua",
+        "clase": "Nuestra Agua / STAS",
+        "notas": "2do Encuentro para explorar la red",
+        "facilitador": "Ana",
+        "acompanantes": "Saul, Fatima",
+        "personas": null,
+        "fase": "Otro",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-09-29",
         "categoria": "STAS - Técnico",
