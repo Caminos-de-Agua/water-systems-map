@@ -4376,16 +4376,16 @@
   {
     "comunidad": "Paredones",
     "municipio": "Dolores Hidalgo",
-    "total": 3,
-    "last_activity": "2026-09-24",
+    "total": 4,
+    "last_activity": "2026-10-08",
     "first_activity": "2026-07-09",
-    "days_since": -129,
-    "acts_3m": 3,
-    "acts_6m": 3,
+    "days_since": -143,
+    "acts_3m": 4,
+    "acts_6m": 4,
     "primary_clase": "Cosecha de Agua de Lluvia",
     "clase_counts": {
       "Exploración NA": 1,
-      "Cosecha de Agua de Lluvia": 2
+      "Cosecha de Agua de Lluvia": 3
     },
     "latest_stas_phase": "",
     "cats": {
@@ -4397,7 +4397,7 @@
       "M&E": 1,
       "Seg. Tec.": 0,
       "Reunión AEA": 0,
-      "Grupo Com.": 1,
+      "Grupo Com.": 2,
       "Expl. NA": 0,
       "Monitoreo": 0,
       "Capacitación": 0,
@@ -4408,6 +4408,19 @@
       "FGRA - Fundación Gonzalo Río Arronte"
     ],
     "log": [
+      {
+        "fecha": "2026-10-08",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Taller sobre cuenca y territorio dentro de los acuaerdos \nde colaboracion para la implementacion de scalls.",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 20,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
       {
         "fecha": "2026-09-24",
         "categoria": "Visita M&E",
