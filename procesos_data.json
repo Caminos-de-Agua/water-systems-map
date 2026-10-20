@@ -4405,6 +4405,497 @@
     ]
   },
   {
+    "comunidad": "San Cayetano",
+    "municipio": "San Luis de la Paz",
+    "total": 26,
+    "last_activity": "2026-10-10",
+    "first_activity": "2024-06-27",
+    "days_since": -145,
+    "acts_3m": 13,
+    "acts_6m": 15,
+    "primary_clase": "Educación",
+    "clase_counts": {
+      "Cosecha de Agua de Lluvia": 1,
+      "Sanitarios Secos": 6,
+      "Educación": 16,
+      "Vinculación": 2,
+      "Filtros": 1
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 4,
+      "M&E": 1,
+      "Seg. Tec.": 3,
+      "Reunión AEA": 5,
+      "Grupo Com.": 0,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 5
+    },
+    "partners": [
+      "CUVAPAS",
+      "Centro Comunitario San Cayetano",
+      "Hermandad de la cuenca",
+      "Inana"
+    ],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-10-10",
+        "categoria": "Estrategias de Recambio",
+        "clase": "Filtros",
+        "notas": "Platica de estrategias",
+        "facilitador": "María José",
+        "acompanantes": "",
+        "personas": 4,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2026-06-16",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Seguimiento del proyecto, planeación de construcción de 45 cisternas de 12,000 L, Coordinación del Foro encuentro y recapitulación para la visión de continuidad a 3 años desde su organización",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/9ygRfhkZfQTHuU9QA"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1L9HCrmZyS3NLZlTHij-9BaTOHZjpV05Y/edit"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-21",
+        "categoria": "Reunión de la Hermandad de la Cuenca",
+        "clase": "Vinculación",
+        "notas": "Reunión del Grupo Motor para actualización de la visión de la FGRA tras el encuentro nacional de donatarias y para primer lance de construir la vision de continuidad.",
+        "facilitador": "Casilda",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "Hermandad de la cuenca",
+        "links": []
+      },
+      {
+        "fecha": "2026-05-18",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 2 con maestras del territorio",
+        "facilitador": "Raquel",
+        "acompanantes": "",
+        "personas": 18,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ZmPGXsXYLfhBNGnE8"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?tab=t.0"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-17",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 7",
+        "facilitador": "Raquel",
+        "acompanantes": "",
+        "personas": 46,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/h68JuzvBSB7prexw5"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-05-16",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 7",
+        "facilitador": "Raquel",
+        "acompanantes": "",
+        "personas": 48,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/h68JuzvBSB7prexw5"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-29",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Educación",
+        "notas": "Sesión de la rama de Sanitarios secos de la escuela del agua para transparentar rutas de gestión y activar sanitario. Inauguración de 26 sanitarios",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 50,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/SyRXU8F9rySzBn8W7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-04-14",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Educación",
+        "notas": "Seguimiento y motivación",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 36,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2026-04-07",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Capacitación técnica para construcción de una cisterna de 52,000 litros de placas, con apoyo de Isla Urbana. Participación de la rama de Agua segura de la Escuela del Agua",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "Centro Comunitario San Cayetano",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/fXGyNwobmurqqpmv5"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-27",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 6",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 47,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ticUo8qYcoGBYYLM9"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/1LQ2r9GAjSQPS94HuKnZfaoi7pOMFpkh-aDMBS7U3kS4/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-26",
+        "categoria": "EA-Encuentros de aprendizaje",
+        "clase": "Educación",
+        "notas": "Encuentro 6",
+        "facilitador": "Ana",
+        "acompanantes": "",
+        "personas": 47,
+        "fase": "",
+        "item": "",
+        "colaborador": "Inana",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/ticUo8qYcoGBYYLM9"
+          },
+          {
+            "tipo": "doc",
+            "url": "https://docs.google.com/document/d/1LQ2r9GAjSQPS94HuKnZfaoi7pOMFpkh-aDMBS7U3kS4/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-03-26",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Educación",
+        "notas": "Taller Reunión para tomar acuerdos con representantes de 8 comunidades",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 19,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2026-03-12",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Seguimiento del proyecto y planeación de las construcción de cisternas de 12,000 litros, incluyendo la de la Escuela Primaria. Intencionando circulo de palabra de mujeres.",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "Marta, Casilda, Yare, Erika, Luz",
+        "personas": 5,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2026-02-01",
+        "categoria": "Reunión de la Hermandad de la Cuenca",
+        "clase": "Vinculación",
+        "notas": "Retiro anual con revision colectiva",
+        "facilitador": "",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-01-20",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Educación",
+        "notas": "CUVAPAS reactiva sus comités",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 50,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/9aCwAgHsX4b7tDxi9"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-11-08",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Sanitarios Secos",
+        "notas": "Reunión de seguimiento Sanitarios Secos. Benenficiarias y albañiles.",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2025-11-06",
+        "categoria": "Reunión de la Hermandad de la Cuenca",
+        "clase": "Educación",
+        "notas": "Varios temas. Intencionar retiro anual en 2026",
+        "facilitador": "",
+        "acompanantes": "Facilitó Juan Carlos Zesati.",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "minuta",
+            "url": "https://drive.google.com/file/d/1jQeuoSzKf2vs9HNXje0yAZRSPTplYPa3/view?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-30",
+        "categoria": "Taller",
+        "clase": "Educación",
+        "notas": "Taller de uso y mantenimiento de Sanitarios secos",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 13,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/hMYyMKaDGsU7CK466"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-10-22",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Sanitarios Secos",
+        "notas": "Reunión para coordinar herrero y albañiles en el proceso de los sanitarios secos en construcción",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2025-10-08",
+        "categoria": "Seguimiento a tecnologías",
+        "clase": "Sanitarios Secos",
+        "notas": "Visita a sanitarios secos en proceso de construcción",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/e9zbpCrSSM3yMTuW8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-25",
+        "categoria": "Reunión de seguimiento AEA",
+        "clase": "Educación",
+        "notas": "Varios asuntos de seguimiento del proyecto, específicamente planear la implementación de los siguientes 10 sanitarios secos y actualizaciones del proceso",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "Alonso, Marta, Luz, Yare, Saul, Cas",
+        "personas": 6,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/eG9oojf1FokvAPJR7"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-09-04",
+        "categoria": "Reunión de la Hermandad de la Cuenca",
+        "clase": "Educación",
+        "notas": "Varios temas. Una reunión con vinculaciones intencionadas desde procesos de implementación de SCALLs en dos comunidades de San Miguel de Allende con Caminos de Agua. Por primera vez asisten dos jóvenes respresentando la Escuela del Agua.",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": 25,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/8bhYWKdasfJmdcvW8"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1jhpD3WGmsE3lAZJdypg1Rj6S_5UfS2JR/edit"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-08-29",
+        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
+        "clase": "Sanitarios Secos",
+        "notas": "Reunión de comités de Sanitarios Secos",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      },
+      {
+        "fecha": "2025-07-19",
+        "categoria": "Taller",
+        "clase": "Sanitarios Secos",
+        "notas": "Primer taller técnico para albañiles de la primera etapa de construcción de 16 sanitarios secos",
+        "facilitador": "Casilda",
+        "acompanantes": "Omar",
+        "personas": 30,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/yHSf2VYJvFybvwtu8"
+          }
+        ]
+      },
+      {
+        "fecha": "2025-07-12",
+        "categoria": "Taller",
+        "clase": "Sanitarios Secos",
+        "notas": "Primer taller educativo con las 26 usuarias de nuevos sanitarios secos",
+        "facilitador": "CUVAPAS",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/mBv9zBGxPNzGNSnF8"
+          }
+        ]
+      },
+      {
+        "fecha": "2024-06-27",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Registro de SCALL",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "CUVAPAS",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "San Elías",
     "municipio": "Dolores Hidalgo",
     "total": 106,
@@ -8338,483 +8829,6 @@
         "fase": "",
         "item": "",
         "colaborador": "Administración Municipal de SDU",
-        "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "San Cayetano",
-    "municipio": "San Luis de la Paz",
-    "total": 25,
-    "last_activity": "2026-06-16",
-    "first_activity": "2024-06-27",
-    "days_since": -29,
-    "acts_3m": 12,
-    "acts_6m": 14,
-    "primary_clase": "Educación",
-    "clase_counts": {
-      "Cosecha de Agua de Lluvia": 1,
-      "Sanitarios Secos": 6,
-      "Educación": 16,
-      "Vinculación": 2
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 4,
-      "M&E": 1,
-      "Seg. Tec.": 3,
-      "Reunión AEA": 5,
-      "Grupo Com.": 0,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 5
-    },
-    "partners": [
-      "CUVAPAS",
-      "Centro Comunitario San Cayetano",
-      "Hermandad de la cuenca",
-      "Inana"
-    ],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-06-16",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Educación",
-        "notas": "Seguimiento del proyecto, planeación de construcción de 45 cisternas de 12,000 L, Coordinación del Foro encuentro y recapitulación para la visión de continuidad a 3 años desde su organización",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/9ygRfhkZfQTHuU9QA"
-          },
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1L9HCrmZyS3NLZlTHij-9BaTOHZjpV05Y/edit"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-05-21",
-        "categoria": "Reunión de la Hermandad de la Cuenca",
-        "clase": "Vinculación",
-        "notas": "Reunión del Grupo Motor para actualización de la visión de la FGRA tras el encuentro nacional de donatarias y para primer lance de construir la vision de continuidad.",
-        "facilitador": "Casilda",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "Hermandad de la cuenca",
-        "links": []
-      },
-      {
-        "fecha": "2026-05-18",
-        "categoria": "EA-Encuentros de aprendizaje",
-        "clase": "Educación",
-        "notas": "Encuentro 2 con maestras del territorio",
-        "facilitador": "Raquel",
-        "acompanantes": "",
-        "personas": 18,
-        "fase": "",
-        "item": "",
-        "colaborador": "Inana",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/ZmPGXsXYLfhBNGnE8"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?tab=t.0"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-05-17",
-        "categoria": "EA-Encuentros de aprendizaje",
-        "clase": "Educación",
-        "notas": "Encuentro 7",
-        "facilitador": "Raquel",
-        "acompanantes": "",
-        "personas": 46,
-        "fase": "",
-        "item": "",
-        "colaborador": "Inana",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/h68JuzvBSB7prexw5"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?usp=sharing"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-05-16",
-        "categoria": "EA-Encuentros de aprendizaje",
-        "clase": "Educación",
-        "notas": "Encuentro 7",
-        "facilitador": "Raquel",
-        "acompanantes": "",
-        "personas": 48,
-        "fase": "",
-        "item": "",
-        "colaborador": "Inana",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/h68JuzvBSB7prexw5"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://docs.google.com/document/d/11o2sEACea5c76ZIuf8DVJi-yYsKAJ03q9HbwbNElsPw/edit?usp=sharing"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-04-29",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Educación",
-        "notas": "Sesión de la rama de Sanitarios secos de la escuela del agua para transparentar rutas de gestión y activar sanitario. Inauguración de 26 sanitarios",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 50,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/SyRXU8F9rySzBn8W7"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-04-14",
-        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
-        "clase": "Educación",
-        "notas": "Seguimiento y motivación",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 36,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2026-04-07",
-        "categoria": "Taller",
-        "clase": "Educación",
-        "notas": "Capacitación técnica para construcción de una cisterna de 52,000 litros de placas, con apoyo de Isla Urbana. Participación de la rama de Agua segura de la Escuela del Agua",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "Centro Comunitario San Cayetano",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/fXGyNwobmurqqpmv5"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-03-27",
-        "categoria": "EA-Encuentros de aprendizaje",
-        "clase": "Educación",
-        "notas": "Encuentro 6",
-        "facilitador": "Ana",
-        "acompanantes": "",
-        "personas": 47,
-        "fase": "",
-        "item": "",
-        "colaborador": "Inana",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/ticUo8qYcoGBYYLM9"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://docs.google.com/document/d/1LQ2r9GAjSQPS94HuKnZfaoi7pOMFpkh-aDMBS7U3kS4/edit?usp=sharing"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-03-26",
-        "categoria": "EA-Encuentros de aprendizaje",
-        "clase": "Educación",
-        "notas": "Encuentro 6",
-        "facilitador": "Ana",
-        "acompanantes": "",
-        "personas": 47,
-        "fase": "",
-        "item": "",
-        "colaborador": "Inana",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/ticUo8qYcoGBYYLM9"
-          },
-          {
-            "tipo": "doc",
-            "url": "https://docs.google.com/document/d/1LQ2r9GAjSQPS94HuKnZfaoi7pOMFpkh-aDMBS7U3kS4/edit?usp=sharing"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-03-26",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Educación",
-        "notas": "Taller Reunión para tomar acuerdos con representantes de 8 comunidades",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 19,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2026-03-12",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Educación",
-        "notas": "Seguimiento del proyecto y planeación de las construcción de cisternas de 12,000 litros, incluyendo la de la Escuela Primaria. Intencionando circulo de palabra de mujeres.",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "Marta, Casilda, Yare, Erika, Luz",
-        "personas": 5,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2026-02-01",
-        "categoria": "Reunión de la Hermandad de la Cuenca",
-        "clase": "Vinculación",
-        "notas": "Retiro anual con revision colectiva",
-        "facilitador": "",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-01-20",
-        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
-        "clase": "Educación",
-        "notas": "CUVAPAS reactiva sus comités",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 50,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/9aCwAgHsX4b7tDxi9"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-11-08",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Sanitarios Secos",
-        "notas": "Reunión de seguimiento Sanitarios Secos. Benenficiarias y albañiles.",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2025-11-06",
-        "categoria": "Reunión de la Hermandad de la Cuenca",
-        "clase": "Educación",
-        "notas": "Varios temas. Intencionar retiro anual en 2026",
-        "facilitador": "",
-        "acompanantes": "Facilitó Juan Carlos Zesati.",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "minuta",
-            "url": "https://drive.google.com/file/d/1jQeuoSzKf2vs9HNXje0yAZRSPTplYPa3/view?usp=sharing"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-30",
-        "categoria": "Taller",
-        "clase": "Educación",
-        "notas": "Taller de uso y mantenimiento de Sanitarios secos",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 13,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/hMYyMKaDGsU7CK466"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-10-22",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Sanitarios Secos",
-        "notas": "Reunión para coordinar herrero y albañiles en el proceso de los sanitarios secos en construcción",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2025-10-08",
-        "categoria": "Seguimiento a tecnologías",
-        "clase": "Sanitarios Secos",
-        "notas": "Visita a sanitarios secos en proceso de construcción",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/e9zbpCrSSM3yMTuW8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-25",
-        "categoria": "Reunión de seguimiento AEA",
-        "clase": "Educación",
-        "notas": "Varios asuntos de seguimiento del proyecto, específicamente planear la implementación de los siguientes 10 sanitarios secos y actualizaciones del proceso",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "Alonso, Marta, Luz, Yare, Saul, Cas",
-        "personas": 6,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/eG9oojf1FokvAPJR7"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-09-04",
-        "categoria": "Reunión de la Hermandad de la Cuenca",
-        "clase": "Educación",
-        "notas": "Varios temas. Una reunión con vinculaciones intencionadas desde procesos de implementación de SCALLs en dos comunidades de San Miguel de Allende con Caminos de Agua. Por primera vez asisten dos jóvenes respresentando la Escuela del Agua.",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": 25,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/8bhYWKdasfJmdcvW8"
-          },
-          {
-            "tipo": "minuta",
-            "url": "https://docs.google.com/document/d/1jhpD3WGmsE3lAZJdypg1Rj6S_5UfS2JR/edit"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-08-29",
-        "categoria": "Reunión de Comités_Colaboradoras comunitarias",
-        "clase": "Sanitarios Secos",
-        "notas": "Reunión de comités de Sanitarios Secos",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": []
-      },
-      {
-        "fecha": "2025-07-19",
-        "categoria": "Taller",
-        "clase": "Sanitarios Secos",
-        "notas": "Primer taller técnico para albañiles de la primera etapa de construcción de 16 sanitarios secos",
-        "facilitador": "Casilda",
-        "acompanantes": "Omar",
-        "personas": 30,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/yHSf2VYJvFybvwtu8"
-          }
-        ]
-      },
-      {
-        "fecha": "2025-07-12",
-        "categoria": "Taller",
-        "clase": "Sanitarios Secos",
-        "notas": "Primer taller educativo con las 26 usuarias de nuevos sanitarios secos",
-        "facilitador": "CUVAPAS",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/mBv9zBGxPNzGNSnF8"
-          }
-        ]
-      },
-      {
-        "fecha": "2024-06-27",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Registro de SCALL",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "CUVAPAS",
         "links": []
       }
     ]
