@@ -1,5 +1,121 @@
 [
   {
+    "comunidad": "Paredones",
+    "municipio": "Dolores Hidalgo",
+    "total": 5,
+    "last_activity": "2026-11-12",
+    "first_activity": "2026-07-09",
+    "days_since": -178,
+    "acts_3m": 5,
+    "acts_6m": 5,
+    "primary_clase": "Cosecha de Agua de Lluvia",
+    "clase_counts": {
+      "Exploración NA": 1,
+      "Cosecha de Agua de Lluvia": 4
+    },
+    "latest_stas_phase": "",
+    "cats": {
+      "STAS Social": 0,
+      "STAS Técnico": 0,
+      "STAS Impl.": 0,
+      "STAS Estudio": 0,
+      "Taller": 2,
+      "M&E": 1,
+      "Seg. Tec.": 0,
+      "Reunión AEA": 0,
+      "Grupo Com.": 2,
+      "Expl. NA": 0,
+      "Monitoreo": 0,
+      "Capacitación": 0,
+      "EA": 0
+    },
+    "partners": [],
+    "funders": [
+      "FGRA - Fundación Gonzalo Río Arronte"
+    ],
+    "log": [
+      {
+        "fecha": "2026-11-12",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión 3 Contaminantes e impactos a la salud; F y As. grupo de paredones",
+        "facilitador": "Omar",
+        "acompanantes": "María José Valle Avila",
+        "personas": 21,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/p9kQTVV8UUciXyX68"
+          },
+          {
+            "tipo": "minuta",
+            "url": "https://docs.google.com/document/d/1szvfC-V8N-9LE6lYTMX4ici-hkLPCGzix0DfbfatQUQ/edit?usp=sharing"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-10-08",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Taller sobre cuenca y territorio dentro de los acuaerdos \nde colaboracion para la implementacion de scalls.",
+        "facilitador": "Saúl",
+        "acompanantes": "",
+        "personas": 20,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-09-24",
+        "categoria": "Visita M&E",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Aplicaer encuestas de Líneas Base, M&E, en la comunidad de Paredones DH",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": 21,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      },
+      {
+        "fecha": "2026-09-10",
+        "categoria": "Taller",
+        "clase": "Cosecha de Agua de Lluvia",
+        "notas": "Sesión 1. Acuerdos de convivenci y compromisos del grupo",
+        "facilitador": "Omar",
+        "acompanantes": "",
+        "personas": null,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": [
+          {
+            "tipo": "foto",
+            "url": "https://photos.app.goo.gl/4E3gfLNFmrmKSGRh7"
+          }
+        ]
+      },
+      {
+        "fecha": "2026-07-09",
+        "categoria": "Reunión de grupo comunitario",
+        "clase": "Exploración NA",
+        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
+        "facilitador": "Omar",
+        "acompanantes": "Saúl Juarez Aura Bustamente",
+        "personas": 7,
+        "fase": "",
+        "item": "",
+        "colaborador": "",
+        "links": []
+      }
+    ]
+  },
+  {
     "comunidad": "Alonso Yáñez",
     "municipio": "San Miguel de Allende",
     "total": 333,
@@ -6524,100 +6640,6 @@
         "fase": "",
         "item": "",
         "colaborador": "CUVAPAS",
-        "links": []
-      }
-    ]
-  },
-  {
-    "comunidad": "Paredones",
-    "municipio": "Dolores Hidalgo",
-    "total": 4,
-    "last_activity": "2026-10-08",
-    "first_activity": "2026-07-09",
-    "days_since": -143,
-    "acts_3m": 4,
-    "acts_6m": 4,
-    "primary_clase": "Cosecha de Agua de Lluvia",
-    "clase_counts": {
-      "Exploración NA": 1,
-      "Cosecha de Agua de Lluvia": 3
-    },
-    "latest_stas_phase": "",
-    "cats": {
-      "STAS Social": 0,
-      "STAS Técnico": 0,
-      "STAS Impl.": 0,
-      "STAS Estudio": 0,
-      "Taller": 1,
-      "M&E": 1,
-      "Seg. Tec.": 0,
-      "Reunión AEA": 0,
-      "Grupo Com.": 2,
-      "Expl. NA": 0,
-      "Monitoreo": 0,
-      "Capacitación": 0,
-      "EA": 0
-    },
-    "partners": [],
-    "funders": [
-      "FGRA - Fundación Gonzalo Río Arronte"
-    ],
-    "log": [
-      {
-        "fecha": "2026-10-08",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Taller sobre cuenca y territorio dentro de los acuaerdos \nde colaboracion para la implementacion de scalls.",
-        "facilitador": "Saúl",
-        "acompanantes": "",
-        "personas": 20,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-09-24",
-        "categoria": "Visita M&E",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Aplicaer encuestas de Líneas Base, M&E, en la comunidad de Paredones DH",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": 21,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": []
-      },
-      {
-        "fecha": "2026-09-10",
-        "categoria": "Taller",
-        "clase": "Cosecha de Agua de Lluvia",
-        "notas": "Sesión 1. Acuerdos de convivenci y compromisos del grupo",
-        "facilitador": "Omar",
-        "acompanantes": "",
-        "personas": null,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
-        "links": [
-          {
-            "tipo": "foto",
-            "url": "https://photos.app.goo.gl/4E3gfLNFmrmKSGRh7"
-          }
-        ]
-      },
-      {
-        "fecha": "2026-07-09",
-        "categoria": "Reunión de grupo comunitario",
-        "clase": "Exploración NA",
-        "notas": "Comparti resultados de calida de agua, y compartir ofrecimientos de alternativas de agua segura",
-        "facilitador": "Omar",
-        "acompanantes": "Saúl Juarez Aura Bustamente",
-        "personas": 7,
-        "fase": "",
-        "item": "",
-        "colaborador": "",
         "links": []
       }
     ]
